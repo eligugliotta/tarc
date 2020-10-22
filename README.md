@@ -1,6 +1,6 @@
 ## Tunisian Arabish Corpus (TArC)
 
-TArC has being desined as a flexible and multi-purpose corpus in order to be a useful support for different types of analyses, computational and linguistics, as well as for NLP tools training. 
+TArC has being designed as a flexible and multi-purpose open corpus in order to be a useful support for different types of analyses, computational and linguistics, as well as for NLP tools training. 
 
 Arabish, also known as *Arabizi*, is a spontaneous encoding of Arabic dialects in Latin characters and *arithmographs* (numbers used as letters). This **code-system** was developed by Arabic-speaking users of social media in order to facilitate the writing in the Computer Mediated Communication (CMC) and text messaging informal frameworks [[2]](#2).
 
@@ -16,13 +16,15 @@ Arabish, also known as *Arabizi*, is a spontaneous encoding of Arabic dialects i
 
 ### *Overview of TArC*
 
+TArC is a snapshot of the Arabish use in different contexts of the web, during a period of ten years, until 2020. 
+
 TArC texts have been automatically extracted from social media for an ammount of 43 302 tokens. Each text has been extracted together with the user's **metadata** when publically shared. 
 The metadata consists in: 
 * **City of provenience**
 * **Age range**: [0-25],[25-35],[35-50],[50-70]
 * **Gender**: M/F 
 
-The Tunisian Arabish texts of TArC have been provided of various annotation levels semi-automatically produced by a [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system): 
+The Tunisian Arabish texts of TArC have been provided with various annotation levels semi-automatically produced by a [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system): 
 
 * Token classification into *arabizi*, *foreign* and *emotag*. 
 * Encoding in Arabic Script of the tokens classified as *arabizi* (following the CODA convention [[4]](#4)).
@@ -47,7 +49,7 @@ TArC numbers:
 The classification task consists in categorizing the text at the word level into three classes: *arabizi*, *foreign* and *emotag*. The first class is for Tunisian words, including loanwords from Modern Standard Arabic or acclimatized loans; the second one is used to classify code-mixing or code-switching elements; the latter is the label used for elements such as smiley or emoticons. This operation is preparatory to the second level of annotation, aka the *encoding in Arabic characters*.
 
 The token-level classification has been carried on through a RNN character-level model pre-trained on: 
-1.    [Hussem Ben Belgacem's French dictionary, consisting in 336 351 tokens](https://github.com/hbenbel/French-Dictionary)
+1.    [Hussem Ben Belgacem's French dictionary](https://github.com/hbenbel/French-Dictionary), consisting in 336 351 tokens
 2.    A Tunisian Arabish dictionary of 100 936 tokens, resulting from the merge of the following datasets: 
 * [The Tunizi Sentiment Analysis Tunisian Arabic Dataset](https://github.com/chaymafourati/TUNIZI-Sentiment-Analysis-Tunisian-Arabizi-Dataset) [[1]](#1)  
 * The TLD dataset of Arabish [[6]](#6)
@@ -78,14 +80,26 @@ The PoS annotation style follows the guidelines of the *Penn Arabic Treebank* (P
 ### *How to use TArC*
 
 It is possible to download TArC text files organized by genres: 
+
 * Forum texts: *forum.tab*
 * Social Network texts: *social.tab*
 * Blog texts: *blog.tab*
-* Rap lyrics texts: *rap.tab* 
+* Rap lyrics texts: *rap.tab* (forthcoming)
 
+Each file contains the header such as: 
+
+
+|data|arabish|code|words|token|pos|city|age|
+|:--:|:-----:|:--:|:---:|:---:|:-:|:--:|:-:|
+
+If you want to use this data with the [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system), you should remove the header. 
+
+Not al sentences are provided with all the metadata information. You can find '/' in place of the metadata, it means that the users didn't published this information. In some other cases you can find the string 'nan' in place of the metadata, it means that the information has not yet been registered in the corpus file and that a new updated file will be uploaded soon.  
 <br />
 
-### *Licence*
+### *License*
+
+Attribution 4.0 International (CC BY 4.0) 
 
 <br />
 
