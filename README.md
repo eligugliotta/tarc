@@ -130,7 +130,7 @@ Fourati, C. et al., (2020). TUNIZI: a Tunisian Arabizi sentiment analysis Datase
 Gugliotta, E. & Dinarelli, M. (2020, May). TArC: Incrementally and Semi-Automatically Collecting a Tunisian Arabish Corpus. *In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 6279-6286)*.
 
 <a id="3">[3]<a/>
-Gugliotta, E. et al., (2020). Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation. *Forthcoming*.  
+[Gugliotta, E. et al., (2020). Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation. *Forthcoming*.](https://www.aclweb.org/anthology/2020.lrec-1.770/)  
 
 <a id="4">[4]<a/>
 Habash, N. et al., (2012, May). Conventional Orthography for Dialectal Arabic. *In Proceedings of The Language Resources and Evaluation Conference (pp. 711-718)*.
