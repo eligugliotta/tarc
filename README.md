@@ -24,7 +24,7 @@ Arabish, also known as *Arabizi*, is a spontaneous encoding of Arabic dialects i
 
 TArC is a snapshot of the Arabish use in different web contexts, during a period of ten years, until 2020. 
 
-TArC texts have been  extracted from social media for an ammount of 43 313 tokens. Each text has been extracted together with the user's **metadata** when publically shared. 
+TArC texts have been  extracted from social media for an amount of 43 313 tokens. Each text has been extracted together with the user's **metadata** when publicly shared. 
 The metadata consists in: 
 * **The municipality of provenance**
 * **Age range**: [-25],[25-35],[35-50],[50+]
