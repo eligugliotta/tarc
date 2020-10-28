@@ -1,6 +1,6 @@
 ## Tunisian Arabish Corpus (TArC)
 
-TArC has being designed as a flexible and multi-purpose open corpus in order to be a useful support for different types of analyses: computational and linguistics, as well as for NLP tools training. 
+TArC has been designed as a flexible and multi-purpose open corpus in order to be a useful support for different types of analyses: computational and linguistics, as well as for NLP tools training. 
 
 Arabish, also known as *Arabizi*, is a spontaneous encoding of Arabic dialects in Latin characters and *arithmographs* (numbers used as letters). This **code-system** was developed by Arabic-speaking users of social media in order to facilitate the writing in the Computer Mediated Communication (CMC) and text messaging informal frameworks [[2]](#2).
 
@@ -16,15 +16,15 @@ Arabish, also known as *Arabizi*, is a spontaneous encoding of Arabic dialects i
 
 ### *Overview of TArC*
 
-TArC is a snapshot of the Arabish use in different contexts of the web, during a period of ten years, until 2020. 
+TArC is a snapshot of the Arabish use in different web contexts, during a period of ten years, until 2020. 
 
-TArC texts have been automatically extracted from social media for an ammount of 43 313 tokens. Each text has been extracted together with the user's **metadata** when publically shared. 
+TArC texts have been  extracted from social media for an ammount of 43 313 tokens. Each text has been extracted together with the user's **metadata** when publically shared. 
 The metadata consists in: 
 * **City of provenience**
 * **Age range**: [-25],[25-35],[35-50],[50+]
 * **Gender**: M/F 
 
-The Tunisian Arabish texts of TArC have been provided with various annotation levels semi-automatically produced by a [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system): 
+The TArC Tunisian Arabish texts have been provided with various annotation levels semi-automatically produced by a [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system): 
 
 * Token classification into *arabizi*, *foreign* and *emotag*. 
 * Encoding in Arabic Script of the tokens classified as *arabizi* (following the CODA convention [[4]](#4)).
@@ -66,7 +66,7 @@ The tokenization at string level consists in reducing each string to its compone
 <br />
 E.g.: “on the wall”, [ʕal'ħiːtˤ], ع+ال+حيط <= عالحيط
 
-The Part-of-Speech tagging is the morphosyntatic annotation of strings. It has been operated at both level: morphological and functional. The first one describes the morphological nature of each string element, while the second one describes the grammatical function of the whole string. 
+The Part-of-Speech tagging is the morphosyntatic annotation of strings. It has been operated at both levels: morphological and functional. The first one describes the morphological nature of each element of the string, while the second one describes the grammatical function of the whole string. 
 The PoS annotation style follows the guidelines of the *Penn Arabic Treebank* (PATB) [[5]](#5). 
 
 | *arabish* | *CODA* | *tokenization* | *POS*                    |*gloss*|
@@ -136,7 +136,7 @@ Gugliotta, E. et al., (2020). Multi-Task Sequence Prediction For Tunisian Arabiz
 Habash, N. et al., (2012, May). Conventional Orthography for Dialectal Arabic. *In Proceedings of The Language Resources and Evaluation Conference (pp. 711-718)*.
 
 <a id="5">[5]<a/>
-Maamouri, M. et al., (2009). *Penn Arabic Treebank guidelines v4.*.
+Maamouri, M. et al., (2009). *Penn Arabic Treebank guidelines v4.*
 
 <a id="6">[6]<a/>
 Younes, J., et al., (2015, June). Constructing linguistic resources for the Tunisian dialect using textual user-generated contents on the social web. *In International Conference on Web Engineering (pp. 3-14)*. Springer, Cham.
