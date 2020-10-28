@@ -1,5 +1,11 @@
 ## Tunisian Arabish Corpus (TArC)
 
+This repository describes and contains the corpus mentioned in the following papers: 
+
+* [Gugliotta, E. & Dinarelli, M. (2020, May). TArC: Incrementally and Semi-Automatically Collecting a Tunisian Arabish Corpus. In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 6279-6286).](https://www.aclweb.org/anthology/2020.lrec-1.770/)
+* [Gugliotta, E., & Dinarelli, M. (2020, June). TArC. Un corpus d'arabish tunisien. In Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 31e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). Volume 2: Traitement Automatique des Langues Naturelles (pp. 232-240). ATALA.](https://hal.archives-ouvertes.fr/hal-02784772/)
+* Gugliotta, E. et al., (2020). Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation. Forthcoming.
+
 TArC has been designed as a flexible and multi-purpose open corpus in order to be a useful support for different types of analyses: computational and linguistics, as well as for NLP tools training. 
 
 Arabish, also known as *Arabizi*, is a spontaneous encoding of Arabic dialects in Latin characters and *arithmographs* (numbers used as letters). This **code-system** was developed by Arabic-speaking users of social media in order to facilitate the writing in the Computer Mediated Communication (CMC) and text messaging informal frameworks [[2]](#2).
@@ -127,7 +133,7 @@ Please cite this work as:
 Fourati, C. et al., (2020). TUNIZI: a Tunisian Arabizi sentiment analysis Dataset. *arXiv preprint arXiv:2004.14303*.
 
 <a id="2">[2]<a/>
-[Gugliotta, E. & Dinarelli, M. (2020, May). TArC: Incrementally and Semi-Automatically Collecting a Tunisian Arabish Corpus. *In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 6279-6286)*.](https://www.aclweb.org/anthology/2020.lrec-1.770/)
+Gugliotta, E. & Dinarelli, M. (2020, May). TArC: Incrementally and Semi-Automatically Collecting a Tunisian Arabish Corpus. *In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 6279-6286)*.
 
 <a id="3">[3]<a/>
 Gugliotta, E. et al., (2020). Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation. *Forthcoming*. 
