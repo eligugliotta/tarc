@@ -1,6 +1,6 @@
 ## Tunisian Arabish Corpus (TArC)
 
-TArC has being designed as a flexible and multi-purpose open corpus in order to be a useful support for different types of analyses, computational and linguistics, as well as for NLP tools training. 
+TArC has being designed as a flexible and multi-purpose open corpus in order to be a useful support for different types of analyses: computational and linguistics, as well as for NLP tools training. 
 
 Arabish, also known as *Arabizi*, is a spontaneous encoding of Arabic dialects in Latin characters and *arithmographs* (numbers used as letters). This **code-system** was developed by Arabic-speaking users of social media in order to facilitate the writing in the Computer Mediated Communication (CMC) and text messaging informal frameworks [[2]](#2).
 
@@ -18,10 +18,10 @@ Arabish, also known as *Arabizi*, is a spontaneous encoding of Arabic dialects i
 
 TArC is a snapshot of the Arabish use in different contexts of the web, during a period of ten years, until 2020. 
 
-TArC texts have been automatically extracted from social media for an ammount of 43 302 tokens. Each text has been extracted together with the user's **metadata** when publically shared. 
+TArC texts have been automatically extracted from social media for an ammount of 43 313 tokens. Each text has been extracted together with the user's **metadata** when publically shared. 
 The metadata consists in: 
 * **City of provenience**
-* **Age range**: [0-25],[25-35],[35-50],[50-70]
+* **Age range**: [-25],[25-35],[35-50],[50+]
 * **Gender**: M/F 
 
 The Tunisian Arabish texts of TArC have been provided with various annotation levels semi-automatically produced by a [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system): 
@@ -35,18 +35,18 @@ TArC numbers:
 
 |               |**SENTENCES**|         |**WORDS**|         |
 |:--------------|:-----------:|:-------:|:-------:|:-------:|
-|**TOTAL**      |   4782      |         |  43 302 |         |
+|**TOTAL**      |   4790      |         |  43 313 |         |
 |               |             |*arabizi*|*foreign*|*emotag* |
-|Forum (11 909) | 756         |6039     |5856     |14       |
-|Social (16 044)| 3146        |11843    |3614     |587      |
-|Blog (7 005)   | 336         |5993     |669      |7        |
-|Rap (9 194)    | 514         |7735     |943      |2        |
+|Forum (11 909) | 756         |6016     |5880     |13       |
+|Social (16 055)| 3154        |11842    |3615     |598      |
+|Blog (6 669)   | 366         |5982     |680      |7        |
+|Rap (8 680)    | 514         |7735     |944      |2        |
 
 <br />
 
 ### *Classification* 
 <!-- classificationRepositiryWhenThereWillBeOne -->
-The classification task consists in categorizing the text at the word level into three classes: *arabizi*, *foreign* and *emotag*. The first class is for Tunisian words, including loanwords from Modern Standard Arabic or acclimatized loans; the second one is used to classify code-mixing or code-switching elements; the latter is the label used for elements such as smiley or emoticons. This operation is preparatory to the second level of annotation, aka the *encoding in Arabic characters*.
+The classification task consists in categorizing the text at the token level into three classes: *arabizi*, *foreign* and *emotag*. The first class is for Tunisian and Modern Standard Arabic tokens; the second one is used to classify non-Arabic code-mixing or code-switching elements; the latter is the label used for elements such as smiley or emoticons. This operation is preparatory to the second level of annotation, aka the *encoding in Arabic characters*.
 
 The token-level classification has been carried on through a RNN character-level model pre-trained on: 
 1.    [Hussem Ben Belgacem's French dictionary](https://github.com/hbenbel/French-Dictionary), consisting in 336 351 tokens
@@ -54,7 +54,7 @@ The token-level classification has been carried on through a RNN character-level
 * [The Tunizi Sentiment Analysis Tunisian Arabic Dataset](https://github.com/chaymafourati/TUNIZI-Sentiment-Analysis-Tunisian-Arabizi-Dataset) [[1]](#1)  
 * The TLD dataset of Arabish [[6]](#6)
 
-The *emotag* dictionary it was formed by extracting smileys and emoticons from the Arabizi dictionary (2nd item).
+The *emotag* dictionary was built by extracting smileys and emoticons from the Arabizi dictionary (2nd item).
 Once the model was pre-trained on the above data, it has been possible to start an iterative procedure for TArC text classification. [[3]](#3) The model reached 97% of accuracy.   
 Each token classification has been manually checked. 
 
@@ -62,18 +62,18 @@ Each token classification has been manually checked.
 <br />
 
 ### *Tokenization and PoS tagging*
-The tokenization at word level consists in reducing each word to its morphological components, concatenated by the symbol +. Only those tokens classified as *arabizi* have been tokenized.
+The tokenization at string level consists in reducing each string to its components, concatenated by the symbol +. Only those tokens classified as *arabizi* have been tokenized.
 <br />
 E.g.: “on the wall”, [ʕal'ħiːtˤ], ع+ال+حيط <= عالحيط
 
-The Part-of-Speech tagging is the morphosyntatic annotation of the words. It has been operated at both level: morphological and functional. The first one describes the morphological nature of each word components, while the second one describes the word function in the sentence. 
+The Part-of-Speech tagging is the morphosyntatic annotation of strings. It has been operated at both level: morphological and functional. The first one describes the morphological nature of each string element, while the second one describes the grammatical function of the whole string. 
 The PoS annotation style follows the guidelines of the *Penn Arabic Treebank* (PATB) [[5]](#5). 
 
-| *arabish* | *CODA* | *tokenization* | *POS*                    |
-|:---------:|:------:|:--------------:|:------------------------:|
-| sa7a	    |	صحّة      |  صحّة       |[NOUN-NSUFF_FEM_SG]INTERJ |
-| w	        |	و    |    و           |CONJ                      |
-| bechfee	|بالشفى |ب+ال+شفى         |[PREP+DET+NOUN]INTERJ     |  
+| *arabish* | *CODA* | *tokenization* | *POS*                    |*gloss*|
+|:---------:|:------:|:--------------:|:------------------------:|:----:|
+| sa7a	    |	صحّة      |  صحّة       |[NOUN-NSUFF_FEM_SG]INTERJ | lit:health |
+| w	        |	و    |    و           |CONJ                      | and    |
+| bechfee	|بالشفى |ب+ال+شفى         |[PREP+DET+NOUN]INTERJ     |  lit:to your good health |
 
 <br />
 
@@ -83,7 +83,7 @@ It is possible to download TArC text files organized by genres:
 
 * Forum texts: *forum.tab*
 * Social Network texts: *social.tab*
-* Blog texts: *blog.tab*
+* Blog texts: *blog.tab* (forthcoming)
 * Rap lyrics texts: *rap.tab* (forthcoming)
 
 Each file contains the header such as: 
@@ -92,9 +92,9 @@ Each file contains the header such as:
 |data|arabish|code|words|token|pos|city|age|
 |:--:|:-----:|:--:|:---:|:---:|:-:|:--:|:-:|
 
-If you want to use this data with the [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system), you should remove the header. 
+If you want to use this data with the [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system), you should remove the header and run the Multi-Task system only with the **arabish** column. 
 
-Not al sentences are provided with all the metadata information. You can find '/' in place of the metadata, it means that the users didn't published this information. In some other cases you can find the string 'nan' in place of the metadata, it means that the information has not yet been registered in the corpus file and that a new updated file will be uploaded soon.  
+Not all sentences are provided with all the metadata information. You can find '/' in place of the metadata, it means that the users didn't published this information. In some other cases you can find the string 'nan' in place of the metadata, it means that the information has not yet been registered in the corpus file and that a new updated file will be uploaded soon.  
 <br />
 
 ### *License*
@@ -107,15 +107,17 @@ Attribution 4.0 International (CC BY 4.0)
 
 Please cite this work as: 
 
----
-@inproceedings{gugliotta-etal-wanlp2020, \
-title={Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation}, \
-author={Gugliotta, Elisa and Dinarelli, Marco and Kraif, Olivier}, \
-booktitle={The Fifth Arabic Natural Language Processing Workshop (WANLP)}, \
-year={2020},\
-}
----
----
+***
+
+    @inproceedings{gugliotta-etal-wanlp2020, 
+        title={Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation}, 
+        author={Gugliotta, Elisa and Dinarelli, Marco and Kraif, Olivier}, 
+        booktitle={The Fifth Arabic Natural Language Processing Workshop (WANLP)}, 
+        year={2020},
+    }
+
+***
+
 
 <br />
 
