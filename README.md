@@ -70,7 +70,7 @@ Each token classification has been manually checked.
 ### *Tokenization and PoS tagging*
 The tokenization at string level consists in reducing each string to its components, concatenated by the symbol +. Only those tokens classified as *arabizi* have been tokenized.
 <br />
-E.g.: “on the wall”, [ʕal'ħiːtˤ], ع+ال+حيط <= عالحيط
+E.g.: "be in a bad lay" (lit.:*on the wall*), [ʕal'ħiːtˤ], ع+ال+حيط <= عالحيط
 
 The Part-of-Speech tagging is the morphosyntatic annotation of strings. It has been operated at both levels: morphological and functional. The first one describes the morphological nature of each element of the string, while the second one describes the grammatical function of the whole string. 
 The PoS annotation style follows the guidelines of the *Penn Arabic Treebank* (PATB) [[5]](#5). 
