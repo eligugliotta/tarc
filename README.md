@@ -26,7 +26,7 @@ TArC is a snapshot of the Arabish use in different web contexts, during a period
 
 TArC texts have been  extracted from social media for an ammount of 43 313 tokens. Each text has been extracted together with the user's **metadata** when publically shared. 
 The metadata consists in: 
-* **City of provenience**
+* **The municipality of provenance**
 * **Age range**: [-25],[25-35],[35-50],[50+]
 * **Gender**: M/F 
 
@@ -92,13 +92,25 @@ It is possible to download TArC text files organized by genres:
 * Blog texts: *blog.tab* (forthcoming)
 * Rap lyrics texts: *rap.tab* (forthcoming)
 
-Each file contains the header such as: 
+
+In each file, the sentences are delimited by a blank line and each file contains the header such as: 
 
 
 |data|arabish|code|words|token|pos|city|age|
 |:--:|:-----:|:--:|:---:|:---:|:-:|:--:|:-:|
 
-Not all sentences are provided with all the metadata information. You can find '/' in place of the metadata, it means that the users didn't published this information. In some other cases you can find the string 'nan' in place of the metadata, it means that the information has not yet been registered in the corpus file and that a new updated file will be uploaded soon.  
+\
+The date information follow the structure: yyyymmdd. 
+
+Not all sentences are provided with all the metadata information (city/age/gender). You can find '/' in place of the metadata, it means that the users didn't published this information. In some other cases you can find the string 'nan' in place of the metadata, it means that the information has not yet been registered in the corpus file and that a new updated file will be uploaded soon. 
+
+The municipality names are encoded following the French orhographical conventions. In some occasion, it is possible to find a general location such as 'Nord', which stands for 'north'. 
+
+Any user personal information has been anonymized by covering it with the token: 
+
+*m5abbi+id number*
+
+The Tunisian word 'm5abbi' means 'covered', correspond to the *CODAfied* token 'مخبّي' and the PoS-tag: 'NOUN_PROP'.  
 
 If you want to use this data with the [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system), you should remove the header and extract the columns that you need, depending on process that you want to perform. 
 
