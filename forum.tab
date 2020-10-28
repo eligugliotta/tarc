@@ -1,4 +1,4 @@
-data	arabish	code	words	token	pos	city	age	gender
+data	arabish	class	coda	token	pos	city	age	gender
 20150902	3rabfieurope2011:	arabizi	عرب في اوروبا 2011 :	عرب+في+اوروبا+2011+:	NOUN+PREP+NOUN_PROP+NOUN_NUM+PUNC	Bizerte	25-35	M
 20150902	kifech	arabizi	كيفاش	كيفاش	INTERROG_ADV	Bizerte	25-35	M
 20150902	tchoufou	arabizi	تشوفوا	تشوفوا	IV2P-IV-IVSUFF_SUBJ:P	Bizerte	25-35	M

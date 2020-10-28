@@ -96,7 +96,7 @@ It is possible to download TArC text files organized by genres:
 In each file, the sentences are delimited by a blank line and each file contains the header such as: 
 
 
-|data|arabish|code|words|token|pos|city|age|
+|data|arabish|class|coda|token|pos|city|age|
 |:--:|:-----:|:--:|:---:|:---:|:-:|:--:|:-:|
 
 \
