@@ -98,9 +98,10 @@ Each file contains the header such as:
 |data|arabish|code|words|token|pos|city|age|
 |:--:|:-----:|:--:|:---:|:---:|:-:|:--:|:-:|
 
+Not all sentences are provided with all the metadata information. You can find '/' in place of the metadata, it means that the users didn't published this information. In some other cases you can find the string 'nan' in place of the metadata, it means that the information has not yet been registered in the corpus file and that a new updated file will be uploaded soon.  
+
 If you want to use this data with the [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system), you should remove the header and extract the columns that you need, depending on process that you want to perform. 
 
-Not all sentences are provided with all the metadata information. You can find '/' in place of the metadata, it means that the users didn't published this information. In some other cases you can find the string 'nan' in place of the metadata, it means that the information has not yet been registered in the corpus file and that a new updated file will be uploaded soon.  
 <br />
 
 ### *License*
