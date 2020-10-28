@@ -113,7 +113,7 @@ Attribution 4.0 International (CC BY 4.0)
 
 Please cite this work as: 
 
-````PYTHON
+````latex
 @inproceedings{gugliotta-etal-wanlp2020, 
     title={Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation}, 
     author={Gugliotta, Elisa and Dinarelli, Marco and Kraif, Olivier}, 
