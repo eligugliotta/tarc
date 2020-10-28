@@ -105,7 +105,7 @@ Not all sentences are provided with all the metadata information. You can find '
 
 ### *License*
 
-Attribution 4.0 International (CC BY 4.0) 
+Attribution 4.0 International (CC BY-NC-SA 4.0) 
 
 <br />
 
