@@ -4,9 +4,9 @@ This repository describes and contains the corpus mentioned in the following pap
 
 * [Gugliotta, E. & Dinarelli, M. (2020, May). TArC: Incrementally and Semi-Automatically Collecting a Tunisian Arabish Corpus. In Proceedings of The 12th LREC (pp. 6279-6286).](https://www.aclweb.org/anthology/2020.lrec-1.770/)
 * [Gugliotta, E., & Dinarelli, M. (2020, June). TArC. Un corpus d'arabish tunisien. In Actes: JEP-TALN (RÉCITAL).Vol 2: (pp. 232-240). ATALA.](https://hal.archives-ouvertes.fr/hal-02784772/)
-* Gugliotta, E. et al., (2020). Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation. Forthcoming.
+* [Gugliotta, E. et al., (2020). Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation.](https://arxiv.org/abs/2011.05152)
 
-TArC has been designed as a flexible and multi-purpose open corpus in order to be a useful support for different types of analyses: computational and linguistics, as well as for NLP tools training. 
+The TArC has been designed as a flexible and multi-purpose open corpus in order to be a useful support for different types of analyses: computational and linguistics, as well as for NLP tools training. 
 
 Arabish, also known as *Arabizi*, is a spontaneous encoding of Arabic dialects in Latin characters and *arithmographs* (numbers used as letters). This **code-system** was developed by Arabic-speaking users of social media in order to facilitate the writing in the Computer Mediated Communication (CMC) and text messaging informal frameworks [[2]](#2).
 
@@ -22,7 +22,7 @@ Arabish, also known as *Arabizi*, is a spontaneous encoding of Arabic dialects i
 
 ### *Overview of TArC*
 
-TArC is a snapshot of the Arabish use in different web contexts, during a period of ten years, until 2020. 
+In a nutshell, the data gathered in the TArC represent **Tunisian Arabish writing and its evolution over the last ten years**.   
 
 TArC texts have been  extracted from social media for an amount of 43 313 tokens. Each text has been extracted together with the user's **metadata** when publicly shared. 
 The metadata consists in: 
@@ -30,7 +30,7 @@ The metadata consists in:
 * **Age range**: [-25],[25-35],[35-50],[50+]
 * **Gender**: M/F 
 
-The TArC Tunisian Arabish texts have been provided with various annotation levels semi-automatically produced by a [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system): 
+The Tunisian Arabish texts collected in the TArC have been provided with various annotation levels semi-automatically produced by a [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system): 
 
 * Token classification into *arabizi*, *foreign* and *emotag*. 
 * Encoding in Arabic Script of the tokens classified as *arabizi* (following the CODA convention [[4]](#4)).
@@ -100,7 +100,7 @@ In each file, the sentences are delimited by a blank line and each file contains
 |:--:|:-----:|:--:|:---:|:---:|:-:|:--:|:-:|
 
 \
-The date information follow the structure: yyyymmdd. 
+The publication date information follow the structure: yyyymmdd. 
 
 Not all sentences are provided with all the metadata information (city/age/gender). You can find '/' in place of the metadata, it means that the users didn't published this information. In some other cases you can find the string 'nan' in place of the metadata, it means that the information has not yet been registered in the corpus file and that a new updated file will be uploaded soon. 
 
@@ -148,7 +148,7 @@ Fourati, C. et al., (2020). TUNIZI: a Tunisian Arabizi sentiment analysis Datase
 Gugliotta, E. & Dinarelli, M. (2020, May). TArC: Incrementally and Semi-Automatically Collecting a Tunisian Arabish Corpus. *In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 6279-6286)*.
 
 <a id="3">[3]<a/>
-Gugliotta, E. et al., (2020). Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation. *Forthcoming*. 
+Gugliotta, E. et al., (2020). Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation. Accepted for *The Fifth Arabic Natural Language Processing Workshop (WANLP) 2020. Forthcoming*. 
 
 <a id="4">[4]<a/>
 Habash, N. et al., (2012, May). Conventional Orthography for Dialectal Arabic. *In Proceedings of The Language Resources and Evaluation Conference (pp. 711-718)*.
