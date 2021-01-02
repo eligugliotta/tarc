@@ -16,7 +16,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150301	+	arabizi	+	+	SYM	/	35-50	F
 20150301	chtar	arabizi	شطر	شطر	NOUN_QUANT	/	35-50	F
 20150301	kess	arabizi	كاس	كاس	NOUN	/	35-50	F
-20150301	zit	arabizi	زيت	زيت	NOUN	/	35-50	F
+20150301	zit	arabizi	زيت	زيت	CV2S-CV	/	35-50	F
 20150301	+	arabizi	+	+	SYM	/	35-50	F
 20150301	m8arfa	arabizi	مغرفة	مغرفة	NOUN-NSUFF_FEM_SG	/	35-50	F
 20150301	kbira	arabizi	كبيرة	كبيرة	ADJ-NSUFF_FEM_SG	/	35-50	F
@@ -40,7 +40,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150301	:	arabizi	:	:	PUNC	/	35-50	F
 20150301	4	arabizi	4	4	NOUN_NUM	/	35-50	F
 20150301	3adhmet	arabizi	عظمات	عظمات	NOUN-NSUFF_FEM_PL	/	35-50	F
-20150301	masmoutin	arabizi	مصموتين	مصموتين	ADJ-NSUFF_MASC_PL	/	35-50	F
+20150301	masmoutin	arabizi	مصموطين	مصموطين	ADJ-NSUFF_MASC_PL	/	35-50	F
 20150301	+	arabizi	+	+	SYM	/	35-50	F
 20150301	2	arabizi	2	2	NOUN_NUM	/	35-50	F
 20150301	batata	arabizi	بطاطة	بطاطة	NOUN-NSUFF_FEM_SG	/	35-50	F
@@ -58,7 +58,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150301	w	arabizi	و	و	CONJ	/	35-50	F
 20150301	tfourem	arabizi	تفورم	تفورم	CV2S-CV	/	35-50	F
 20150301	kima	arabizi	كيما	كيما	SUB_CONJ	/	35-50	F
-20150301	theb	arabizi	تحب	تحب	IV2S-IV	/	35-50	F
+20150301	theb	arabizi	تحبّ	تحبّ	IV2S-IV	/	35-50	F
 
 20150411	Brik	arabizi	بريك	بريك	NOUN_PROP	/	35-50	F
 20150411	el	arabizi	ال	ال	DET	/	35-50	F
@@ -127,7 +127,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150411	mgharef	arabizi	مغرفة	مغرفة	NOUN-NSUFF_FEM_SG	/	35-50	F
 20150411	sokir	arabizi	سكر	سكر	NOUN	/	35-50	F
 20150411	+	arabizi	+	+	SYM	/	35-50	F
-20150411	recha	arabizi	رشة	رشة	NOUN_QUANT-NSUFF_FEM_SG	/	35-50	F
+20150411	recha	arabizi	ريشة	ريشة	NOUN_QUANT-NSUFF_FEM_SG	/	35-50	F
 20150411	sghira	arabizi	صغيرة	صغيرة	ADJ-NSUFF_FEM_SG	/	35-50	F
 20150411	9erfa	arabizi	قرفة	قرفة	NOUN-NSUFF_FEM_SG	/	35-50	F
 20150411	+	arabizi	+	+	SYM	/	35-50	F
@@ -182,7 +182,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150411	ala	arabizi	على	على	PREP	/	35-50	F
 20150411	3jina	arabizi	عجينة	عجينة	NOUN-NSUFF_FEM_SG	/	35-50	F
 20150411	triya	arabizi	تريّة	تريّة	ADJ-NSUFF_FEM_SG	/	35-50	F
-20150411	trata7ha	arabizi	ترتحها	ترتح+ها	CV2S-CV+CVSUFF_DO:3FS	/	35-50	F
+20150411	trata7ha	arabizi	ترتّحها	ترتّح+ها	CV2S-CV+CVSUFF_DO:3FS	/	35-50	F
 20150411	nosf	arabizi	نصف	نصف	NOUN_QUANT	/	35-50	F
 20150411	sei3a	arabizi	ساعة	ساعة	NOUN-NSUFF_FEM_SG	/	35-50	F
 20150411	wba3	arabizi	وبعد	و+بعد	CONJ+ADV	/	35-50	F
@@ -253,7 +253,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150411	tzidou	arabizi	تزيدوا	تزيدوا	CV2P-CV-CVSUFF_SUBJ:P	/	35-50	F
 20150411	1	arabizi	1	1	NOUN_NUM	/	35-50	F
 20150411	asfer	arabizi	أصفر	اصفر	ADJ	/	35-50	F
-20150411	adham	arabizi	عظام	عظام	NOUN	/	35-50	F
+20150411	adham	arabizi	عظم	عظم	NOUN	/	35-50	F
 20150411	sokir	arabizi	سكر	سكر	NOUN	/	35-50	F
 20150411	w9erfa	arabizi	وقرفة	و+قرفة	CONJ+NOUN-NSUFF_FEM_SG	/	35-50	F
 20150411	w9chour	arabizi	وقشور	و+قشور	CONJ+NOUN	/	35-50	F
@@ -271,7 +271,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150411	ma	arabizi	ما	ما	NEG_PART	/	35-50	F
 20150411	tkatharch	arabizi	تكثّرش	تكثّر+ش	IV3FS-IV+NEG_PART	/	35-50	F
 20150411	bech	arabizi	باش	باش	FUT_PART	/	35-50	F
-20150411	tsakerlik	arabizi	تسكرلك	تسكر+ل+ك	IV3FS-IV+[PREP+PRON_2S]IVSUFF_IO:2S	/	35-50	F
+20150411	tsakerlik	arabizi	تتسكرلك	تتسكر+ل+ك	IV3FS-IV_PASS+[PREP+PRON_2S]IVSUFF_IO:2S	/	35-50	F
 20150411	wma	arabizi	وما	و+ما	CONJ+NEG_PART	/	35-50	F
 20150411	yokhrijch	arabizi	يخرجش	يخرج+ش	IV3MS-IV+NEG_PART	/	35-50	F
 20150411	fil	arabizi	فال	في+ال	PREP+DET	/	35-50	F
@@ -279,7 +279,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150411	wtedhin	arabizi	وتدهن	و+تدهن	CONJ+CV2S-CV	/	35-50	F
 20150411	el7weichi	arabizi	الحواشي	ال+حواشي	DET+NOUN	/	35-50	F
 20150411	babyedh	arabizi	بأبياض	ب+ابياض	PREP+NOUN	/	35-50	F
-20150411	la3dam	arabizi	العظام	ال+عظام	DET+NOUN	/	35-50	F
+20150411	la3dam	arabizi	العظم	ال+عظم	DET+NOUN	/	35-50	F
 20150411	wtsakerha	arabizi	وتسكرها	و+تسكر+ها	CONJ+CV2S-CV+CVSUFF_DO:3FS	/	35-50	F
 20150411	kif	arabizi	كيف	كيف	ADV	/	35-50	F
 20150411	ka3bet	arabizi	كعبات	كعبات	NOUN-NSUFF_FEM_PL	/	35-50	F
@@ -295,7 +295,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150411	houwa	arabizi	هو	هو	PRON_3MS	/	35-50	F
 20150411	esser	arabizi	السر	ال+سر	DET+NOUN	/	35-50	F
 20150411	yelzem	arabizi	يلزم	يلزم	IV3MS-IV	/	35-50	F
-20150411	tsakhen	arabizi	تسخن	تسخن	IV2S-IV	/	35-50	F
+20150411	tsakhen	arabizi	تسخّن	تسخّن	IV2S-IV	/	35-50	F
 20150411	ezzit	arabizi	الزيت	ال+زيت	DET+NOUN	/	35-50	F
 20150411	wba3d	arabizi	وبعد	و+بعد	CONJ+ADV	/	35-50	F
 20150411	tafi	arabizi	طفّي	طفّي	CV2S-CV	/	35-50	F
@@ -317,7 +317,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150411	7ell	arabizi	حل	حل	CV2S-CV	/	35-50	F
 20150411	gaz	arabizi	غاز	غاز	NOUN	/	35-50	F
 20150411	wraja3ou	arabizi	ورجّعه	و+رجّع+ه	CONJ+CV2S-CV+CVSUFF_DO:3MS	/	35-50	F
-20150411	yet9lei	arabizi	يتقلّى	يتقلّى	IV3MS-IV	/	35-50	F
+20150411	yet9lei	arabizi	يتقلي	يتقلى	IV3MS-IV_PASS	/	35-50	F
 20150411	taw	arabizi	تو	تو	ADV	/	35-50	F
 20150411	yebdew	arabizi	يبدوا	يبدوا	IV3MP-IV-IVSUFF_SUBJ:P	/	35-50	F
 20150411	k3ibet	arabizi	كعيبات	كعيبات	NOUN-NSUFF_FEM_PL	/	35-50	F
@@ -326,7 +326,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150411	elfou9	arabizi	الفوق	ال+فوق	DET+NOUN	/	35-50	F
 
 20150411	w9tha	arabizi	وقتها	وقتها	ADV	/	35-50	F
-20150411	2ebda	arabizi	أبدى	ابدى	CV2S-CV	/	35-50	F
+20150411	2ebda	arabizi	أبدا	ابدا	CV2S-CV	/	35-50	F
 20150411	adreb	arabizi	أضرب	اضرب	CV2S-CV	/	35-50	F
 20150411	fihom	arabizi	فيهم	في+هم	PREP+PRON_3P	/	35-50	F
 20150411	b9a3	arabizi	بقاع	ب+قاع	PREP+NOUN	/	35-50	F
@@ -339,8 +339,8 @@ data	arabish	code	words	token	pos	city	age	gender
 20150411	kif	arabizi	كيف	كيف	ADV	/	35-50	F
 20150411	elwarda	arabizi	الوردة	ال+وردة	DET+NOUN-NSUFF_FEM_SG	/	35-50	F
 
-20150411	webda	arabizi	وابدى	و+ابدى	CONJ+CV2S-CV	/	35-50	F
-20150411	9alibhom	arabizi	قلبهم	قلّب+هم	CV2S-CV+CVSUFF_DO:3P	/	35-50	F
+20150411	webda	arabizi	وابدا	و+ابدا	CONJ+CV2S-CV	/	35-50	F
+20150411	9alibhom	arabizi	قلّيهم	قلّى+هم	CV2S-CV+CVSUFF_DO:3P	/	35-50	F
 20150411	lin	arabizi	لين	لين	SUB_CONJ	/	35-50	F
 20150411	ye7marou	arabizi	يحماروا	يحماروا	IV3MP-IV-IVSUFF_SUBJ:P	/	35-50	F
 
@@ -388,7 +388,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150706	fi	arabizi	في	في	PREP	/	35-50	F
 20150706	sa7fa	arabizi	صحفة	صحفة	NOUN-NSUFF_FEM_SG	/	35-50	F
 20150706	okhra	arabizi	أخرى	اخرى	ADJ	/	35-50	F
-20150706	tkhalat	arabizi	تخلط	تخلط	CV2S-CV	/	35-50	F
+20150706	tkhalat	arabizi	تخلّط	تخلّط	CV2S-CV	/	35-50	F
 20150706	:	arabizi	:	:	PUNC	/	35-50	F
 
 20150706	4	arabizi	4	4	NOUN_NUM	/	35-50	F
@@ -425,9 +425,9 @@ data	arabish	code	words	token	pos	city	age	gender
 20150706	tedhen	arabizi	تدهن	تدهن	CV2S-CV	/	35-50	F
 20150706	etba9	arabizi	الطبق	ال+طبق	DET+NOUN	/	35-50	F
 20150706	bzit	arabizi	بزيت	ب+زيت	PREP+NOUN	/	35-50	F
-20150706	wtsob	arabizi	وتصب	و+تصب	CONJ+CV2S-CV	/	35-50	F
+20150706	wtsob	arabizi	وتصبّ	و+تصبّ	CONJ+CV2S-CV	/	35-50	F
 20150706	elkhalit	arabizi	الخليط	ال+خليط	DET+NOUN	/	35-50	F
-20150706	wt7ot	arabizi	وتحط	و+تحط	CONJ+CV2S-CV	/	35-50	F
+20150706	wt7ot	arabizi	وتحطّ	و+تحطّ	CONJ+CV2S-CV	/	35-50	F
 20150706	ka3bel	arabizi	كعبال	كعب+ال	NOUN+DET	/	35-50	F
 20150706	louz	arabizi	لوز	لوز	NOUN	/	35-50	F
 20150706	lezina	arabizi	لزينة	ل+زينة	PREP+NOUN-NSUFF_FEM_SG	/	35-50	F
@@ -456,12 +456,12 @@ data	arabish	code	words	token	pos	city	age	gender
 20150706	tkharejha	arabizi	تخرّجها	تخرّج+ها	CV2S-CV+CVSUFF_DO:3FS	/	35-50	F
 20150706	wt9assamha	arabizi	وتقسّمها	و+تقسّم+ها	CONJ+CV2S-CV+CVSUFF_DO:3FS	/	35-50	F
 20150706	w	arabizi	و	و	CONJ	/	35-50	F
-20150706	tsa9iha	arabizi	تسقيها	تسقي+ها	CV2S-CV+CVSUFF_DO:3FS	/	35-50	F
+20150706	tsa9iha	arabizi	تسقيها	تسقى+ها	CV2S-CV+CVSUFF_DO:3FS	/	35-50	F
 20150706	bech7our	arabizi	بشحور	ب+شحور	PREP+NOUN	/	35-50	F
 20150706	bared	arabizi	بارد	بارد	ADJ	/	35-50	F
-20150706	wtkhaliha	arabizi	وتخليها	و+تخلي+ها	CONJ+CV2S-CV+CVSUFF_DO:3FS	/	35-50	F
-20150706	tebred	arabizi	تبرد	تبرد	IV3FS-IV	/	35-50	F
-20150706	wkoul	arabizi	وكول	و+كول	CONJ+CV2S-CV	/	35-50	F
+20150706	wtkhaliha	arabizi	وتخلّيها	و+تخلّي+ها	CONJ+CV2S-CV+CVSUFF_DO:3FS	/	35-50	F
+20150706	tebred	arabizi	تبرد	تبرد	IV3FS-IV_PASS	/	35-50	F
+20150706	wkoul	arabizi	وكل	و+كل	CONJ+CV2S-CV	/	35-50	F
 20150706	bechfaa	arabizi	بالشفا	ب+ال+شفا	[PREP+DET+NOUN]INTERJ	/	35-50	F
 
 20150706	_	arabizi	_	_	PUNC	/	35-50	F
@@ -544,11 +544,11 @@ data	arabish	code	words	token	pos	city	age	gender
 20150716	zebda	arabizi	زبدة	زبدة	NOUN-NSUFF_FEM_SG	/	35-50	F
 20150716	dhayba	arabizi	ذايبة	ذايبة	ADJ-NSUFF_FEM_SG	/	35-50	F
 20150716	w	arabizi	و	و	CONJ	/	35-50	F
-20150716	t5alet	arabizi	تخلط	تخلط	CV2S-CV	/	35-50	F
+20150716	t5alet	arabizi	تخلّط	تخلّط	CV2S-CV	/	35-50	F
 
 20150716	w	arabizi	و	و	CONJ	/	35-50	F
-20150716	tebda	arabizi	تبدى	تبدى	CV2S-CV	/	35-50	F
-20150716	tsoub	arabizi	تصب	تصب	IV2S-IV	/	35-50	F
+20150716	tebda	arabizi	تبدا	تبدا	CV2S-CV	/	35-50	F
+20150716	tsoub	arabizi	تصبّ	تصبّ	IV2S-IV	/	35-50	F
 20150716	fil	arabizi	فال	في+ال	PREP+DET	/	35-50	F
 20150716	ma	arabizi	ما	ما	NOUN	/	35-50	F
 20150716	bechwaya	arabizi	بشويّة	ب+شويّة	PREP+ADV	/	35-50	F
@@ -563,7 +563,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150716	ka3bourat	arabizi	كعبورات	كعبورات	NOUN-NSUFF_FEM_PL	/	35-50	F
 20150716	9ad	arabizi	قد	قد	ADV	/	35-50	F
 20150716	9ad	arabizi	قد	قد	ADV	/	35-50	F
-20150716	tlefhom	arabizi	تلفهم	تلف+هم	CV2S-CV+CVSUFF_DO:3P	/	35-50	F
+20150716	tlefhom	arabizi	تلفّهم	تلفّ+هم	CV2S-CV+CVSUFF_DO:3P	/	35-50	F
 20150716	mli7	arabizi	مليح	مليح	ADV	/	35-50	F
 20150716	fi	arabizi	في	في	PREP	/	35-50	F
 20150716	ncha	arabizi	نشا	نشا	NOUN	/	35-50	F
@@ -579,7 +579,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150716	kol	arabizi	كلّ	كلّ	NOUN_QUANT	/	35-50	F
 20150716	ka3ba	arabizi	كعبة	كعبة	NOUN-NSUFF_FEM_SG	/	35-50	F
 20150716	w	arabizi	و	و	CONJ	/	35-50	F
-20150716	t7elha	arabizi	تحلها	تحل+ها	CV2S-CV+CVSUFF_DO:3FS	/	35-50	F
+20150716	t7elha	arabizi	تحلّها	تحلّ+ها	CV2S-CV+CVSUFF_DO:3FS	/	35-50	F
 20150716	bel	arabizi	بال	ب+ال	PREP+DET	/	35-50	F
 20150716	9al9al	arabizi	قلقال	قلقال	NOUN	/	35-50	F
 
@@ -589,15 +589,15 @@ data	arabish	code	words	token	pos	city	age	gender
 20150716	barcha	arabizi	برشا	برشا	ADV	/	35-50	F
 20150716	ncha	arabizi	نشا	نشا	NOUN	/	35-50	F
 20150716	w	arabizi	و	و	CONJ	/	35-50	F
-20150716	tkamel	arabizi	تكمل	تكمل	CV2S-CV	/	35-50	F
-20150716	t7el	arabizi	تحل	تحل	CV2S-CV	/	35-50	F
+20150716	tkamel	arabizi	تكمّل	تكمّل	CV2S-CV	/	35-50	F
+20150716	t7el	arabizi	تحلّ	تحلّ	CV2S-CV	/	35-50	F
 20150716	El	arabizi	ال	ال	DET	/	35-50	F
 20150716	ka3bourat	arabizi	كعبورات	كعبورات	NOUN-NSUFF_FEM_PL	/	35-50	F
 20150716	El	arabizi	ال	ال	DET	/	35-50	F
 20150716	kol	arabizi	كلّ	كلّ	NOUN_QUANT	/	35-50	F
 
 20150716	w	arabizi	و	و	CONJ	/	35-50	F
-20150716	7outhom	arabizi	حطهم	حط+هم	CV2S-CV+CVSUFF_DO:3P	/	35-50	F
+20150716	7outhom	arabizi	حطّهم	حطّ+هم	CV2S-CV+CVSUFF_DO:3P	/	35-50	F
 20150716	fou9	arabizi	فوق	فوق	ADV	/	35-50	F
 20150716	b3adhom	arabizi	بعضهم	بعض+هم	PREP+PRON_3P	/	35-50	F
 20150716	9	arabizi	9	9	NOUN_NUM	/	35-50	F
@@ -618,10 +618,10 @@ data	arabish	code	words	token	pos	city	age	gender
 20150716	h	foreign	h	foreign	foreign	/	35-50	F
 20150716	,	arabizi	,	,	PUNC	/	35-50	F
 
-20150716	tmedhom	arabizi	تمدهم	تمد+هم	CV2S-CV+CVSUFF_DO:3P	/	35-50	F
+20150716	tmedhom	arabizi	تمدّهم	تمدّ+هم	CV2S-CV+CVSUFF_DO:3P	/	35-50	F
 20150716	tawa	arabizi	توّا	توّا	ADV	/	35-50	F
 20150716	w	arabizi	و	و	CONJ	/	35-50	F
-20150716	t7elhom	arabizi	تحلهم	تحل+هم	CV2S-CV+CVSUFF_DO:3P	/	35-50	F
+20150716	t7elhom	arabizi	تحلّهم	تحلّ+هم	CV2S-CV+CVSUFF_DO:3P	/	35-50	F
 20150716	w	arabizi	و	و	CONJ	/	35-50	F
 20150716	houma	arabizi	هوما	هوما	PRON_3P	/	35-50	F
 20150716	9	arabizi	9	9	NOUN_NUM	/	35-50	F
@@ -635,18 +635,18 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20150716	w	arabizi	و	و	CONJ	/	35-50	F
 20150716	9oushom	arabizi	قسّهم	قسّ+هم	CV2S-CV+CVSUFF_DO:3P	/	35-50	F
-20150716	mourab3at	arabizi	مربعات	مربعات	NOUN-NSUFF_FEM_PL	/	35-50	F
+20150716	mourab3at	arabizi	مربّعات	مربّعات	NOUN-NSUFF_FEM_PL	/	35-50	F
 20150716	inti	arabizi	انتي	انتي	PRON_2S	/	35-50	F
 20150716	wel	arabizi	وال	و+ال	CONJ+DET	/	35-50	F
 20150716	kober	arabizi	كبر	كبر	NOUN	/	35-50	F
 20150716	ili	arabizi	اللي	اللي	REL_PRON	/	35-50	F
-20150716	t7eb	arabizi	تحب	تحب	IV2S-IV	/	35-50	F
+20150716	t7eb	arabizi	تحبّ	تحبّ	IV2S-IV	/	35-50	F
 20150716	3lih	arabizi	عليه	على+ه	PREP+PRON_3MS	/	35-50	F
 
 20150716	w	arabizi	و	و	CONJ	/	35-50	F
 20150716	kol	arabizi	كلّ	كلّ	NOUN_QUANT	/	35-50	F
-20150716	mourab3at	arabizi	مربعات	مربعات	NOUN-NSUFF_FEM_PL	/	35-50	F
-20150716	hout	arabizi	حط	حط	CV2S-CV	/	35-50	F
+20150716	mourab3at	arabizi	مربّعات	مربّعات	NOUN-NSUFF_FEM_PL	/	35-50	F
+20150716	hout	arabizi	حطّ	حطّ	CV2S-CV	/	35-50	F
 20150716	fih	arabizi	فيه	في+ه	PREP+PRON_3MS	/	35-50	F
 20150716	chwaya	arabizi	شويّة	شويّة	[NOUN_QUANT]ADV	/	35-50	F
 20150716	louz	arabizi	لوز	لوز	NOUN	/	35-50	F
@@ -678,7 +678,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150716	fou9hom	arabizi	فوقهم	فوق+هم	PREP+PRON_3P	/	35-50	F
 20150716	w	arabizi	و	و	CONJ	/	35-50	F
 20150716	houthom	arabizi	حطهم	حطّ+هم	CV2S-CV+CVSUFF_DO:3P	/	35-50	F
-20150716	itibou	arabizi	يطيبوا	يطيبوا	IV3MP-IV-IVSUFF_SUBJ:P	/	35-50	F
+20150716	itibou	arabizi	يطيّبوا	يطيّبوا	IV3MP-IV-IVSUFF_SUBJ:P	/	35-50	F
 20150716	hata	arabizi	حتّى	حتّى	SUB_CONJ	/	35-50	F
 20150716	ya7marou	arabizi	يحماروا	يحماروا	IV3MP-IV-IVSUFF_SUBJ:P	/	35-50	F
 20150716	chwaya	arabizi	شويّة	شويّة	ADV	/	35-50	F
@@ -686,7 +686,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150716	w	arabizi	و	و	CONJ	/	35-50	F
 20150716	cha7arhom	arabizi	شحّرهم	شحّر+هم	CV2S-CV+CVSUFF_DO:3P	/	35-50	F
 20150716	(	arabizi	)	)	PUNC	/	35-50	F
-20150716	soub	arabizi	صب	صب	CV2S-CV	/	35-50	F
+20150716	soub	arabizi	صبّ	صبّ	CV2S-CV	/	35-50	F
 20150716	ch7our	arabizi	شحور	شحور	NOUN	/	35-50	F
 20150716	bel	arabizi	بال	ب+ال	PREP+DET	/	35-50	F
 20150716	mgharfa	arabizi	مغرفة	مغرفة	NOUN-NSUFF_FEM_SG	/	35-50	F
@@ -732,7 +732,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20150828	Mgharfa	arabizi	مغرفة	مغرفة	NOUN-NSUFF_FEM_SG	Sousse	25-35	F
 20150828	w	arabizi	و	و	CONJ	Sousse	25-35	F
-20150828	nos	arabizi	نص	نص	NOUN_QUANT	Sousse	25-35	F
+20150828	nos	arabizi	نصّ	نصّ	NOUN_QUANT	Sousse	25-35	F
 20150828	mele7	arabizi	ملح	ملح	NOUN	Sousse	25-35	F
 20150828	(	arabizi	)	)	PUNC	Sousse	25-35	F
 20150828	mgharfa	arabizi	مغرفة	مغرفة	NOUN-NSUFF_FEM_SG	Sousse	25-35	F
@@ -744,10 +744,10 @@ data	arabish	code	words	token	pos	city	age	gender
 20150828	w	arabizi	و	و	CONJ	Sousse	25-35	F
 20150828	smid	arabizi	سميد	سميد	NOUN	Sousse	25-35	F
 
-20150828	Na3jnou	arabizi	نعجنوا	نعجنوا	IV1P-IV-IVSUFF_SUBJ:P	Sousse	25-35	F
+20150828	Na3jnou	arabizi	نعجّنوا	نعجّنوا	IV1P-IV-IVSUFF_SUBJ:P	Sousse	25-35	F
 20150828	mlih	arabizi	مليح	مليح	ADV	Sousse	25-35	F
 20150828	w	arabizi	و	و	CONJ	Sousse	25-35	F
-20150828	n5aliwha	arabizi	نخليوها	نخليوا+ها	IV1P-IV-IVSUFF_SUBJ:P+IVSUFF_DO:3FS	Sousse	25-35	F
+20150828	n5aliwha	arabizi	نخلّيوها	نخلّيوا+ها	IV1P-IV-IVSUFF_SUBJ:P+IVSUFF_DO:3FS	Sousse	25-35	F
 20150828	terte7	arabizi	ترتاح	ترتاح	IV3FS-IV	Sousse	25-35	F
 20150828	nosf	arabizi	نصف	نصف	NOUN_QUANT	Sousse	25-35	F
 20150828	se3a	arabizi	ساعة	ساعة	NOUN-NSUFF_FEM_SG	Sousse	25-35	F
@@ -778,7 +778,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20151020	kas	arabizi	كاس	كاس	NOUN	Sousse	25-35	F
 20151020	7lib	arabizi	حليب	حليب	NOUN	Sousse	25-35	F
 20151020	dafi	arabizi	دافي	دافي	ADJ	Sousse	25-35	F
-20151020	n7ot	arabizi	نحط	نحط	IV1S-IV	Sousse	25-35	F
+20151020	n7ot	arabizi	نحطّ	نحطّ	IV1S-IV	Sousse	25-35	F
 20151020	fih	arabizi	فيه	في+ه	PREP+PRON_3MS	Sousse	25-35	F
 20151020	m4arfa	arabizi	مغرفة	مغرفة	NOUN-NSUFF_FEM_SG	Sousse	25-35	F
 20151020	kbira	arabizi	كبيرة	كبيرة	ADJ-NSUFF_FEM_SG	Sousse	25-35	F
@@ -822,15 +822,15 @@ data	arabish	code	words	token	pos	city	age	gender
 20151020	la5mira	arabizi	الخميرة	ال+خميرة	DET+NOUN-NSUFF_FEM_SG	Sousse	25-35	F
 20151020	w	arabizi	و	و	CONJ	Sousse	25-35	F
 20151020	sucre	foreign	sucre	foreign	foreign	Sousse	25-35	F
-20151020	nlem	arabizi	نلم	نلم	IV1S-IV	Sousse	25-35	F
+20151020	nlem	arabizi	نلمّ	نلمّ	IV1S-IV	Sousse	25-35	F
 20151020	la3jina	arabizi	العجينة	ال+عجينة	DET+NOUN-NSUFF_FEM_SG	Sousse	25-35	F
 20151020	w	arabizi	و	و	CONJ	Sousse	25-35	F
-20151020	na3jen	arabizi	نعجن	نعجن	IV1S-IV	Sousse	25-35	F
+20151020	na3jen	arabizi	نعجّن	نعجّن	IV1S-IV	Sousse	25-35	F
 20151020	chwaya	arabizi	شويّة	شويّة	ADV	Sousse	25-35	F
 
 20151020	w	arabizi	و	و	CONJ	Sousse	25-35	F
 20151020	n5aliha	arabizi	نخلّيها	نخلّي+ها	IV1S-IV+IVSUFF_DO:3FS	Sousse	25-35	F
-20151020	te5mer	arabizi	تخمر	تخمر	IV3FS-IV	Sousse	25-35	F
+20151020	te5mer	arabizi	تخمار	تخمار	IV3FS-IV	Sousse	25-35	F
 20151020	1	arabizi	1	1	NOUN_NUM	Sousse	25-35	F
 20151020	h	foreign	h	foreign	foreign	Sousse	25-35	F
 
@@ -839,7 +839,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20151020	ou	foreign	ou	foreign	foreign	Sousse	25-35	F
 20151020	bien	foreign	bien	foreign	foreign	Sousse	25-35	F
 20151020	escalope	foreign	escalope	foreign	foreign	Sousse	25-35	F
-20151020	nfaw7ou	arabizi	نفوحوا	نفوحوا	IV1P-IV-IVSUFF_SUBJ:P	Sousse	25-35	F
+20151020	nfaw7ou	arabizi	نفوّحوا	نفوّحوا	IV1P-IV-IVSUFF_SUBJ:P	Sousse	25-35	F
 20151020	mle7	arabizi	مليح	مليح	ADV	Sousse	25-35	F
 20151020	filfil	arabizi	فلفل	فلفل	NOUN	Sousse	25-35	F
 20151020	ak7el	arabizi	أكحل	اكحل	ADJ	Sousse	25-35	F
@@ -853,9 +853,9 @@ data	arabish	code	words	token	pos	city	age	gender
 20151020	n9alli	arabizi	نقلّي	نقلّي	IV1S-IV	Sousse	25-35	F
 20151020	basla	arabizi	بصلة	بصلة	NOUN-NSUFF_FEM_SG	Sousse	25-35	F
 20151020	w	arabizi	و	و	CONJ	Sousse	25-35	F
-20151020	n7ot	arabizi	نحط	نحط	IV1S-IV	Sousse	25-35	F
+20151020	n7ot	arabizi	نحطّ	نحطّ	IV1S-IV	Sousse	25-35	F
 20151020	djej	arabizi	دجاج	دجاج	NOUN	Sousse	25-35	F
-20151020	tib	arabizi	طيب	طيب	IV3MS-IV	Sousse	25-35	F
+20151020	tib	arabizi	يطيب	يطيب	IV3MS-IV	Sousse	25-35	F
 
 20151020	w	arabizi	و	و	CONJ	Sousse	25-35	F
 20151020	nzid	arabizi	نزيد	نزيد	IV1S-IV	Sousse	25-35	F
@@ -867,7 +867,8 @@ data	arabish	code	words	token	pos	city	age	gender
 20151020	a5dher	arabizi	أخضر	اخضر	ADJ	Sousse	25-35	F
 20151020	ma9sous	arabizi	مقصوص	مقصوص	ADJ	Sousse	25-35	F
 20151020	w	arabizi	و	و	CONJ	Sousse	25-35	F
-20151020	n5alitib	arabizi	نخلّي يطيب	نخلّي يطيب	IV1S-IV IV3MS-IV	Sousse	25-35	F
+20151020	n5ali	arabizi	نخلّي	نخلّي	IV1S-IV	Sousse	25-35	F
+20151020	tib	arabizi	يطيب	يطيب	IV3MS-IV	Sousse	25-35	F
 20151020	w	arabizi	و	و	CONJ	Sousse	25-35	F
 20151020	yebred	arabizi	يبرد	يبرد	IV3MS-IV	Sousse	25-35	F
 
@@ -879,12 +880,12 @@ data	arabish	code	words	token	pos	city	age	gender
 20151020	des	foreign	des	foreign	foreign	Sousse	25-35	F
 20151020	boules	foreign	boules	foreign	foreign	Sousse	25-35	F
 20151020	w	arabizi	و	و	CONJ	Sousse	25-35	F
-20151020	n7el	arabizi	نحل	نحل	IV1S-IV	Sousse	25-35	F
+20151020	n7el	arabizi	نحلّ	نحلّ	IV1S-IV	Sousse	25-35	F
 20151020	kol	arabizi	كلّ	كلّ	NOUN_QUANT	Sousse	25-35	F
 20151020	boules	foreign	boules	foreign	foreign	Sousse	25-35	F
 
 20151020	w	arabizi	و	و	CONJ	Sousse	25-35	F
-20151020	n7ot	arabizi	نحط	نحط	IV1S-IV	Sousse	25-35	F
+20151020	n7ot	arabizi	نحطّ	نحطّ	IV1S-IV	Sousse	25-35	F
 20151020	farce	foreign	farce	foreign	foreign	Sousse	25-35	F
 20151020	nzidou	arabizi	نزيده	نزيد+ه	IV1P-IV+IVSUFF_DO:3MS	Sousse	25-35	F
 20151020	jben	arabizi	جبن	جبن	NOUN	Sousse	25-35	F
@@ -895,14 +896,14 @@ data	arabish	code	words	token	pos	city	age	gender
 20151020	jben	arabizi	جبن	جبن	NOUN	Sousse	25-35	F
 20151020	rapé	foreign	rapé	foreign	foreign	Sousse	25-35	F
 20151020	illi	arabizi	اللي	اللي	REL_PRON	Sousse	25-35	F
-20151020	7eb	arabizi	يحب	يحب	IV3MS-IV	Sousse	25-35	F
+20151020	7eb	arabizi	يحبّ	يحبّ	IV3MS-IV	Sousse	25-35	F
 20151020	ya3mel	arabizi	يعمل	يعمل	IV3MS-IV	Sousse	25-35	F
 20151020	l7am	arabizi	لحم	لحم	NOUN	Sousse	25-35	F
 20151020	mafroum	arabizi	مفروم	مفروم	ADJ	Sousse	25-35	F
 20151020	ok	arabizi	أوكي	اوكي	INTERJ	Sousse	25-35	F
 
 20151020	w	arabizi	و	و	CONJ	Sousse	25-35	F
-20151020	t7ot	arabizi	تحط	تحط	CV2S-CV	Sousse	25-35	F
+20151020	t7ot	arabizi	تحطّ	تحطّ	CV2S-CV	Sousse	25-35	F
 20151020	lfarce	arabizi	الفرش	ال+فرش	DET+NOUN	Sousse	25-35	F
 20151020	w	arabizi	و	و	CONJ	Sousse	25-35	F
 20151020	tetwi	arabizi	تطوي	تطوي	CV2S-CV	Sousse	25-35	F
@@ -916,7 +917,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20151020	w	arabizi	و	و	CONJ	Sousse	25-35	F
 20151020	ta5ou	arabizi	تاخو	تاخو	CV2S-CV	Sousse	25-35	F
-20151020	ma9la	arabizi	مقلى	مقلى	NOUN	Sousse	25-35	F
+20151020	ma9la	arabizi	مقلى	مقلى	ADJ	Sousse	25-35	F
 20151020	tifal	foreign	tifal	foreign	NOUN_PROP	Sousse	25-35	F
 20151020	w	arabizi	و	و	CONJ	Sousse	25-35	F
 20151020	tayabha	arabizi	طيّبها	طيّب+ها	CV2S-CV+CVSUFF_DO:3FS	Sousse	25-35	F
@@ -937,7 +938,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20191103	;	arabizi	؛	؛	PUNC	nord	/	F
 
 20191103	cadre	foreign	cadre	foreign	foreign	nord	/	F
-20191103	n7ib	arabizi	نحب	نحب	IV1S-IV	nord	/	F
+20191103	n7ib	arabizi	نحبّ	نحبّ	IV1S-IV	nord	/	F
 20191103	ala	arabizi	على	على	PREP	nord	/	F
 20191103	insen	arabizi	إنسان	انسان	NOUN	nord	/	F
 20191103	sérieux	foreign	sérieux	foreign	foreign	nord	/	F
@@ -961,7 +962,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20191103	tkoun	arabizi	تكون	تكون	IV3FS-IV	nord	/	F
 20191103	3ndo	arabizi	عنده	عند+ه	PREP+PRON_3MS	nord	/	F
 20191103	5edma	arabizi	خدمة	خدمة	NOUN-NSUFF_FEM_SG	nord	/	F
-20191103	9a5a	arabizi	قخة	قخة	NOUN-NSUFF_FEM_SG	nord	/	F
+20191103	9a5a	arabizi	قخة	قخة	ADJ-NSUFF_FEM_SG	nord	/	F
 20191103	bech	arabizi	باش	باش	FUT_PART	nord	/	F
 20191103	n3icho	arabizi	نعيشوا	نعيشوا	IV1S-IV-IVSUFF_SUBJ:P	nord	/	F
 20191103	lbs	arabizi	لاباس	لاباس	ADV	nord	/	F
@@ -970,8 +971,8 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20191103	wa	arabizi	و	و	CONJ	nord	/	F
 20191103	eli	arabizi	اللي	اللي	REL_PRON	nord	/	F
-20191103	y7ib	arabizi	يحب	يحب	IV3MS-IV	nord	/	F
-20191103	yhani	arabizi	يهني	يهني	IV3MS-IV	nord	/	F
+20191103	y7ib	arabizi	يحبّ	يحبّ	IV3MS-IV	nord	/	F
+20191103	yhani	arabizi	يهنّي	يهنّي	IV3MS-IV	nord	/	F
 20191103	3la	arabizi	على	على	PREP	nord	/	F
 20191103	rou7o	arabizi	روحه	روح+ه	NOUN+POSS_PRON_3MS	nord	/	F
 20191103	invit	foreign	invit	foreign	foreign	nord	/	F
@@ -992,7 +993,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20191103	la3eb	arabizi	لعب	لعب	NOUN	nord	/	F
 20191103	wa	arabizi	و	و	CONJ	nord	/	F
 20191103	te5dim	arabizi	تخديم	تخديم	NOUN	nord	/	F
-20191103	mo5	arabizi	مخ	مخ	NOUN	nord	/	F
+20191103	mo5	arabizi	مخّ	مخّ	NOUN	nord	/	F
 20191103	wa	arabizi	و	و	CONJ	nord	/	F
 20191103	n7ib	arabizi	نحب	نحب	IV1S-IV	nord	/	F
 20191103	insen	arabizi	إنسان	انسان	NOUN	nord	/	F
@@ -1017,11 +1018,11 @@ data	arabish	code	words	token	pos	city	age	gender
 20191103	invit	foreign	invit	foreign	foreign	nord	/	F
 20191103	wa	arabizi	و	و	CONJ	nord	/	F
 20191103	eli	arabizi	اللي	اللي	REL_PRON	nord	/	F
-20191103	y7ib	arabizi	يحب	يحب	IV3MS-IV	nord	/	F
+20191103	y7ib	arabizi	يحبّ	يحبّ	IV3MS-IV	nord	/	F
 20191103	yetsala	arabizi	يتّصل	يتّصل	IV3MS-IV	nord	/	F
 20191103	min	arabizi	من	من	PREP	nord	/	F
-20191103	riher	arabizi	رهر	رهر	NOUN	nord	/	F
-20191103	may9al9	arabizi	مايقلق	ما+يقلق	NEG_PART+IV3MS-IV	nord	/	F
+20191103	riher	arabizi	غير	غير	PREP	nord	/	F
+20191103	may9al9	arabizi	ما يقلّق	ما+يقلّق	NEG_PART+IV3MS-IV	nord	/	F
 20191103	rou7o	arabizi	روحه	روح+ه	NOUN+POSS_PRON_3MS	nord	/	F
 20191103	et	foreign	et	foreign	foreign	nord	/	F
 20191103	merci	arabizi	مرسي	مرسي	INTERJ	nord	/	F
@@ -1068,7 +1069,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190404	dafya	arabizi	دافية	دافية	ADJ-NSUFF_FEM_SG	Sfax	/	M
 20190404	w	arabizi	و	و	CONJ	Sfax	/	M
 20190404	tkoun	arabizi	تكون	تكون	IV3FS-IV	Sfax	/	M
-20190404	oum	arabizi	أم	ام	NOUN	Sfax	/	M
+20190404	oum	arabizi	امّ	امّ	NOUN	Sfax	/	M
 20190404	il	arabizi	ال	ال	DET	Sfax	/	M
 20190404	binti	arabizi	بنتي	بنت+ي	NOUN+POSS_PRON_1S	Sfax	/	M
 
@@ -1095,10 +1096,10 @@ data	arabish	code	words	token	pos	city	age	gender
 20190404	msg	foreign	msg	foreign	foreign	Sfax	/	M
 20190404	nahkiw	arabizi	نحكيوا	نحكيوا	IV1P-IV-IVSUFF_SUBJ:P	Sfax	/	M
 20190404	w	arabizi	و	و	CONJ	Sfax	/	M
-20190404	nit3arfo	arabizi	نتعرفوا	نتعرفوا	IV1P-IV-IVSUFF_SUBJ:P	Sfax	/	M
+20190404	nit3arfo	arabizi	نتعرّفوا	نتعرّفوا	IV1P-IV-IVSUFF_SUBJ:P	Sfax	/	M
 
 20190404	w	arabizi	و	و	CONJ	Sfax	/	M
-20190404	a9bel	arabizi	أقبل	اقبل	ADV	Sfax	/	M
+20190404	a9bel	arabizi	قبل	قبل	ADV	Sfax	/	M
 20190404	kol	arabizi	كلّ	كلّ	NOUN_QUANT	Sfax	/	M
 20190404	chey	arabizi	شي	شي	PRON_INDEF	Sfax	/	M
 20190404	tchofni	arabizi	تشوفني	تشوف+ني	IV2S-IV+IVSUFF_DO:1S	Sfax	/	M
@@ -1109,7 +1110,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190404	m3a	arabizi	مع	مع	PREP	Sfax	/	M
 20190404	tofla	arabizi	طفلة	طفلة	NOUN-NSUFF_FEM_SG	Sfax	/	M
 20190404	mechoftich	arabizi	ماشفتش	ما+شفت+ش	NEG_PART+PV-PVSUFF_SUBJ:1S+NEG_PART	Sfax	/	M
-20190404	taswiritha	arabizi	تصويرتها	تصويرت+ها	NOUN-NSUFF_FEM_PL+POSS_PRON_3FS	Sfax	/	M
+20190404	taswiritha	arabizi	تصويراتها	تصويرات+ها	NOUN-NSUFF_FEM_PL+POSS_PRON_3FS	Sfax	/	M
 
 20190404	klami	arabizi	كلامي	كلام+ي	NOUN+POSS_PRON_1S	Sfax	/	M
 20190404	wadhah	arabizi	واضح	واضح	ADJ	Sfax	/	M
@@ -1126,7 +1127,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190404	nibdaw	arabizi	نبداوا	نبداوا	IV1P-IV-IVSUFF_SUBJ:P	Sfax	/	M
 20190404	wadhhin	arabizi	واضحين	واضحين	ADJ	Sfax	/	M
 20190404	w	arabizi	و	و	CONJ	Sfax	/	M
-20190404	nit3arfo	arabizi	نتعرفوا	نتعرفوا	IV1P-IV-IVSUFF_SUBJ:P	Sfax	/	M
+20190404	nit3arfo	arabizi	نتعرّفوا	نتعرّفوا	IV1P-IV-IVSUFF_SUBJ:P	Sfax	/	M
 20190404	a3la	arabizi	على	على	PREP	Sfax	/	M
 20190404	9a3da	arabizi	قاعدة	قاعدة	NOUN-NSUFF_FEM_SG	Sfax	/	M
 20190404	shiha	arabizi	صحيحة	صحيحة	ADJ-NSUFF_FEM_SG	Sfax	/	M
@@ -1169,7 +1170,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190401	fi	arabizi	في	في	PREP	/	/	F
 20190401	hal	arabizi	هال	ها+ال	DEM_PRON+DET	/	/	F
 20190401	bled	arabizi	بلاد	بلاد	NOUN	/	/	F
-20190401	yetsawrou	arabizi	يتصورا	يتصورا	IV3MP-IV-IVSUFF_SUBJ:P	/	/	F
+20190401	yetsawrou	arabizi	يتصوّرا	يتصوّرا	IV3MP-IV-IVSUFF_SUBJ:P	/	/	F
 20190401	elli	arabizi	اللي	اللي	REL_PRON	/	/	F
 20190401	kol	arabizi	كلّ	كلّ	NOUN_QUANT	/	/	F
 20190401	bnaya	arabizi	بنيّة	بنيّة	NOUN-NSUFF_FEM_SG	/	/	F
@@ -1185,7 +1186,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190401	?	arabizi	؟	؟	PUNC	/	/	F
 
 20190401	mawjoud	arabizi	موجود	موجود	ADJ	/	/	F
-20190401	haka	arabizi	هكا	هكا	ADV	/	/	F
+20190401	haka	arabizi	هكّا	هكّا	ADV	/	/	F
 20190401	fel	arabizi	فال	في+ال	PREP+DET	/	/	F
 20190401	din	arabizi	دين	دين	NOUN	/	/	F
 20190401	!!	arabizi	!!	!!	PUNC	/	/	F
@@ -1198,7 +1199,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190401	el	arabizi	ال	ال	DET	/	/	F
 20190401	fourouth	arabizi	فروض	فروض	NOUN	/	/	F
 20190401	w	arabizi	و	و	CONJ	/	/	F
-20190401	kabachtou	arabizi	كبشتوا	كبشتوا	PV-PVSUFF_SUBJ:2P	/	/	F
+20190401	kabachtou	arabizi	كبّشتوا	كبّشتوا	PV-PVSUFF_SUBJ:2P	/	/	F
 20190401	fi	arabizi	في	في	PREP	/	/	F
 20190401	...	arabizi	...	...	PUNC	/	/	F
 
@@ -1230,7 +1231,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190401	fel	arabizi	فال	في+ال	PREP+DET	/	/	F
 20190401	sgar	arabizi	صغار	صغار	NOUN	/	/	F
 
-20190401	theb	arabizi	تحب	تحب	IV3FS-IV	/	/	F
+20190401	theb	arabizi	تحبّ	تحبّ	IV3FS-IV	/	/	F
 20190401	tkou	arabizi	تكون	تكون	IV3FS-IV	/	/	F
 20190401	wahadha	arabizi	وحدها	وحد+ها	ADV+PRON_3FS	/	/	F
 20190401	merteha	arabizi	مرتاحة	مرتاحة	ADJ-NSUFF_FEM_SG	/	/	F
@@ -1248,7 +1249,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190401	el	arabizi	ال	ال	DET	/	/	F
 20190401	flous	arabizi	فلوس	فلوس	NOUN	/	/	F
 20190401	w	arabizi	و	و	CONJ	/	/	F
-20190401	theb	arabizi	تحب	تحب	IV3FS-IV	/	/	F
+20190401	theb	arabizi	تحبّ	تحبّ	IV3FS-IV	/	/	F
 20190401	te5dem	arabizi	تخدم	تخدم	IV3FS-IV	/	/	F
 20190401	tamel	arabizi	تعمل	تعمل	IV3FS-IV	/	/	F
 20190401	sport	arabizi	سبور	سبور	NOUN	/	/	F
@@ -1257,7 +1258,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190401	thebhoù	arabizi	تحبّه	تحبّ+ه	IV3FS-IV+IVSUFF_DO:3MS	/	/	F
 20190401	tsafer	arabizi	تسافر	تسافر	IV3FS-IV	/	/	F
 20190401	tchouf	arabizi	تشوف	تشوف	IV3FS-IV	/	/	F
-20190401	kolchay	arabizi	كلشي	كل+شي	NOUN_QUANT+PRON_INDEF	/	/	F
+20190401	kolchay	arabizi	كلّ شي	كلّ+شي	NOUN_QUANT+PRON_INDEF	/	/	F
 20190401	fel	arabizi	فال	في+ال	PREP+DET	/	/	F
 20190401	denia	arabizi	دنيا	دنيا	NOUN	/	/	F
 20190401	mais	foreign	mais	foreign	foreign	/	/	F
@@ -1267,7 +1268,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190401	?	arabizi	؟	؟	PUNC	/	/	F
 
 20190401	aman	arabizi	أمان	امان	INTERJ	/	/	F
-20190401	t9admou	arabizi	تقدموا	تقدموا	CV2P-CV-CVSUFF_SUBJ:P	/	/	F
+20190401	t9admou	arabizi	تقدّموا	تقدّموا	CV2P-CV-CVSUFF_SUBJ:P	/	/	F
 20190401	chweya	arabizi	شويّة	شويّة	[NOUN_QUANT]ADV	/	/	F
 20190401	moch	arabizi	موش	موش	NEG_PART	/	/	F
 20190401	kolchay	arabizi	كلشي	كل+شي	NOUN_QUANT+NOUN	/	/	F
@@ -1325,7 +1326,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190319	wahdi	arabizi	وحدي	وحد+ي	ADV+PRON_1S	/	25-35	F
 20190319	,	arabizi	,	,	PUNC	/	25-35	F
 
-20190319	hawlou	arabizi	حولوا	حولوا	PV-PVSUFF_SUBJ:3P	/	25-35	F
+20190319	hawlou	arabizi	حاولوا	حاولوا	PV-PVSUFF_SUBJ:3P	/	25-35	F
 20190319	ennes	arabizi	الناس	ال+ناس	DET+NOUN	/	25-35	F
 20190319	lkol	arabizi	الكلّ	ال+كل	DET+NOUN_QUANT	/	25-35	F
 20190319	yawnouni	arabizi	يعاونوني	يعاونوا+ني	IV3MP-IV-IVSUFF_SUBJ:P+IVSUFF_DO:1S	/	25-35	F
@@ -1353,7 +1354,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190319	mandich	arabizi	ما عنديش	ما+عند+ي+ش	NEG_PART+PREP+PRON_1S+NEG_PART	/	25-35	F
 20190319	hatta	arabizi	حتّى	حتّى	ADV	/	25-35	F
 20190319	nes	arabizi	ناس	ناس	NOUN	/	25-35	F
-20190319	thezli	arabizi	تهز لي	تهز+ل+ي	IV3FS-IV+[PREP+PRON_1S]IVSUFF_IO:1S	/	25-35	F
+20190319	thezli	arabizi	تهزّ لي	تهزّ+ل+ي	IV3FS-IV+[PREP+PRON_1S]IVSUFF_IO:1S	/	25-35	F
 20190319	el	arabizi	ال	ال	DET	/	25-35	F
 20190319	morale	foreign	morale	foreign	foreign	/	25-35	F
 20190319	w	arabizi	و	و	CONJ	/	25-35	F
@@ -1413,7 +1414,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190319	blasti	arabizi	بلاصتي	بلاصة+ي	NOUN-NSUFF_FEM_SG+POSS_PRON_1S	/	25-35	F
 20190319	ennes	arabizi	الناس	ال+ناس	DET+NOUN	/	25-35	F
 20190319	lkl	arabizi	الكلّ	ال+كل	DET+NOUN_QUANT	/	25-35	F
-20190319	t9adem	arabizi	تقدم	تقدم	IV3FS-IV	/	25-35	F
+20190319	t9adem	arabizi	تقدّم	تقدّم	IV3FS-IV	/	25-35	F
 20190319	en	arabizi	إلا	الا	PREP	/	25-35	F
 20190319	enti	arabizi	إنتي	انتي	PRON_2S	/	25-35	F
 20190319	habsa	arabizi	حابسة	حابسة	ADJ-NSUFF_FEM_SG	/	25-35	F
@@ -1432,7 +1433,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190319	fi	arabizi	في	في	PREP	/	25-35	F
 20190319	chnouwa	arabizi	شنوّة	شنوّة	INTERROG_PRON	/	25-35	F
 20190319	bech	arabizi	باش	باش	FUT_PART	/	25-35	F
-20190319	tkamme	arabizi	تخمم	تخمم	IV2S-IV	/	25-35	F
+20190319	tkamme	arabizi	تخمّم	تخمّم	IV2S-IV	/	25-35	F
 20190319	zama	arabizi	زعمة	زعمة	INTERROG_PART	/	25-35	F
 20190319	?	arabizi	؟	؟	PUNC	/	25-35	F
 
@@ -1462,7 +1463,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190319	ken	arabizi	كان	كان	SUB_CONJ	/	25-35	F
 20190319	nmout	arabizi	نموت	نموت	IV1S-IV	/	25-35	F
 20190319	taw	arabizi	تو	تو	ADV	/	25-35	F
-20190319	yehznou	arabizi	يحزنوا	يحزنوا	IV3MP-IV-IVSUFF_SUBJ:P	/	25-35	F
+20190319	yehznou	arabizi	يحزّنوا	يحزّنوا	IV3MP-IV-IVSUFF_SUBJ:P	/	25-35	F
 20190319	chweya	arabizi	شويّة	شويّة	[NOUN_QUANT]ADV	/	25-35	F
 20190319	w	arabizi	و	و	CONJ	/	25-35	F
 20190319	toufa	arabizi	توفى	توفى	IV3FS-IV	/	25-35	F
@@ -1476,7 +1477,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20181205	ena	arabizi	انا	انا	PRON_1S	/	/	F
 20181205	andi	arabizi	عندي	عند+ي	PREP+PRON_1S	/	/	F
 20181205	mochkla	arabizi	مشكلة	مشكلة	NOUN-NSUFF_FEM_SG	/	/	F
-20181205	nchallah	arabizi	ان شاء الله	ان-#-شاء-#-الله	INTERJ	/	/	F
+20181205	nchallah	arabizi	ان شاء الله	ان شاء الله	INTERJ	/	/	F
 20181205	tnejmou	arabizi	تنجموا	تنجموا	IV2P-IV-IVSUFF_SUBJ:P	/	/	F
 20181205	tenshouni	arabizi	تنصحوني	تنصحوا+ني	IV2P-IV-IVSUFF_SUBJ:P+IVSUFF_DO:1S	/	/	F
 20181205	,	arabizi	,	,	PUNC	/	/	F
@@ -1530,7 +1531,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20181205	aslou	arabizi	أصله	اصل+ه	NOUN+POSS_PRON_3MS	/	/	F
 20181205	ema	arabizi	أما	اما	CONJ	/	/	F
 20181205	nakraha	arabizi	نكرهها	نكره+ها	IV1S-IV+IVSUFF_DO:3FS	/	/	F
-20181205	hakeka	arabizi	هكّاكا	هكّاكا	ADV	/	/	F
+20181205	hakeka	arabizi	هكاكا	هكاكا	ADV	/	/	F
 20181205	blech	arabizi	بلاش	بلاش	PREP	/	/	F
 20181205	sbeb	arabizi	سبب	سبب	NOUN	/	/	F
 
@@ -1544,14 +1545,14 @@ data	arabish	code	words	token	pos	city	age	gender
 20181205	nkamalhech	arabizi	نحملهاش	نحمل+ها+ش	IV1S-IV+IVSUFF_DO:3FS+NEG_PART	/	/	F
 20181205	bel	arabizi	بال	ب+ال	PREP+DET	/	/	F
 20181205	behi	arabizi	باهي	باهي	ADV	/	/	F
-20181205	ntaffiha	arabizi	نتفّيها	نتفّي+ها	IV1S-IV+IVSUFF_DO:3FS	/	/	F
-20181205	kayyenni	arabizi	كيّنني	كيّن+ني	PSEUDO_VERB+PRON_1S	/	/	F
+20181205	ntaffiha	arabizi	نتفّيها	نطفّي+ها	IV1S-IV+IVSUFF_DO:3FS	/	/	F
+20181205	kayyenni	arabizi	كايّنني	كايّن+ني	SUB_CONJ+PRON_1S	/	/	F
 20181205	mech	arabizi	مش	مش	NEG_PART	/	/	F
 20181205	mawjouda	arabizi	موجودة	موجودة	ADJ-NSUFF_FEM_SG	/	/	F
 20181205	nebda	arabizi	نبدا	نبدا	IV1S-IV	/	/	F
 20181205	dra	arabizi	درى	درى	[PV-PVSUFF_SUBJ:3MS]ADV	/	/	F
 20181205	kifech	arabizi	كيفاش	كيفاش	[REL_ADV]ADV	/	/	F
-20181205	netsaref	arabizi	نتصرف	نتصرف	IV1S-IV	/	/	F
+20181205	netsaref	arabizi	نتصرّف	نتصرّف	IV1S-IV	/	/	F
 20181205	maaha	arabizi	معها	مع+ها	PREP+PRON_3FS	/	/	F
 20181205	w	arabizi	و	و	CONJ	/	/	F
 20181205	omi	arabizi	أمّي	امّ+ي	NOUN+POSS_PRON_3FS	/	/	F
@@ -1583,7 +1584,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20181205	nheb	arabizi	نحب	نحب	IV1S-IV	/	/	F
 20181205	nheshom	arabizi	نحسّهم	نحسّ+هم	IV1S-IV+IVSUFF_DO:3P	/	/	F
-20181205	kayebkom	arabizi	كيّنكم	كيّن+كم	PSEUDO_VERB+PRON_2P	/	/	F
+20181205	kayebkom	arabizi	كايّنكم	كايّن+كم	PSEUDO_VERB+PRON_2P	/	/	F
 20181205	5weti	arabizi	خواتي	خوات+ي	NOUN-NSUFF_FEM_SG+POSS_PRON_1S	/	/	F
 20181205	w	arabizi	و	و	CONJ	/	/	F
 20181205	houma	arabizi	هوما	هوما	PRON_3P	/	/	F
@@ -1597,7 +1598,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20181205	nal9a	arabizi	نلقى	نلقى	IV1S-IV	/	/	F
 20181205	rouhi	arabizi	روحي	روح+ي	NOUN+POSS_PRON_1S	/	/	F
 
-20181205	ntaffihom	arabizi	نتفّيهم	نتفّي+هم	IV1S-IV+IVSUFF_DO:3P	/	/	F
+20181205	ntaffihom	arabizi	نطفّيهم	نطفّي+هم	IV1S-IV+IVSUFF_DO:3P	/	/	F
 20181205	w	arabizi	و	و	CONJ	/	/	F
 20181205	namelhom	arabizi	نعملهم	نعمل+هم	IV1S-IV+IVSUFF_DO:3P	/	/	F
 20181205	dra	arabizi	درى	درى	[PV-PVSUFF_SUBJ:3MS]ADV	/	/	F
@@ -1614,7 +1615,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20181205	mchit	arabizi	مشيت	مشيت	PV-PVSUFF_SUBJ:1S	/	/	F
 20181205	w	arabizi	و	و	CONJ	/	/	F
 20181205	le	arabizi	لا	لا	NEG_PART	/	/	F
-20181205	netkalem	arabizi	نتكلم	نتكلم	IV1S-IV	/	/	F
+20181205	netkalem	arabizi	نتكلّم	نتكلّم	IV1S-IV	/	/	F
 20181205	le	arabizi	لا	لا	INTERJ	/	/	F
 20181205	chay	arabizi	شي	شي	PRON_INDEF	/	/	F
 20181205	hatta	arabizi	حتّى	حتّى	SUB_CONJ	/	/	F
@@ -1638,7 +1639,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20181205	fi	arabizi	في	في	PREP	/	/	F
 20181205	kweti	arabizi	خواتي	خوات+ي	NOUN-NSUFF_FEM_SG+POSS_PRON_1S	/	/	F
 20181205	nkaf	arabizi	نخاف	نخاف	IV1S-IV	/	/	F
-20181205	naksarhom	arabizi	نخسرهم	نخسر+هم	IV1S-IV+IVSUFF_DO:3P	/	/	F
+20181205	naksarhom	arabizi	نخسّرهم	نخسّر+هم	IV1S-IV+IVSUFF_DO:3P	/	/	F
 
 20181205	mandich	arabizi	ما عندي ش	ما+عند+ي+ش	NEG_PART+PREP+PRON_1S+NEG_PART	/	/	F
 20181205	ken	arabizi	كان	كان	RESTRIC_PART	/	/	F
@@ -1708,7 +1709,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20151027	mel	arabizi	مال	م+ال	PREP+DET	/	25-35	F
 20151027	peau	foreign	peau	foreign	foreign	/	25-35	F
 20151027	mta3i	arabizi	متاعي	متاع+ي	PREP+PRON_1S	/	25-35	F
-20151027	nawret	arabizi	نورت	نورت	PV-PVSUFF_SUBJ:1S	/	25-35	F
+20151027	nawret	arabizi	نوّرت	نوّرت	PV-PVSUFF_SUBJ:1S	/	25-35	F
 20151027	soub7an	arabizi	سبحان	سبحان	INTERJ	/	25-35	F
 20151027	allah	arabizi	الله	الله	INTERJ	/	25-35	F
 
@@ -1716,7 +1717,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20151027	el	arabizi	ال	ال	DET	/	25-35	F
 20151027	kol	arabizi	كلّ	كلّ	NOUN_QUANT	/	25-35	F
 20151027	mel	arabizi	مال	م+ال	PREP+DET	/	25-35	F
-20151027	7oub	arabizi	حب	حب	NOUN	/	25-35	F
+20151027	7oub	arabizi	حبّ	حبّ	NOUN	/	25-35	F
 20151027	hhhh	arabizi	هههه	هههه	INTERJ	/	25-35	F
 20151027	parfanet	foreign	parfanet	foreign	foreign	/	25-35	F
 
@@ -1744,14 +1745,14 @@ data	arabish	code	words	token	pos	city	age	gender
 20141211	7adhra	arabizi	حاضرة	حاضرة	ADJ-NSUFF_FEM_SG	Zarzis	/	F
 20141211	)	arabizi	)	)	PUNC	Zarzis	/	F
 
-20141211	barak	arabizi	بارك	بارك	NOUN	Zarzis	/	F
+20141211	barak	arabizi	بارك	بارك	CV3S-CV	Zarzis	/	F
 20141211	allah	arabizi	الله	الله	NOUN_PROP	Zarzis	/	F
 20141211	fikom	arabizi	فيكم	في+كم	PREP+PRON_2P	Zarzis	/	F
 
 20190409	svp	foreign	svp	foreign	foreign	Zarzis	/	F
 20190409	choufili	arabizi	شفي لي	شفي+ل+ي	CV2FS-CV+[PREP+PRON_1S]CVSUFF_IO:1S	Zarzis	/	F
 20190409	chkoun	arabizi	شكون	شكون	PRON_INDEF	Zarzis	/	F
-20190409	t7eb	arabizi	تحب	تحب	IV3FS-IV	Zarzis	/	F
+20190409	t7eb	arabizi	تحبّ	تحبّ	IV3FS-IV	Zarzis	/	F
 20190409	techri	arabizi	تشري	تشري	IV3FS-IV	Zarzis	/	F
 20190409	sari	arabizi	ساري	ساري	NOUN	Zarzis	/	F
 20190409	400dt	arabizi	400دت	400+دت	NOUN_NUM+ABBREV	Zarzis	/	F
@@ -1766,93 +1767,93 @@ data	arabish	code	words	token	pos	city	age	gender
 20190409	merci	arabizi	مرسي	مرسي	INTERJ	Zarzis	/	F
 20190409	d'avance	foreign	d'avance	foreign	foreign	Zarzis	/	F
 
-20190405	salem	arabizi	سلام	سلام	INTERJ	Djerba	/	F
-20190405	o5ti	arabizi	أختي	اخت+ي	NOUN+POSS_PRON_1S	Djerba	/	F
-20190405	vous	foreign	vous	foreign	foreign	Djerba	/	F
-20190405	pouvez	foreign	pouvez	foreign	foreign	Djerba	/	F
-20190405	me	foreign	me	foreign	foreign	Djerba	/	F
-20190405	publié	foreign	publié	foreign	foreign	Djerba	/	F
-20190405	mon	foreign	mon	foreign	foreign	Djerba	/	F
-20190405	announce	foreign	announce	foreign	foreign	Djerba	/	F
-20190405	svp	foreign	svp	foreign	foreign	Djerba	/	F
-20190405	merci	arabizi	مرسي	مرسي	INTERJ	Djerba	/	F
-20190405	barka	arabizi	بارك	بارك	NOUN	Djerba	/	F
-20190405	ellah	arabizi	لله	لله	NOUN_PROP	Djerba	/	F
-20190405	fik	arabizi	فيك	في+ك	PREP+PRON_2S	Djerba	/	F
+20190405	salem	arabizi	سلام	سلام	INTERJ	Medenine, Djerba	/	F
+20190405	o5ti	arabizi	أختي	اخت+ي	NOUN+POSS_PRON_1S	Medenine, Djerba	/	F
+20190405	vous	foreign	vous	foreign	foreign	Medenine, Djerba	/	F
+20190405	pouvez	foreign	pouvez	foreign	foreign	Medenine, Djerba	/	F
+20190405	me	foreign	me	foreign	foreign	Medenine, Djerba	/	F
+20190405	publié	foreign	publié	foreign	foreign	Medenine, Djerba	/	F
+20190405	mon	foreign	mon	foreign	foreign	Medenine, Djerba	/	F
+20190405	announce	foreign	announce	foreign	foreign	Medenine, Djerba	/	F
+20190405	svp	foreign	svp	foreign	foreign	Medenine, Djerba	/	F
+20190405	merci	arabizi	مرسي	مرسي	INTERJ	Medenine, Djerba	/	F
+20190405	barka	arabizi	بارك	بارك	CV3S-CV	Medenine, Djerba	/	F
+20190405	ellah	arabizi	لله	لله	NOUN_PROP	Medenine, Djerba	/	F
+20190405	fik	arabizi	فيك	في+ك	PREP+PRON_2S	Medenine, Djerba	/	F
 
-20190405	pour	foreign	pour	foreign	foreign	Djerba	/	F
-20190405	tous	foreign	tous	foreign	foreign	Djerba	/	F
-20190405	vos	foreign	vos	foreign	foreign	Djerba	/	F
-20190405	èvènement	foreign	èvènement	foreign	foreign	Djerba	/	F
-20190405	lamet	arabizi	لمّات	لمّات	NOUN-NSUFF_FEM_PL	Djerba	/	F
-20190405	enfaset	foreign	enfaset	foreign	foreign	Djerba	/	F
-20190405	5outba	arabizi	خطبة	خطبة	NOUN-NSUFF_FEM_SG	Djerba	/	F
-20190405	3arsse	arabizi	عرس	عرس	NOUN	Djerba	/	F
-20190405	anniversaire	foreign	anniversaire	foreign	foreign	Djerba	/	F
-20190405	je	foreign	je	foreign	foreign	Djerba	/	F
-20190405	vous	foreign	vous	foreign	foreign	Djerba	/	F
-20190405	propose	foreign	propose	foreign	foreign	Djerba	/	F
-20190405	des	foreign	des	foreign	foreign	Djerba	/	F
-20190405	petits	foreign	petits	foreign	foreign	Djerba	/	F
-20190405	fours	foreign	fours	foreign	foreign	Djerba	/	F
+20190405	pour	foreign	pour	foreign	foreign	Medenine, Djerba	/	F
+20190405	tous	foreign	tous	foreign	foreign	Medenine, Djerba	/	F
+20190405	vos	foreign	vos	foreign	foreign	Medenine, Djerba	/	F
+20190405	èvènement	foreign	èvènement	foreign	foreign	Medenine, Djerba	/	F
+20190405	lamet	arabizi	لمّات	لمّات	NOUN-NSUFF_FEM_PL	Medenine, Djerba	/	F
+20190405	enfaset	foreign	enfaset	foreign	foreign	Medenine, Djerba	/	F
+20190405	5outba	arabizi	خطبة	خطبة	NOUN-NSUFF_FEM_SG	Medenine, Djerba	/	F
+20190405	3arsse	arabizi	عرس	عرس	NOUN	Medenine, Djerba	/	F
+20190405	anniversaire	foreign	anniversaire	foreign	foreign	Medenine, Djerba	/	F
+20190405	je	foreign	je	foreign	foreign	Medenine, Djerba	/	F
+20190405	vous	foreign	vous	foreign	foreign	Medenine, Djerba	/	F
+20190405	propose	foreign	propose	foreign	foreign	Medenine, Djerba	/	F
+20190405	des	foreign	des	foreign	foreign	Medenine, Djerba	/	F
+20190405	petits	foreign	petits	foreign	foreign	Medenine, Djerba	/	F
+20190405	fours	foreign	fours	foreign	foreign	Medenine, Djerba	/	F
 
-20190405	salés	foreign	salés	foreign	foreign	Djerba	/	F
-20190405	mini	foreign	mini	foreign	foreign	Djerba	/	F
-20190405	fricassée	foreign	fricassée	foreign	foreign	Djerba	/	F
-20190405	,	arabizi	,	,	PUNC	Djerba	/	F
-20190405	brike	arabizi	بريك	بريك	NOUN_PROP	Djerba	/	F
-20190405	danouni	arabizi	دنّوني	دنّوني	NOUN_PROP	Djerba	/	F
-20190405	,	arabizi	,	,	PUNC	Djerba	/	F
-20190405	mini	foreign	mini	foreign	foreign	Djerba	/	F
-20190405	hamburger	foreign	hamburger	foreign	foreign	Djerba	/	F
-20190405	,	arabizi	,	,	PUNC	Djerba	/	F
-20190405	mini	foreign	mini	foreign	foreign	Djerba	/	F
-20190405	guiches	foreign	guiches	foreign	foreign	Djerba	/	F
-20190405	,	arabizi	,	,	PUNC	Djerba	/	F
-20190405	mini	foreign	mini	foreign	foreign	Djerba	/	F
-20190405	pizza	foreign	pizza	foreign	foreign	Djerba	/	F
-20190405	,	arabizi	,	,	PUNC	Djerba	/	F
-20190405	croissant	foreign	croissant	foreign	foreign	Djerba	/	F
-20190405	au	foreign	au	foreign	foreign	Djerba	/	F
-20190405	saumon	foreign	saumon	foreign	foreign	Djerba	/	F
-20190405	,	arabizi	,	,	PUNC	Djerba	/	F
-20190405	baguette	foreign	baguette	foreign	foreign	Djerba	/	F
-20190405	farcies	foreign	farcies	foreign	foreign	Djerba	/	F
-20190405	,	arabizi	,	,	PUNC	Djerba	/	F
-20190405	tous	foreign	tous	foreign	foreign	Djerba	/	F
-20190405	a	foreign	a	foreign	foreign	Djerba	/	F
-20190405	60ct	foreign	60ct	foreign	foreign	Djerba	/	F
-20190405	la	foreign	la	foreign	foreign	Djerba	/	F
-20190405	pièce	foreign	pièce	foreign	foreign	Djerba	/	F
-20190405	.	arabizi	.	.	PUNC	Djerba	/	F
+20190405	salés	foreign	salés	foreign	foreign	Medenine, Djerba	/	F
+20190405	mini	foreign	mini	foreign	foreign	Medenine, Djerba	/	F
+20190405	fricassée	foreign	fricassée	foreign	foreign	Medenine, Djerba	/	F
+20190405	,	arabizi	,	,	PUNC	Medenine, Djerba	/	F
+20190405	brike	arabizi	بريك	بريك	NOUN_PROP	Medenine, Djerba	/	F
+20190405	danouni	arabizi	دنّوني	دنّوني	NOUN_PROP	Medenine, Djerba	/	F
+20190405	,	arabizi	,	,	PUNC	Medenine, Djerba	/	F
+20190405	mini	foreign	mini	foreign	foreign	Medenine, Djerba	/	F
+20190405	hamburger	foreign	hamburger	foreign	foreign	Medenine, Djerba	/	F
+20190405	,	arabizi	,	,	PUNC	Medenine, Djerba	/	F
+20190405	mini	foreign	mini	foreign	foreign	Medenine, Djerba	/	F
+20190405	guiches	foreign	guiches	foreign	foreign	Medenine, Djerba	/	F
+20190405	,	arabizi	,	,	PUNC	Medenine, Djerba	/	F
+20190405	mini	foreign	mini	foreign	foreign	Medenine, Djerba	/	F
+20190405	pizza	foreign	pizza	foreign	foreign	Medenine, Djerba	/	F
+20190405	,	arabizi	,	,	PUNC	Medenine, Djerba	/	F
+20190405	croissant	foreign	croissant	foreign	foreign	Medenine, Djerba	/	F
+20190405	au	foreign	au	foreign	foreign	Medenine, Djerba	/	F
+20190405	saumon	foreign	saumon	foreign	foreign	Medenine, Djerba	/	F
+20190405	,	arabizi	,	,	PUNC	Medenine, Djerba	/	F
+20190405	baguette	foreign	baguette	foreign	foreign	Medenine, Djerba	/	F
+20190405	farcies	foreign	farcies	foreign	foreign	Medenine, Djerba	/	F
+20190405	,	arabizi	,	,	PUNC	Medenine, Djerba	/	F
+20190405	tous	foreign	tous	foreign	foreign	Medenine, Djerba	/	F
+20190405	a	foreign	a	foreign	foreign	Medenine, Djerba	/	F
+20190405	60ct	foreign	60ct	foreign	foreign	Medenine, Djerba	/	F
+20190405	la	foreign	la	foreign	foreign	Medenine, Djerba	/	F
+20190405	pièce	foreign	pièce	foreign	foreign	Medenine, Djerba	/	F
+20190405	.	arabizi	.	.	PUNC	Medenine, Djerba	/	F
 
-20190405	aussi	foreign	aussi	foreign	foreign	Djerba	/	F
-20190405	des	foreign	des	foreign	foreign	Djerba	/	F
-20190405	gâteaux	foreign	gâteaux	foreign	foreign	Djerba	/	F
-20190405	hlou	arabizi	حلو	حلو	ADJ	Djerba	/	F
-20190405	3arbi	arabizi	عربي	عربي	ADJ	Djerba	/	F
-20190405	ba9lawa	arabizi	بقلاوة	بقلاوة	NOUN_PROP	Djerba	/	F
-20190405	,	arabizi	,	,	PUNC	Djerba	/	F
-20190405	3ouche	arabizi	عشّ	عشّ	NOUN_PROP	Djerba	/	F
-20190405	elboulboule	arabizi	البلبل	ال+بلبل	[DET+NOUN_PROP]NOUN_PROP	Djerba	/	F
-20190405	,	arabizi	,	,	PUNC	Djerba	/	F
-20190405	cigarette	foreign	cigarette	foreign	foreign	Djerba	/	F
-20190405	au	foreign	au	foreign	foreign	Djerba	/	F
-20190405	amandes	foreign	amandes	foreign	foreign	Djerba	/	F
-20190405	,	arabizi	,	,	PUNC	Djerba	/	F
-20190405	samsa	arabizi	صمصة	صمصة	NOUN	Djerba	/	F
+20190405	aussi	foreign	aussi	foreign	foreign	Medenine, Djerba	/	F
+20190405	des	foreign	des	foreign	foreign	Medenine, Djerba	/	F
+20190405	gâteaux	foreign	gâteaux	foreign	foreign	Medenine, Djerba	/	F
+20190405	hlou	arabizi	حلو	حلو	NOUN	Medenine, Djerba	/	F
+20190405	3arbi	arabizi	عربي	عربي	ADJ	Medenine, Djerba	/	F
+20190405	ba9lawa	arabizi	بقلاوة	بقلاوة	NOUN_PROP	Medenine, Djerba	/	F
+20190405	,	arabizi	,	,	PUNC	Medenine, Djerba	/	F
+20190405	3ouche	arabizi	عشّ	عشّ	NOUN_PROP	Medenine, Djerba	/	F
+20190405	elboulboule	arabizi	البلبل	ال+بلبل	[DET+NOUN_PROP]NOUN_PROP	Medenine, Djerba	/	F
+20190405	,	arabizi	,	,	PUNC	Medenine, Djerba	/	F
+20190405	cigarette	foreign	cigarette	foreign	foreign	Medenine, Djerba	/	F
+20190405	au	foreign	au	foreign	foreign	Medenine, Djerba	/	F
+20190405	amandes	foreign	amandes	foreign	foreign	Medenine, Djerba	/	F
+20190405	,	arabizi	,	,	PUNC	Medenine, Djerba	/	F
+20190405	samsa	arabizi	صمصة	صمصة	NOUN	Medenine, Djerba	/	F
 
-20190405	n'hésitez	foreign	n'hésitez	foreign	foreign	Djerba	/	F
-20190405	pas	foreign	pas	foreign	foreign	Djerba	/	F
-20190405	a	foreign	a	foreign	foreign	Djerba	/	F
-20190405	m	foreign	m	foreign	foreign	Djerba	/	F
-20190405	envoyer	foreign	envoyer	foreign	foreign	Djerba	/	F
-20190405	un	foreign	un	foreign	foreign	Djerba	/	F
-20190405	message	foreign	message	foreign	foreign	Djerba	/	F
-20190405	privé	foreign	privé	foreign	foreign	Djerba	/	F
+20190405	n'hésitez	foreign	n'hésitez	foreign	foreign	Medenine, Djerba	/	F
+20190405	pas	foreign	pas	foreign	foreign	Medenine, Djerba	/	F
+20190405	a	foreign	a	foreign	foreign	Medenine, Djerba	/	F
+20190405	m	foreign	m	foreign	foreign	Medenine, Djerba	/	F
+20190405	envoyer	foreign	envoyer	foreign	foreign	Medenine, Djerba	/	F
+20190405	un	foreign	un	foreign	foreign	Medenine, Djerba	/	F
+20190405	message	foreign	message	foreign	foreign	Medenine, Djerba	/	F
+20190405	privé	foreign	privé	foreign	foreign	Medenine, Djerba	/	F
 
-20190405	marhaba	arabizi	مرحبا	مرحبا	INTERJ	Djerba	/	F
-20190405	bikoum	arabizi	بكم	ب+كم	PREP+PRON_2P	Djerba	/	F
+20190405	marhaba	arabizi	مرحبا	مرحبا	INTERJ	Medenine, Djerba	/	F
+20190405	bikoum	arabizi	بكم	ب+كم	PREP+PRON_2P	Medenine, Djerba	/	F
 
 20190405	salem	arabizi	سلام	سلام	INTERJ	Zarzis	/	F
 20190409	j'espère	foreign	j'espère	foreign	foreign	Zarzis	/	F
@@ -3401,7 +3402,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20160921	photos	foreign	photos	foreign	foreign	Tunis	25-35	F
 
 20160908	A7la	arabizi	أحلى	احلى	ADJ_COMP	Tunis	25-35	F
-20160908	5arjet	arabizi	خرجت	خرجت	NOUN-NSUFF_FEM_PL	Tunis	25-35	F
+20160908	5arjet	arabizi	خرجات	خرجات	NOUN-NSUFF_FEM_PL	Tunis	25-35	F
 20160908	club	foreign	club	foreign	foreign	Tunis	25-35	F
 20160908	events	foreign	events	foreign	foreign	Tunis	25-35	F
 
@@ -3409,7 +3410,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190715	Manouba_Club_Camping	foreign	Manouba_Club_Camping	foreign	foreign	Tunis-Manouba	25-35	M
 
 20190715	#	arabizi	#	#	SYM	Tunis	25-35	M
-20190715	12jul_13jul	arabizi	12جول_13جول	12+جول+_+13+جول	NOUN_NUM+NOUN+PUNC+NOUN_NUM+NOUN	Tunis	25-35	M
+20190715	12jul_13jul	arabizi	12جول_13جول	12+جول+_+13+جول	NOUN_NUM+ABBREV+PUNC+NOUN_NUM+ABBREV	Tunis	25-35	M
 
 20190715	#	arabizi	#	#	SYM	Tunis	25-35	M
 20190715	bizerte	foreign	bizerte	foreign	foreign	Tunis	25-35	M
@@ -3437,7 +3438,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20170312	rando	arabizi	راندو	راندو	NOUN	Tunis	25-35	M
 20170312	chbeba	arabizi	شبابة	شبابة	ADJ-NSUFF_FEM_SG	Tunis	25-35	M
 20170312	9a3da	arabizi	قاعدة	قاعدة	ADJ-NSUFF_FEM_SG	Tunis	25-35	M
-20170312	ta7dher	arabizi	تحضر	تحضر	IV3FS-IV_PASS	Tunis	25-35	M
+20170312	ta7dher	arabizi	تحضّر	تحضّر	IV3FS-IV_PASS	Tunis	25-35	M
 20170312	feha	arabizi	فيها	في+ها	PREP+PRON_3FS	Tunis	25-35	M
 20170312	barcha	arabizi	برشة	برشة	ADV	Tunis	25-35	M
 20170312	7ajet	arabizi	حاجات	حاجات	NOUN-NSUFF_FEM_PL	Tunis	25-35	M
@@ -3482,7 +3483,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20171009	prix	foreign	prix	foreign	foreign	Tunis	25-35	M
 20171009	7dt	arabizi	7دت	7+دت	NOUN_NUM+ABBREV	Tunis	25-35	M
 20171009	ili	arabizi	اللي	اللي	REL_PRON	Tunis	25-35	M
-20171009	i7eb	arabizi	يحب	يحب	IV3MS-IV	Tunis	25-35	M
+20171009	i7eb	arabizi	يحبّ	يحبّ	IV3MS-IV	Tunis	25-35	M
 20171009	yemchi	arabizi	يمشي	يمشي	IV3MS-IV	Tunis	25-35	M
 20171009	m5abbi218	arabizi	مخبّي218	مخبّي218	NOUN_PROP	Tunis	25-35	M
 20171009	m5abbi1585	arabizi	مخبّي1585	مخبّي1585	NOUN_PROP	Tunis	25-35	M
@@ -3537,7 +3538,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190206	vitesse	foreign	vitesse	foreign	foreign	Tunis	35-50	M
 20190206	,	arabizi	,	,	PUNC	Tunis	35-50	M
 
-20190206	habit	arabizi	حبيّت	حبيّت	PV-PVSUFF_SUBJ:1S	Tunis	35-50	M
+20190206	habit	arabizi	حبّيت	حبّيت	PV-PVSUFF_SUBJ:1S	Tunis	35-50	M
 20190206	netla3	arabizi	نطلع	نطلع	IV1S-IV	Tunis	35-50	M
 20190206	3mal	arabizi	عمل	عمل	PV-PVSUFF_SUBJ:3MS	Tunis	35-50	M
 20190206	marche	foreign	marche	foreign	foreign	Tunis	35-50	M
@@ -3545,7 +3546,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190206	10	arabizi	10	10	NOUN_NUM	Tunis	35-50	M
 20190206	mitrou	arabizi	ميترو	ميترو	NOUN_QUANT	Tunis	35-50	M
 20190206	lteli	arabizi	التالي	ال+تالي	DET+NOUN	Tunis	35-50	M
-20190206	w9eft	arabizi	وقفت	وقفت	PV-PVSUFF_SUBJ:1S	Tunis	35-50	M
+20190206	w9eft	arabizi	وقّفت	وقّفت	PV-PVSUFF_SUBJ:1S	Tunis	35-50	M
 20190206	fel	arabizi	فال	في+ال	PREP+DET	Tunis	35-50	M
 20190206	kayes	arabizi	كياس	كيّاس	NOUN	Tunis	35-50	M
 20190206	nzel	arabizi	نزل	نزل	PV-PVSUFF_SUBJ:3MS	Tunis	35-50	M
@@ -3557,7 +3558,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190206	,	arabizi	,	,	PUNC	Tunis	35-50	M
 
 20190206	yekhi	arabizi	ياخي	ياخي	CONJ	Tunis	35-50	M
-20190206	b3edt	arabizi	بعدت	بعدت	PV-PVSUFF_SUBJ:1S	Tunis	35-50	M
+20190206	b3edt	arabizi	بعّدت	بعّدت	PV-PVSUFF_SUBJ:1S	Tunis	35-50	M
 20190206	ena	arabizi	انا	انا	PRON_1S	Tunis	35-50	M
 20190206	mel	arabizi	مال	م+ال	PREP+DET	Tunis	35-50	M
 20190206	kayes	arabizi	كياس	كيّاس	NOUN	Tunis	35-50	M
@@ -3567,7 +3568,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190206	w	arabizi	و	و	CONJ	Tunis	35-50	M
 20190206	t3ada	arabizi	تعدّى	تعدّى	PV-PVSUFF_SUBJ:3MS	Tunis	35-50	M
 20190206	yejri	arabizi	يجري	يجري	IV3MS-IV	Tunis	35-50	M
-20190206	9adem	arabizi	قدّم	قدّم	ADV	Tunis	35-50	M
+20190206	9adem	arabizi	قدّم	قدّم	PV-PVSUFF_SUBJ:3MS	Tunis	35-50	M
 20190206	l9odem	arabizi	القدّام	ال+قدّام	DET+NOUN	Tunis	35-50	M
 20190206	50	arabizi	50	50	NOUN_NUM	Tunis	35-50	M
 20190206	mitrou	arabizi	ميترو	ميترو	NOUN_QUANT	Tunis	35-50	M
@@ -3590,7 +3591,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190206	taxiste	arabizi	تاكسيست	تاكسيست	NOUN	Tunis	35-50	M
 20190206	ekher	arabizi	اخر	اخر	ADJ	Tunis	35-50	M
 20190206	y9oli	arabizi	يقول لي	يقول+ل+ي	IV3MS-IV+[PREP+PRON_1S]IVSUFF_IO:1S	Tunis	35-50	M
-20190206	nwaslou	arabizi	نوصلوا	نوصلوا	IV1P-IV-IVSUFF_SUBJ:P	Tunis	35-50	M
+20190206	nwaslou	arabizi	نوصّلوا	نوصّلوا	IV1P-IV-IVSUFF_SUBJ:P	Tunis	35-50	M
 20190206	la3bed	arabizi	العباد	ال+عباد	DET+NOUN	Tunis	35-50	M
 20190206	eli	arabizi	اللي	اللي	REL_PRON	Tunis	35-50	M
 20190206	fi	arabizi	في	في	PREP	Tunis	35-50	M
@@ -3644,8 +3645,8 @@ data	arabish	code	words	token	pos	city	age	gender
 20180509	3aslemetkom	arabizi	عالسلامتكم	ع+ال+سلامة+كم	[PREP+DET+NOUN-NSUFF_FEM_SG+PRON_2P]INTERJ	Tunis	-25	F
 20180509	🤹‍♀️	emotag	🤹‍♀️	emotag	emotag	Tunis	-25	F
 20180509	Chkoun	arabizi	شكون	شكون	PRON_INDEF	Tunis	-25	F
-20180509	t7b	arabizi	تحب	تحب	IV3FS-IV	Tunis	-25	F
-20180509	to5les	arabizi	تخلص	تخلص	IV3FS-IV	Tunis	-25	F
+20180509	t7b	arabizi	تحبّ	تحبّ	IV3FS-IV	Tunis	-25	F
+20180509	to5les	arabizi	تخلّص	تخلّص	IV3FS-IV_PASS	Tunis	-25	F
 20180509	chaque	foreign	chaque	foreign	foreign	Tunis	-25	F
 20180509	7	arabizi	7	7	NOUN_NUM	Tunis	-25	F
 20180509	j	foreign	j	foreign	foreign	Tunis	-25	F
@@ -3656,8 +3657,8 @@ data	arabish	code	words	token	pos	city	age	gender
 20180509	mardi	foreign	mardi	foreign	foreign	Tunis	-25	F
 20180509	yjik	arabizi	يجيك	يجي+ك	IV3MS-IV+IVSUFF_IO:2S	Tunis	-25	F
 20180509	salaire	foreign	salaire	foreign	foreign	Tunis	-25	F
-20180509	3ali	arabizi	عاللي	ع+اللي	PREP+REL_PRON	Tunis	-25	F
-20180509	tsawrou	arabizi	تصوروا	تصوروا	IV2P-IV-IVSUFF_SUBJ:P	Tunis	-25	F
+20180509	3ali	arabizi	عالي	عالي	ADJ	Tunis	-25	F
+20180509	tsawrou	arabizi	تصوّروا	تصوّروا	IV2P-IV-IVSUFF_SUBJ:P	Tunis	-25	F
 20180509	kol	arabizi	كلّ	كلّ	NOUN_QUANT	Tunis	-25	F
 20180509	jem3a	arabizi	جمعة	جمعة	NOUN-NSUFF_FEM_SG	Tunis	-25	F
 20180509	🤓💪♥️	emotag	🤓💪♥️	emotag	emotag	Tunis	-25	F
@@ -3688,7 +3689,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180509	3inikom	arabizi	عينيكم	عيني+كم	NOUN+POSS_PRON_2P	Tunis	-25	F
 20180509	.	arabizi	.	.	PUNC	Tunis	-25	F
 
-20180509	hmd	arabizi	حمد	حمد	INTERJ	Tunis	-25	F
+20180509	hmd	arabizi	حمد	حمد	NOUN	Tunis	-25	F
 20180509	li	arabizi	ل	ل	PREP	Tunis	-25	F
 20180509	9a3din	arabizi	قاعدين	قاعدين	ADJ-NSUFF_MASC_PL	Tunis	-25	F
 20180509	ye5dmou	arabizi	يخدموا	يخدموا	IV3MP-IV-IVSUFF_SUBJ:P	Tunis	-25	F
@@ -3731,7 +3732,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180814	kaak	arabizi	كعك	كعك	NOUN	Zaghouan	50+	F
 20180814	lihab	arabizi	اللي يحب	اللي+يحب	REL_PRON+IV3MS-IV	Zaghouan	50+	F
 20180814	yachri	arabizi	يشري	يشري	IV3MS-IV	Zaghouan	50+	F
-20180814	majod	arabizi	مجد	مجد	NOUN	Zaghouan	50+	F
+20180814	majod	arabizi	موجود	موجود	NOUN	Zaghouan	50+	F
 20180814	m5abbi2675	arabizi	مخبّي2675	مخبّي2675	NOUN_PROP	Zaghouan	50+	F
 20180814	m5abbi1968	arabizi	مخبّي1968	مخبّي1968	NOUN_PROP	Zaghouan	25-35	F
 
@@ -3774,7 +3775,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180502	la	foreign	la	foreign	foreign	Tunis	/	/
 20180502	goulette	foreign	goulette	foreign	foreign	Tunis	/	/
 20180502	tunis	arabizi	تونس	تونس	NOUN_PROP	Tunis	/	/
-20180502	tel	arabizi	تل	تل	NOUN	Tunis	/	/
+20180502	tel	arabizi	تال	تال	ABBREV	Tunis	/	/
 20180502	m5abbi2651	arabizi	مخبّي2651	مخبّي2651	NOUN_PROP	Tunis	/	/
 
 20180502	Mawjoudine	arabizi	موجودين	موجودين	ADJ-NSUFF_MASC_PL	Tunis	25-35	F
@@ -3782,7 +3783,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180502	1500	arabizi	1500	1500	NOUN_NUM	Tunis	25-35	F
 
 20180502	Mazalou	arabizi	ما زالوا	ما+زالوا	NEG_PART+PV-PVSUFF_SUBJ:3P	Jendouba	25-35	M
-20180502	mawjpudin	arabizi	موجبدن	موجبدن	ADJ-NSUFF_MASC_PL	Jendouba	25-35	M
+20180502	mawjpudin	arabizi	موجودين	موجودين	ADJ-NSUFF_MASC_PL	Jendouba	25-35	M
 
 20180502	Ab3ath	arabizi	ابعث	ابعث	CV2S-CV	Tunis	25-35	F
 20180502	msg	foreign	msg	foreign	foreign	Tunis	25-35	F
@@ -3805,7 +3806,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180502	rami	arabizi	رامي	رامي	NOUN_PROP	Jendouba	-25	M
 20180502	w	arabizi	و	و	CONJ	Jendouba	-25	M
 20180502	taw	arabizi	تو	تو	ADV	Jendouba	-25	M
-20180502	na3mou	arabizi	نعموا	نعموا	IV1P-IV-IVSUFF_SUBJ:P	Jendouba	-25	M
+20180502	na3mou	arabizi	نعملوا	نعملوا	IV1P-IV-IVSUFF_SUBJ:P	Jendouba	-25	M
 20180502	machrou3	arabizi	مشروع	مشروع	NOUN	Jendouba	-25	M
 20180502	hhh	arabizi	هههه	هههه	INTERJ	Jendouba	-25	M
 20180502	😂😂	emotag	😂😂	emotag	emotag	Jendouba	-25	M
@@ -3823,7 +3824,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180404	annee	foreign	annee	foreign	foreign	Tunis	/	/
 20180404	juin	foreign	juin	foreign	foreign	Tunis	/	/
 20180404	2007	arabizi	2007	2007	NOUN_NUM	Tunis	/	/
-20180404	km	arabizi	كم	كم	NOUN_QUANT	Tunis	/	/
+20180404	km	arabizi	كم	كم	ABBREV	Tunis	/	/
 20180404	149000	arabizi	149000	149000	NOUN_NUM	Tunis	/	/
 20180404	tt	foreign	tt	foreign	foreign	Tunis	/	/
 20180404	options	foreign	options	foreign	foreign	Tunis	/	/
@@ -3858,7 +3859,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180404	500	arabizi	500	500	NOUN_NUM	Tunis	/	/
 20180404	d	arabizi	د	د	ABBREV	Tunis	/	/
 20180404	.	arabizi	.	.	PUNC	Tunis	/	/
-20180404	tel	arabizi	تل	تل	NOUN	Tunis	/	/
+20180404	tel	arabizi	تال	تال	ABBREV	Tunis	/	/
 20180404	lel	arabizi	لل	ل+ال	PREP+DET	Tunis	/	/
 20180404	kasseba	arabizi	كسّابة	كسّابة	NOUN-NSUFF_FEM_SG	Tunis	/	/
 20180404	barka	arabizi	بركا	بركا	ADV	Tunis	/	/
@@ -3887,7 +3888,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180407	de	foreign	de	foreign	foreign	/	35-50	M
 20180407	téléphone	foreign	téléphone	foreign	foreign	/	35-50	M
 
-20180407	Tél	arabizi	تل	تل	NOUN	Tunis	35-50	M
+20180407	Tél	arabizi	تال	تال	NOUN	Tunis	35-50	M
 20180407	svp	foreign	svp	foreign	foreign	Tunis	35-50	M
 
 20190719	9adech	arabizi	قدّاش	قدّاش	INTERROG_PRON	/	25-35	M
@@ -3994,7 +3995,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150626	7ata	arabizi	حتّى	حتّى	SUB_CONJ	Tunis	/	/
 20150626	erhebkom	arabizi	ارهابكم	ارهاب+كم	NOUN+POSS_PRON_2P	Tunis	/	/
 20150626	Romanci	arabizi	رومانسي	رومانسي	ADJ	Tunis	/	/
-20150626	ytmeres	arabizi	يتمرس	يتمرس	IV3MS-IV	Tunis	/	/
+20150626	ytmeres	arabizi	يتمرس	يتمرس	IV3MS-IV_PASS	Tunis	/	/
 20150626	faw9a	arabizi	فوق	فوق	ADV	Tunis	/	/
 20150626	echawata1	arabizi	الشواطى1	ال+شواطى+1	DET+NOUN+NOUN_NUM	Tunis	/	/
 20150626	#	arabizi	#	#	SYM	Tunis	/	/
@@ -4002,7 +4003,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150626	magadouch	arabizi	ما قدّوش	ما+قدّوا+ش	NEG_PART+PV-PVSUFF_SUBJ:3P+NEG_PART	Tunis	/	/
 20150626	rwe7hom	arabizi	رواحهم	رواح+هم	NOUN+POSS_PRON_3P	Tunis	/	/
 20150626	fel	arabizi	فال	في+ال	PREP+DET	Tunis	/	/
-20150626	l7wem	arabizi	لحوم	لحوم	NOUN	Tunis	/	/
+20150626	l7wem	arabizi	الحوم	ال+حوم	DET+NOUN	Tunis	/	/
 20150626	dawroha	arabizi	دوّروها	دوّروا+ها	PV-PVSUFF_SUBJ:3P+PVSUFF_DO:3FS	Tunis	/	/
 20150626	f	arabizi	في	في	PREP	Tunis	/	/
 20150626	les	foreign	les	foreign	foreign	Tunis	/	/
@@ -4049,7 +4050,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180724	5ajal	arabizi	خجل	خجل	NOUN	Paris Tunis	25-35	M
 
 20181029	Rabi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON:1S	Sousse	25-35	F
-20181029	igadre	arabizi	يقدّر	يقدر	IV3S-IV	Sousse	25-35	F
+20181029	igadre	arabizi	يقدّر	يقدّر	IV3S-IV	Sousse	25-35	F
 20181029	il5ire	arabizi	الخير	ال+خير	DET+NOUN	Sousse	25-35	F
 
 20181029	enchala	arabizi	ان شاء الله	ان شاء الله	INTERJ	Tataouine	25-35	M
@@ -4084,7 +4085,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20180917	Chkou	arabizi	شكون	شكون	INTERROG_PRON	Paris Tunis	25-35	M
 20180917	3ndoum	arabizi	عندهم	عند+هم	PREP+PRON_3P	Paris Tunis	25-35	M
-20180917	3louma	arabizi	علومة	علومة	NOUN-NSUFF_FEM_SG	Paris Tunis	25-35	M
+20180917	3louma	arabizi	معلومة	معلومة	NOUN-NSUFF_FEM_SG	Paris Tunis	25-35	M
 20180917	ynjim	arabizi	ينجّم	ينجّم	IV3MS-IV	Paris Tunis	25-35	M
 20180917	y3wen	arabizi	يعاون	يعاوّن	IV3MS-IV	Paris Tunis	25-35	M
 20180917	behaa	arabizi	بها	ب+ها	PREP+PRON_3FS	Paris Tunis	25-35	M
@@ -4097,7 +4098,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20180930	Chkoun	arabizi	شكون	شكون	INTERROG_PRON	Paris Tunis	25-35	M
 20180930	ynjim	arabizi	ينجّم	ينجّم	IV3MS-IV	Paris Tunis	25-35	M
-20180930	y3awnou	arabizi	يعاونه	يعاون+ه	IV3MS-IV+IVSUFF_DO:3MS	Paris Tunis	25-35	M
+20180930	y3awnou	arabizi	يعاوّنه	يعاوّن+ه	IV3MS-IV+IVSUFF_DO:3MS	Paris Tunis	25-35	M
 20180930	w	arabizi	و	و	CONJ	Paris Tunis	25-35	M
 20180930	ela	arabizi	اللي	اللي	REL_PRON	Paris Tunis	25-35	M
 20180930	3ndo	arabizi	عنده	عند+ه	PREP+PRON_3MS	Paris Tunis	25-35	M
@@ -4118,7 +4119,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180724	Wurud	arabizi	ورود	ورود	NOUN	/	50+	F
 20180724	Wzuhur	arabizi	وزهور	و+زهور	CONJ+NOUN	/	50+	F
 
-20180724	Nawartu	arabizi	نورتوا	نورتوا	PV-PVSUFF_SUBJ:2P	Nabeul	/	M
+20180724	Nawartu	arabizi	نوّرتوا	نوّرتوا	PV-PVSUFF_SUBJ:2P	Nabeul	/	M
 
 20180724	aminnn	arabizi	امين	امين	INTERJ	Tunis	/	F
 
@@ -4156,7 +4157,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20181118	Bjr	foreign	Bjr	foreign	foreign	Tunis	25-35	F
 
-20181118	Jaw	arabizi	جو	جو	NOUN	/	-25	M
+20181118	Jaw	arabizi	جوّ	جوّ	NOUN	/	-25	M
 20181118	😂	emotag	😂	emotag	emotag	/	-25	M
 
 20181118	ija	arabizi	اجا	اجا	CV2S-CV	Nabeul	25-35	F
@@ -4172,7 +4173,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20181118	Bonjour	foreign	Bonjour	foreign	foreign	/	35-50	M
 20181118	haya	arabizi	هيا	هيا	INTERJ	/	35-50	M
-20181118	traw7ou	arabizi	تروحوا	تروحوا	CV2P-CV-CVSUFF_SUBJ:2P	/	35-50	M
+20181118	traw7ou	arabizi	تروّحوا	تروّحوا	CV2P-CV-CVSUFF_SUBJ:2P	/	35-50	M
 20181118	ou	arabizi	او	او	CONJ	/	35-50	M
 20181118	nemchou	arabizi	نمشوا	نمشوا	IV1P-IV-IVSUFF_SUBJ:P	/	35-50	M
 20181118	fi	arabizi	في	في	PREP	/	35-50	M
@@ -4184,7 +4185,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20181118	d	foreign	d	foreign	foreign	Tunis	25-35	F
 20181118	ariena	arabizi	اريانة	اريانة	NOUN_PROP	Tunis	25-35	F
 
-20181118	Theb	arabizi	تحب	تحب	IV3FS-IV	Tunis	25-35	F
+20181118	Theb	arabizi	تحبّ	تحبّ	IV3FS-IV	Tunis	25-35	F
 20181118	chi5a	arabizi	شيخة	شيخة	NOUN-NSUFF_FEM_SG	Tunis	25-35	F
 20181118	par	foreign	par	foreign	foreign	Tunis	25-35	F
 20181118	cam	foreign	cam	foreign	foreign	Tunis	25-35	F
@@ -4200,7 +4201,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20181118	T3ich	arabizi	تعيش	تعيش	IV3FS-IV	Tunis	25-35	F
 20181118	lbara	arabizi	البرّا	ال+برّا	DET+NOUN	Tunis	25-35	F
 20181118	w	arabizi	و	و	CONJ	Tunis	25-35	F
-20181118	theb	arabizi	تحب	تحب	IV3FS-IV	Tunis	25-35	F
+20181118	theb	arabizi	تحبّ	تحبّ	IV3FS-IV	Tunis	25-35	F
 20181118	tchi5	arabizi	تشيخ	تشيخ	IV3FS-IV	Tunis	25-35	F
 20181118	cart	foreign	cart	foreign	foreign	Tunis	25-35	F
 20181118	google	foreign	google	foreign	foreign	Tunis	25-35	F
@@ -4212,7 +4213,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20181118	marahbe	arabizi	مرحبا	مرحبا	INTERJ	Tunis	25-35	F
 20181118	bik	arabizi	بك	ب+ك	PREP+PRON_2S	Tunis	25-35	F
 
-20181118	T7eb	arabizi	تحب	تحب	IV3FS-IV	Tunis	25-35	F
+20181118	T7eb	arabizi	تحبّ	تحبّ	IV3FS-IV	Tunis	25-35	F
 20181118	3la	arabizi	على	على	PREP	Tunis	25-35	F
 20181118	rèell	foreign	rèell	foreign	foreign	Tunis	25-35	F
 20181118	just	foreign	just	foreign	foreign	Tunis	25-35	F
@@ -4273,7 +4274,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20181118	Ili	arabizi	اللي	اللي	REL_PRON	Tunis	25-35	F
 20181118	yse3dou	arabizi	يساعدوا	يساعدوا	IV3MP-IV-IVSUFF_SUBJ:P	Tunis	25-35	F
-20181118	haka	arabizi	هكا	هكا	ADV	Tunis	25-35	F
+20181118	haka	arabizi	هكّا	هكّا	ADV	Tunis	25-35	F
 20181118	yab3ath	arabizi	يبعث	يبعث	IV3MS-IV	Tunis	25-35	F
 20181118	misage	foreign	misage	foreign	foreign	Tunis	25-35	F
 20181118	privè	foreign	privè	foreign	foreign	Tunis	25-35	F
@@ -4363,7 +4364,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20181109	Loooooool	foreign	Loooooool	foreign	foreign	Stuttgart	35-50	F
 
-20180820	Machallah	arabizi	ما شاء الله	ماشاءالله	INTERJ	/	25-35	F
+20180820	Machallah	arabizi	ما شاء الله	ما شاء الله	INTERJ	/	25-35	F
 
 20180808	😂😂😂	emotag	😂😂😂	emotag	emotag	Paris Tunis	25-35	M
 
@@ -4390,7 +4391,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180828	ytnezlou	arabizi	يتنازلوا	يتنازلوا	IV3MP-IV-IVSUFF_SUBJ:P	Tunis	25-35	F
 20180828	houma	arabizi	هوما	هوما	PRON_3P	Tunis	25-35	F
 20180828	ala	arabizi	على	على	PREP	Tunis	25-35	F
-20180828	charihom	arabizi	شاريهم	شاري+هم	NOUN+POSS_PRON_3P	Tunis	25-35	F
+20180828	charihom	arabizi	شهريهم	شهري+هم	NOUN+POSS_PRON_3P	Tunis	25-35	F
 20180828	za3ma	arabizi	زعمة	زعمة	INTERROG_PART	Tunis	25-35	F
 20180828	inajmou	arabizi	ينجّموا	ينجّموا	IV3MP-IV-IVSUFF_SUBJ:P	Tunis	25-35	F
 
@@ -4428,7 +4429,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20181111	Rabi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	Tataouine	50+	M
 20181111	yechfih	arabizi	يشفيه	يشفي+ه	IV3MS-IV+IVSUFF_DO:3MS	Tataouine	50+	M
 20181111	ou	arabizi	و	و	CONJ	Tataouine	50+	M
-20181111	3afih	arabizi	يعافيه	يعافي+ه	IV3MS-IV+IVSUFF_DO:3MS	Tataouine	50+	M
+20181111	3afih	arabizi	عافيه	عافي+ه	ADJ+PRON_3MS	Tataouine	50+	M
 
 20181111	Rabi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	Tunis Paris	25-35	M
 20181111	yechfih	arabizi	يشفيه	يشفي+ه	IV3MS-IV+IVSUFF_DO:3MS	Tunis Paris	25-35	M
@@ -4462,7 +4463,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20181111	rabi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	Monastir	25-35	F
 20181111	ychfiiik	arabizi	يشفيك	يشفي+ك	IV3MS-IV+IVSUFF_DO:3MS	Monastir	25-35	F
-20181111	saber	arabizi	صابر	صابر	NOUN_PROP	Monastir	25-35	F
+20181111	saber	arabizi	صبر	صبر	NOUN	Monastir	25-35	F
 20181111	w	arabizi	و	و	CONJ	Monastir	25-35	F
 20181111	bara	arabizi	برّا	برّا	ADV	Monastir	25-35	F
 
@@ -4470,7 +4471,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20181111	khlemta	arabizi	كلّمت	كلّمت	PV-PVSUFF_SUBJ:1S	Paris	35-50	M
 20181111	babah	arabizi	باباه	بابا+ه	NOUN+POSS_PRON_3MS	Paris	35-50	M
 20181111	ourhou	arabizi	وروحه	و+روح+ه	CONJ+NOUN+POSS_PRON_3MS	Paris	35-50	M
-20181111	mestha9	arabizi	مستحق	مستحق	ADJ	Paris	35-50	M
+20181111	mestha9	arabizi	مستحقّ	مستحقّ	ADJ	Paris	35-50	M
 20181111	éli	arabizi	اللي	اللي	REL_PRON	Paris	35-50	M
 20181111	3najem	arabizi	ينجّم	ينجّم	IV3MS-IV	Paris	35-50	M
 20181111	eawna	arabizi	يعاوننا	يعاون+نا	IV3MS-IV+IVSUFF_DO:1P	Paris	35-50	M
@@ -4580,7 +4581,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180822	❤❤	emotag	❤❤	emotag	emotag	Paris Tunis	25-35	M
 
 20180822	Rabi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	/	25-35	F
-20180822	e3inhom	arabizi	يعينهم	يعين+هم	IV3MS-IV+IVSUFF_DO:3P	/	25-35	F
+20180822	e3inhom	arabizi	عينهم	عين+هم	PSEUDO_VERB+PRON_3MP	/	25-35	F
 
 20180713	Tik	arabizi	طيك	طي+ك	ABBREV+IVSUFF_DO:2S	Mahdia	-25	F
 20180713	saha	arabizi	صحّة	صحّة	[NOUN-NSUFF_FEM_SG]INTERJ	Mahdia	-25	F
@@ -4695,7 +4696,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180720	i7ebou	arabizi	يحبّوا	يحبّوا	IV3MP-IV-IVSUFF_SUBJ:P	Madanin, Djerba ,  Paris	35-50	M
 20180720	a3la	arabizi	على	على	PREP	Madanin, Djerba ,  Paris	35-50	M
 20180720	wa7ed	arabizi	واحد	واحد	PRON_INDEF	Madanin, Djerba ,  Paris	35-50	M
-20180720	iseb	arabizi	يصب	يصب	IV3MS-IV	Madanin, Djerba ,  Paris	35-50	M
+20180720	iseb	arabizi	يصبّ	يصبّ	IV3MS-IV	Madanin, Djerba ,  Paris	35-50	M
 20180720	elma	arabizi	الما	ال+ما	DET+NOUN	Madanin, Djerba ,  Paris	35-50	M
 20180720	ki	arabizi	كي	كي	SUB_CONJ	Madanin, Djerba ,  Paris	35-50	M
 20180720	tatle3	arabizi	تطلع	تطلع	IV3FS-IV	Madanin, Djerba ,  Paris	35-50	M
@@ -4753,7 +4754,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20181022	Jerba	arabizi	جربة	جربة	NOUN_PROP	Madanin, Djerba	35-50	F
 
-20181022	Gbelli	arabizi	قبلي	قبلي	NOUN_PROP	Kébili	/	F
+20181022	Gbelli	arabizi	قبلّي	قبلّي	NOUN_PROP	Kébili	/	F
 
 20181022	mednin	arabizi	مدنين	مدنين	NOUN_PROP	Tunis	25-35	F
 20181022	💞	emotag	💞	emotag	emotag	Tunis	25-35	F
@@ -4779,7 +4780,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20181022	Men	arabizi	من	من	PREP	/	35-50	M
 20181022	oura	arabizi	ورى	ورى	ADV	/	35-50	M
-20181022	talifoun	arabizi	تلفون	تلفون	NOUN	/	35-50	M
+20181022	talifoun	arabizi	تاليفون	تاليفون	NOUN	/	35-50	M
 
 20181022	Mednine	arabizi	مدنين	مدنين	NOUN_PROP	/	/	F
 
@@ -4901,7 +4902,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180911	ken	arabizi	كان	كان	PV-PVSUFF_SUBJ:3MS	Monastir	25-35	M
 20180911	lbera	arabizi	البرّا	ال+برّا	DET+NOUN	Monastir	25-35	M
 20180911	bera	arabizi	برّا	برّا	INTERJ	Monastir	25-35	M
-20180911	saybou	arabizi	سيبوا	سيبوا	PV-PVSUFF_SUBJ:3MS	Monastir	25-35	M
+20180911	saybou	arabizi	سيّبوا	سيّبوا	PV-PVSUFF_SUBJ:3MS	Monastir	25-35	M
 20180911	l9hawi	arabizi	القهاوي	ال+قهاوي	DET+NOUN	Monastir	25-35	M
 20180911	w	arabizi	و	و	CONJ	Monastir	25-35	M
 20180911	e5dmou	arabizi	اخدموا	اخدموا	PV-PVSUFF_SUBJ:3MS	Monastir	25-35	M
@@ -4929,7 +4930,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180911	kima	arabizi	كيما	كيما	CONJ	Tunis	25-35	F
 20180911	ilyoum	arabizi	اليوم	ال+يوم	[DET+NOUN]ADV	Tunis	25-35	F
 20180911	sana	arabizi	سنة	سنة	NOUN-NSUFF_FEM_SG	Tunis	25-35	F
-20180911	hejriya	arabizi	هجّرية	هجّرية	ADJ-NSUFF_FEM_SG	Tunis	25-35	F
+20180911	hejriya	arabizi	هجّريّة	هجّريّة	ADJ-NSUFF_FEM_SG	Tunis	25-35	F
 20180911	moubarka	arabizi	مباركة	مباركة	ADJ-NSUFF_FEM_SG	Tunis	25-35	F
 20180911	al	arabizi	ال	ال	DET	Tunis	25-35	F
 20180911	oma	arabizi	امّة	امّة	NOUN-NSUFF_FEM_SG	Tunis	25-35	F
@@ -4959,7 +4960,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20180718	bonsoir	foreign	bonsoir	foreign	foreign	Djerba, Madanin	/	F
 
-20180718	Macha2a'allah	arabizi	ما شاء الله	ماشاءالله	INTERJ	/	25-35	F
+20180718	Macha2a'allah	arabizi	ما شاء الله	ما شاء الله	INTERJ	/	25-35	F
 
 20180718	Salut	foreign	Salut	foreign	foreign	Gabès	-25	F
 
@@ -5005,7 +5006,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20180924	Angleterre	foreign	Angleterre	foreign	foreign	/	50+	F
 
-20180924	tunsia	arabizi	تونسيّة	تونسيّة	NOUN_PROP	Pantin	25-35	M
+20180924	tunsia	arabizi	تونسيّة	تونسيّة	ADJ-NSUFF_FEM_SG	Pantin	25-35	M
 20180924	tataouine	arabizi	تطاوين	تطاوين	NOUN_PROP	Pantin	25-35	M
 20180924	❤	emotag	❤	emotag	emotag	Pantin	25-35	M
 
@@ -5028,7 +5029,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180924	ma9tch	arabizi	ما لقيتش	ما+لقيت+ش	NEG_PART+PV-PVSUFF_SUBJ:1S+NEG_PART	Nabeul	25-35	F
 20180924	kfh	arabizi	كيفاه	كيفاه	ADV	Nabeul	25-35	F
 
-20180924	Fransa	arabizi	فرنسا	فرنسا	NOUN_PROP	Sousse	25-35	F
+20180924	Fransa	arabizi	فرنسا	فرانسا	NOUN_PROP	Sousse	25-35	F
 
 20180924	Tunis	arabizi	تونس	تونس	NOUN_PROP	Mahdia	-25	F
 
@@ -5037,7 +5038,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180924	Tunis	arabizi	تونس	تونس	NOUN_PROP	Tunis	25-35	M
 20180924	😘	emotag	😘	emotag	emotag	Tunis	25-35	M
 
-20180924	Fransa	arabizi	فرنسا	فرنسا	NOUN_PROP	Sidi Bouzid	25-35	M
+20180924	Fransa	arabizi	فرنسا	فرانسا	NOUN_PROP	Sidi Bouzid	25-35	M
 
 20180924	Tunis	arabizi	تونس	تونس	NOUN_PROP	Mahdia	-25	F
 
@@ -5059,16 +5060,16 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20180924	M3a	arabizi	مع	مع	PREP	Tunis, Bizerterguiba	-25	F
 20180924	awledi	arabizi	اولادي	اولاد+ي	NOUN+POSS_PRON_1S	Tunis, Bizerterguiba	-25	F
-20180924	france	arabizi	فرنسا	فرنسا	NOUN_PROP	Tunis, Bizerterguiba	-25	F
+20180924	france	arabizi	فرنسا	فرانسا	NOUN_PROP	Tunis, Bizerterguiba	-25	F
 
 20180924	swisra	arabizi	سويسرا	سويسرا	NOUN_PROP	Tunis	/	F
 
 20180924	Maka	arabizi	مكّة	مـكّة	NOUN_PROP	Zarzis	-25	M
 
-20180924	Hhhjh	arabizi	هههه	هههه	INTERJ	Djerba	25-35	M
-20180924	rabi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	Djerba	25-35	M
-20180924	yashel	arabizi	يسهل	يسهل	IV3MS-IV	Djerba	25-35	M
-20180924	inchallah	arabizi	ان شاء الله	ان شاء الله	INTERJ	Djerba	25-35	M
+20180924	Hhhjh	arabizi	هههه	هههه	INTERJ	Medenine, Djerba	25-35	M
+20180924	rabi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	Medenine, Djerba	25-35	M
+20180924	yashel	arabizi	يسهّل	يسهّل	IV3MS-IV	Medenine, Djerba	25-35	M
+20180924	inchallah	arabizi	ان شاء الله	ان شاء الله	INTERJ	Medenine, Djerba	25-35	M
 
 20180924	Fe	arabizi	في	في	PREP	Paris	/	M
 20180924	tounse	arabizi	تونس	تونس	NOUN_PROP	Paris	/	M
@@ -5107,7 +5108,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180924	Paris	foreign	Paris	foreign	foreign	Djerba, Madanin	-25	F
 20180924	😂😂	emotag	😂😂	emotag	emotag	Djerba, Madanin	-25	F
 
-20180924	Faransa	arabizi	فرنسا	فرنسا	NOUN_PROP	/	-25	M
+20180924	Faransa	arabizi	فرنسا	فرانسا	NOUN_PROP	/	-25	M
 20180924	❤❤	emotag	❤❤	emotag	emotag	/	-25	M
 
 20180924	Marhbe	arabizi	مرحبا	مرحبا	INTERJ	Tunis	25-35	F
@@ -5117,7 +5118,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180924	Tounis	arabizi	تونس	تونس	NOUN_PROP	/	35-50	F
 
 20180924	Lmdina	arabizi	المدينة	ال+مدينة	DET+NOUN-NSUFF_FEM_SG	Toulouse	35-50	M
-20180924	elmnawara	arabizi	المنورة	ال+منورة	DET+ADJ-NSUFF_FEM_SG	Toulouse	35-50	M
+20180924	elmnawara	arabizi	المنوّرة	ال+منوّرة	DET+ADJ-NSUFF_FEM_SG	Toulouse	35-50	M
 
 20180924	Paris	foreign	Paris	foreign	foreign	La Goulette	35-50	M
 
@@ -5132,13 +5133,13 @@ data	arabish	code	words	token	pos	city	age	gender
 20180924	Tunis	arabizi	تونس	تونس	NOUN_PROP	Mahdia	-25	M
 20180924	Akid	arabizi	آكيد	آكيد	INTERJ	Mahdia	-25	M
 
-20180924	Rabi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	Médenine, Ben Guardane	25-35	F
-20180924	sahel	arabizi	سهل	سهل	CV2S-CV	Médenine, Ben Guardane	25-35	F
+20180924	Rabi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	Medenine, Ben Guardane	25-35	F
+20180924	sahel	arabizi	سهّل	سهّل	CV2S-CV	Medenine, Ben Guardane	25-35	F
 
 20180924	Sueed	arabizi	سويد	سويد	NOUN_PROP	Tunis	25-35	M
 
 20180924	Rabi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	Algerie, Tunis	25-35	F
-20180924	ysahel	arabizi	يسهل	يسهل	IV3MS-IV	Algerie, Tunis	25-35	F
+20180924	ysahel	arabizi	يسهّل	يسهّل	IV3MS-IV	Algerie, Tunis	25-35	F
 20180924	brek	arabizi	برك	برك	ADV	Algerie, Tunis	25-35	F
 
 20180924	italia	arabizi	ايطاليا	ايطاليا	NOUN_PROP	Sousse	25-35	F
@@ -5180,8 +5181,8 @@ data	arabish	code	words	token	pos	city	age	gender
 20180930	#	arabizi	#	#	SYM	Paris Tunis	25-35	M
 20180930	5ajal	arabizi	خجل	خجل	NOUN	Paris Tunis	25-35	M
 
-20180930	m5abbi1516	arabizi	مخبّي1516	مخبّي1516	NOUN_PROP	Djerba	25-35	F
-20180930	m5abbi2308	arabizi	مخبّي2308	مخبّي2308	NOUN_PROP	Djerba	25-35	F
+20180930	m5abbi1516	arabizi	مخبّي1516	مخبّي1516	NOUN_PROP	Medenine, Djerba	25-35	F
+20180930	m5abbi2308	arabizi	مخبّي2308	مخبّي2308	NOUN_PROP	Medenine, Djerba	25-35	F
 
 20180930	m5abbi891	arabizi	مخبّي891	مخبّي891	NOUN_PROP	/	25-35	F
 20180930	m5abbi2152	arabizi	مخبّي2152	مخبّي2152	NOUN_PROP	/	25-35	F
@@ -5203,7 +5204,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180930	m5abbi1064	arabizi	مخبّي1064	مخبّي1064	NOUN_PROP	/	-25	M
 20180930	m5abbi2642	arabizi	مخبّي2642	مخبّي2642	NOUN_PROP	/	-25	M
 20180930	m5abbi170	arabizi	مخبّي170	مخبّي170	NOUN_PROP	/	-25	M
-20180930	Saidi@	arabizi	سيدي@	سيدي+@	NOUN_PROP+SYM	/	-25	M
+20180930	Saidi@	arabizi	سيدي@	سيد+ي+@	NOUN+POSS_PRON_1S+SYM	/	-25	M
 
 20180930	hhhhhhhh	arabizi	هههه	هههه	INTERJ	Tunis	25-35	F
 
@@ -5232,7 +5233,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180710	Sbeh	arabizi	صباح	صباح	NOUN	Paris	25-35	F
 20180710	nour	arabizi	نور	نور	NOUN	Paris	25-35	F
 
-20180820	Machaallah	arabizi	ما شاء الله	ماشاءالله	INTERJ	/	25-35	F
+20180820	Machaallah	arabizi	ما شاء الله	ما شاء الله	INTERJ	/	25-35	F
 
 20181109	❤❤❤	emotag	❤❤❤	emotag	emotag	Paris Tunis	25-35	M
 
@@ -5438,7 +5439,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20171110	Chella	arabizi	شلّة	شلّة	NOUN-NSUFF_FEM_SG	Tunis	25-35	M
 
 20171219	A7lla	arabizi	أحلى	احلى	ADJ_COMP	Tunis	25-35	M
-20171219	jaw	arabizi	جو	جو	NOUN	Tunis	25-35	M
+20171219	jaw	arabizi	جوّ	جوّ	NOUN	Tunis	25-35	M
 20171219	le	foreign	le	foreign	foreign	Tunis	25-35	M
 20171219	17	arabizi	17	17	NOUN_NUM	Tunis	25-35	M
 20171219	/	arabizi	/	/	SYM	Tunis	25-35	M
@@ -5449,9 +5450,9 @@ data	arabish	code	words	token	pos	city	age	gender
 20171110	Amine	arabizi	امين	امين	NOUN	Tunis	25-35	M
 
 20171110	A7lla	arabizi	أحلى	احلى	ADJ_COMP	Tunis	25-35	M
-20171110	jaw	arabizi	جو	جو	NOUN	Tunis	25-35	M
+20171110	jaw	arabizi	جوّ	جوّ	NOUN	Tunis	25-35	M
 20171110	m3a	arabizi	مع	مع	PREP	Tunis	25-35	M
-20171110	jaw	arabizi	جو	جو	NOUN	Tunis	25-35	M
+20171110	jaw	arabizi	جوّ	جوّ	NOUN	Tunis	25-35	M
 20171110	😍😍	emotag	😍😍	emotag	emotag	Tunis	25-35	M
 
 20171110	A7la	arabizi	أحلى	احلى	ADJ_COMP	Tunis	25-35	M
@@ -5554,7 +5555,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190723	Elli	arabizi	اللي	اللي	REL_PRON	Monastir, Tunis	-25	M
 20190723	ktebha	arabizi	كتبها	كتب+ها	PV-PVSUFF_SUBJ:3FS+PVSUFF_SUBJ:3FS	Monastir, Tunis	-25	M
 20190723	3ateha	arabizi	عطاها	عطا+ها	PV-PVSUFF_SUBJ:3FS+PVSUFF_SUBJ:3FS	Monastir, Tunis	-25	M
-20190723	bethabt	arabizi	بضّبط	ب+ال+ضّبط	[PREP+DET+NOUN]ADV	Monastir, Tunis	-25	M
+20190723	bethabt	arabizi	بضبط	ب+ال+ضبط	[PREP+DET+NOUN]ADV	Monastir, Tunis	-25	M
 
 20190723	hhhhhhhhhh	arabizi	هههه	هههه	INTERJ	Le Kef, Tunis	25-35	M
 
@@ -5578,7 +5579,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20190721	Berrassmi	arabizi	بالرسمي	ب+ال+رسمي	[PREP+DET+NOUN]ADV	Suisse	35-50	M
 20190721	iwalli	arabizi	يولّي	يولّي	IV3MS-IV	Suisse	35-50	M
-20190721	iche'd	arabizi	يشد	يشد	IV3MS-IV	Suisse	35-50	M
+20190721	iche'd	arabizi	يشدّ	يشدّ	IV3MS-IV	Suisse	35-50	M
 20190721	echarge	arabizi	الشارج	ال+شارج	DET+NOUN	Suisse	35-50	M
 
 20190721	m5abbi1548	arabizi	مخبّي1548	مخبّي1548	NOUN_PROP	Zaghouane	25-35	M
@@ -5587,7 +5588,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190721	m5abbi1576	arabizi	مخبّي1576	مخبّي1576	NOUN_PROP	Zaghouane	25-35	M
 20190721	m5abbi189	arabizi	مخبّي189	مخبّي189	NOUN_PROP	Zaghouane	25-35	M
 
-20190721	Iheb	arabizi	يحب	يحب	IV3MS-IV	Medenine	25-35	M
+20190721	Iheb	arabizi	يحبّ	يحبّ	IV3MS-IV	Medenine	25-35	M
 20190721	Hdia	arabizi	هديّة	هديّة	NOUN-NSUFF_FEM_SG	Medenine	25-35	M
 
 20190721	Fan	foreign	Fan	foreign	foreign	Tunis	35-50	M
@@ -5708,7 +5709,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190723	m5abbi2106	arabizi	مخبّي2106	مخبّي2106	NOUN_PROP	Nabeul	25-35	M
 20190723	m5abbi2984	arabizi	مخبّي2984	مخبّي2984	NOUN_PROP	Nabeul	25-35	M
 20190723	ta9rib	arabizi	تقريب	تقريب	ADV	Nabeul	25-35	M
-20190723	yseb	arabizi	يسب	يسب	IV3MS-IV	Nabeul	25-35	M
+20190723	yseb	arabizi	يسبّ	يسبّ	IV3MS-IV	Nabeul	25-35	M
 20190723	fil	arabizi	فال	في+ال	PREP+DET	Nabeul	25-35	M
 20190723	koora	arabizi	كورة	كورة	NOUN-NSUFF_FEM_SG	Nabeul	25-35	M
 20190723	😂😂	emotag	😂😂	emotag	emotag	Nabeul	25-35	M
@@ -5736,7 +5737,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190723	😂	emotag	😂	emotag	emotag	Mahdia	-25	M
 
 20190723	Lyoum	arabizi	اليوم	ال+يوم	[DET+NOUN]ADV	/	/	M
-20190723	nikkek	arabizi	نيكك	نيك+ك	IV1S-IV+IVSUFF_DO:2S	/	/	M
+20190723	nikkek	arabizi	ننيكك	ننيك+ك	IV1S-IV+IVSUFF_DO:2S	/	/	M
 
 20190723	nasya	arabizi	ناصية	ناصية	NOUN-NSUFF_FEM_SG	Ben Arous, Tunis	-25	M
 20190723	mchouma	arabizi	مشومة	مشومة	ADJ-NSUFF_FEM_SG	Ben Arous, Tunis	-25	M
@@ -5744,7 +5745,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20190723	Cho	arabizi	شو	شو	CV2S-CV	Tunis	25-35	M
 20190723	kods	arabizi	كدس	كدس	NOUN	Tunis	25-35	M
-20190723	la3ze	arabizi	العزا	ال+عزاء	NOUN	Tunis	25-35	M
+20190723	la3ze	arabizi	العزاء	ال+عزاء	NOUN	Tunis	25-35	M
 20190723	li	arabizi	اللي	اللي	PREP	Tunis	25-35	M
 20190723	w7elt	arabizi	وحلت	وحلت	PV-PVSUFF_SUBJ:1S	Tunis	25-35	M
 20190723	fih	arabizi	فيه	في+ه	PREP+PRON_3MS	Tunis	25-35	M
@@ -5767,7 +5768,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20190723	m5abbi2441	arabizi	مخبّي2441	مخبّي2441	NOUN_PROP	Tunis	-25	M
 20190723	m5abbi2666	arabizi	مخبّي2666	مخبّي2666	NOUN_PROP	Tunis	-25	M
-20190723	fesh	arabizi	فاش	فاش	INTERROG_PRON	Tunis	-25	M
+20190723	fesh	arabizi	فاش	في+اش	INTERROG_PRON	Tunis	-25	M
 20190723	yehki	arabizi	يحكي	يحكي	IV3MS-IV	Tunis	-25	M
 20190723	zaema	arabizi	زعمة	زعمة	INTERROG_PART	Tunis	-25	M
 20190723	😂😂	emotag	😂😂	emotag	emotag	Tunis	-25	M
@@ -5840,7 +5841,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190723	😂	emotag	😂	emotag	emotag	Sfax	-25	M
 
 20190727	ta9rib	arabizi	تقريب	تقريب	ADV	Sousse	25-35	M
-20190727	tselou	arabizi	تساله	تسال+ه	IV2S-IV+IVSUFF_DO:3MS	Sousse	25-35	M
+20190727	tselou	arabizi	تسأله	تسأل+ه	IV2S-IV+IVSUFF_DO:3MS	Sousse	25-35	M
 20190727	flouss	arabizi	فلوس	فلوس	NOUN	Sousse	25-35	M
 
 20190727	Fan	foreign	Fan	foreign	foreign	Rades, Tunis	35-50	M
@@ -5870,13 +5871,13 @@ data	arabish	code	words	token	pos	city	age	gender
 20190727	tounsi	arabizi	تونسي	تونسي	ADJ	Tunis	25-35	M
 20190727	eli	arabizi	اللي	اللي	REL_PRON	Tunis	25-35	M
 20190727	dima	arabizi	ديما	ديما	ADV	Tunis	25-35	M
-20190727	hachihoulna	arabizi	حاشيهوا لنا	حاشيهوا+ل+نا	PV-PVSUFF_SUBJ:3P+[PREP+PRON_1P]IVSUFF_IO:1P	Tunis	25-35	M
+20190727	hachihoulna	arabizi	حاشيه لنا	حاشي+ه+ل+نا	ADJ+PRON_3MS+PREP+PRON_1P	Tunis	25-35	M
 20190727	joret	arabizi	جرّة	جرّة	NOUN-NSUFF_FEM_SG	Tunis	25-35	M
 20190727	laflem	arabizi	الافلام	ال+افلام	DET+NOUN	Tunis	25-35	M
 20190727	wel	arabizi	وال	و+ال	CONJ+DET	Tunis	25-35	M
 20190727	kedheb	arabizi	كذب	كذب	NOUN	Tunis	25-35	M
 
-20190727	T7eb	arabizi	تحب	تحب	IV2S-IV	Tunis	25-35	M
+20190727	T7eb	arabizi	تحبّ	تحبّ	IV2S-IV	Tunis	25-35	M
 20190727	tebki	arabizi	تبكي	تبكي	IV2S-IV	Tunis	25-35	M
 
 20190727	Ya	arabizi	يا	يا	VOC_PART	Sousse	-25	M
@@ -6112,7 +6113,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190721	700	arabizi	700	700	NOUN_NUM	Nabeul	-25	M
 20190721	dt	arabizi	دت	دت	ABBREV	Nabeul	-25	M
 
-20190721	750	arabizi	750	750	NOUN_NUM	Djerba	25-35	M
+20190721	750	arabizi	750	750	NOUN_NUM	Medenine, Djerba	25-35	M
 20190721	d	arabizi	د	د	ABBREV	/	25-35	M
 20190721	mslim	arabizi	مسلم	مسلم	ADJ	/	25-35	M
 20190721	hhhhhhhh	arabizi	هههه	هههه	INTERJ	/	25-35	M
@@ -6164,7 +6165,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190721	d	arabizi	د	د	ABBREV	/	25-35	M
 20190721	w3andi	arabizi	وعندي	و+عند+ي	CONJ+PREP+PRON_1S	/	25-35	M
 20190721	kan	arabizi	كان	كان	SUB_CONJ	/	25-35	M
-20190721	t7eb	arabizi	تحب	تحب	IV2S-IV	/	nan	M
+20190721	t7eb	arabizi	تحبّ	تحبّ	IV2S-IV	/	nan	M
 
 20190721	750d	arabizi	750د	750+د	NOUN_NUM+ABBREV	Kairouanee	35-50	F
 
@@ -6480,7 +6481,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190721	650	arabizi	650	650	NOUN_NUM	Jendouba	25-35	M
 20190721	wl	arabizi	وال	و+ال	CONJ+DET	Jendouba	25-35	M
 20190721	maks	arabizi	مكّس	مكّس	NOUN	Jendouba	25-35	M
-20190721	alik	arabizi	عليك	علي+ك	PREP+PRON_2S	Jendouba	25-35	M
+20190721	alik	arabizi	عليك	على+ك	PREP+PRON_2S	Jendouba	25-35	M
 
 20190721	700	arabizi	700	700	NOUN_NUM	/	-25	M
 
@@ -6765,7 +6766,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20170810	m5abbi2579	arabizi	مخبّي2579	مخبّي2579	NOUN_PROP	Sfax	25-35	M
 
 20170810	Baaarcha	arabizi	برشة	برشة	ADV	Sfax	25-35	M
-20170810	jaw	arabizi	جو	جو	NOUN	Sfax	-25	M
+20170810	jaw	arabizi	جوّ	جوّ	NOUN	Sfax	-25	M
 
 20170810	Damak	arabizi	دمّك	دمّ+ك	NOUN+POSS_PRON_2S	Sfax	-25	M
 20170810	m5abbi2850	arabizi	مخبّي2850	مخبّي2850	NOUN_PROP	Sfax	-25	M
@@ -7165,12 +7166,12 @@ data	arabish	code	words	token	pos	city	age	gender
 20190722	bb	arabizi	بب	ب+ب	ABBREV+ABBREV	Sfax	-25	F
 20190722	😄😄😄	emotag	😄😄😄	emotag	emotag	Sfax	-25	F
 
-20190722	m5abbi1277	arabizi	مخبّي1277	مخبّي1277	NOUN_PROP	Djerba	25-35	M
-20190722	m5abbi2616	arabizi	مخبّي2616	مخبّي2616	NOUN_PROP	Djerba	25-35	M
-20190722	aya	arabizi	ايّ	ايّ	INTERJ	Djerba	25-35	M
-20190722	snin	arabizi	سنين	سنين	NOUN-NSUFF_MASC_PL	Djerba	25-35	M
-20190722	deymaa	arabizi	ديما	ديما	ADV	Djerba	25-35	M
-20190722	😂😂	emotag	😂😂	emotag	emotag	Djerba	25-35	M
+20190722	m5abbi1277	arabizi	مخبّي1277	مخبّي1277	NOUN_PROP	Medenine, Djerba	25-35	M
+20190722	m5abbi2616	arabizi	مخبّي2616	مخبّي2616	NOUN_PROP	Medenine, Djerba	25-35	M
+20190722	aya	arabizi	ايّ	ايّ	INTERJ	Medenine, Djerba	25-35	M
+20190722	snin	arabizi	سنين	سنين	NOUN-NSUFF_MASC_PL	Medenine, Djerba	25-35	M
+20190722	deymaa	arabizi	ديما	ديما	ADV	Medenine, Djerba	25-35	M
+20190722	😂😂	emotag	😂😂	emotag	emotag	Medenine, Djerba	25-35	M
 
 20190722	m5abbi77	arabizi	مخبّي77	مخبّي77	NOUN_PROP	/	25-35	M
 20190722	Sahbi	arabizi	صاحبي	صاحب+ي	NOUN+POSS_PRON_1S	/	25-35	M
@@ -7424,7 +7425,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20190722	m5abbi23	arabizi	مخبّي23	مخبّي23	NOUN_PROP	Sfax	25-35	M
 20190722	m5abbi2745	arabizi	مخبّي2745	مخبّي2745	NOUN_PROP	Sfax	25-35	M
-20190722	barak	arabizi	باراك	بارك	NOUN	Sfax	25-35	M
+20190722	barak	arabizi	باراك	بارك	CV3S-CV	Sfax	25-35	M
 20190722	lsa7bek	arabizi	صاحبك	ل+صاحب+ك	PREP+NOUN+POSS_PRON_2S	Sfax	25-35	M
 20190722	m5abbi2597	arabizi	مخبّي2597	مخبّي2597	NOUN_PROP	Sfax	25-35	M
 20190722	m5abbi2745	arabizi	مخبّي2745	مخبّي2745	NOUN_PROP	Sfax	25-35	M
@@ -7460,13 +7461,13 @@ data	arabish	code	words	token	pos	city	age	gender
 20190722	m5abbi2202	arabizi	مخبّي2202	مخبّي2202	NOUN_PROP	Ariana	-25	F
 20190722	m5abbi2812	arabizi	مخبّي2812	مخبّي2812	NOUN_PROP	Ariana	-25	F
 
-20190722	m5abbi563	arabizi	مخبّي563	مخبّي563	NOUN_PROP	Djerba	/	M
-20190722	m5abbi1883	arabizi	مخبّي1883	مخبّي1883	NOUN_PROP	Djerba	/	M
-20190722	kol	arabizi	كلّ	كلّ	NOUN_QUANT	Djerba	/	M
-20190722	3am	arabizi	عام	عام	NOUN	Djerba	/	M
-20190722	w	arabizi	و	و	CONJ	Djerba	/	M
-20190722	enty	arabizi	انتي	انتي	PRON_2S	Djerba	/	M
-20190722	bkhir	arabizi	بخير	ب+خير	[PREP+NOUN]ADV	Djerba	/	M
+20190722	m5abbi563	arabizi	مخبّي563	مخبّي563	NOUN_PROP	Medenine, Djerba	/	M
+20190722	m5abbi1883	arabizi	مخبّي1883	مخبّي1883	NOUN_PROP	Medenine, Djerba	/	M
+20190722	kol	arabizi	كلّ	كلّ	NOUN_QUANT	Medenine, Djerba	/	M
+20190722	3am	arabizi	عام	عام	NOUN	Medenine, Djerba	/	M
+20190722	w	arabizi	و	و	CONJ	Medenine, Djerba	/	M
+20190722	enty	arabizi	انتي	انتي	PRON_2S	Medenine, Djerba	/	M
+20190722	bkhir	arabizi	بخير	ب+خير	[PREP+NOUN]ADV	Medenine, Djerba	/	M
 
 20190722	m5abbi2349	arabizi	مخبّي2349	مخبّي2349	NOUN_PROP	Tunis	-25	M
 20190722	m5abbi1909	arabizi	مخبّي1909	مخبّي1909	NOUN_PROP	Tunis	-25	M
@@ -7763,16 +7764,16 @@ data	arabish	code	words	token	pos	city	age	gender
 20190722	hani2an	arabizi	هنيئا	هنيئا	ADV	Salé	-25	M
 20190722	🙊	emotag	🙊	emotag	emotag	Salé	-25	M
 
-20190722	m5abbi2846	arabizi	مخبّي2846	مخبّي2846	NOUN_PROP	Djerba	-25	M
-20190722	m5abbi2557	arabizi	مخبّي2557	مخبّي2557	NOUN_PROP	Djerba	-25	M
-20190722	m5abbi2306	arabizi	مخبّي2306	مخبّي2306	NOUN_PROP	Djerba	-25	M
-20190722	m5abbi2348	arabizi	مخبّي2348	مخبّي2348	NOUN_PROP	Djerba	-25	M
-20190722	m5abbi2503	arabizi	مخبّي2503	مخبّي2503	NOUN_PROP	Djerba	-25	M
-20190722	tfathl	arabizi	تفضل	تفضل	[IV2S-IV]INTERJ	Djerba	-25	M
-20190722	hani	arabizi	هاني	ها+ني	FOCUS_PART+PRON_1S	Djerba	-25	M
-20190722	si	arabizi	سي	سي	ABBREV	Djerba	-25	M
-20190722	wathim	arabizi	وظيم	وظيم	NOUN_PROP	Djerba	-25	M
-20190722	.	arabizi	.	.	PUNC	Djerba	-25	M
+20190722	m5abbi2846	arabizi	مخبّي2846	مخبّي2846	NOUN_PROP	Medenine, Djerba	-25	M
+20190722	m5abbi2557	arabizi	مخبّي2557	مخبّي2557	NOUN_PROP	Medenine, Djerba	-25	M
+20190722	m5abbi2306	arabizi	مخبّي2306	مخبّي2306	NOUN_PROP	Medenine, Djerba	-25	M
+20190722	m5abbi2348	arabizi	مخبّي2348	مخبّي2348	NOUN_PROP	Medenine, Djerba	-25	M
+20190722	m5abbi2503	arabizi	مخبّي2503	مخبّي2503	NOUN_PROP	Medenine, Djerba	-25	M
+20190722	tfathl	arabizi	تفضل	تفضل	[IV2S-IV]INTERJ	Medenine, Djerba	-25	M
+20190722	hani	arabizi	هاني	ها+ني	FOCUS_PART+PRON_1S	Medenine, Djerba	-25	M
+20190722	si	arabizi	سي	سي	ABBREV	Medenine, Djerba	-25	M
+20190722	wathim	arabizi	وظيم	وظيم	NOUN_PROP	Medenine, Djerba	-25	M
+20190722	.	arabizi	.	.	PUNC	Medenine, Djerba	-25	M
 
 20190722	#	arabizi	#	#	SYM	nan	nan	nan
 20190722	khanfor	arabizi	خنفور	خنفور	NOUN	nan	nan	nan
@@ -8042,9 +8043,9 @@ data	arabish	code	words	token	pos	city	age	gender
 20190722	Wana	arabizi	وانا	و+انا	CONJ+PRON_1S	Tunis	35-50	M
 20190722	m5abbi2360	arabizi	مخبّي2360	مخبّي2360	NOUN_PROP	Tunis	35-50	M
 
-20190722	m5abbi2975	arabizi	مخبّي2975	مخبّي2975	NOUN_PROP	Médenine	-25	M
-20190722	m5abbi2251	arabizi	مخبّي2251	مخبّي2251	NOUN_PROP	Médenine	-25	M
-20190722	babakkk	arabizi	باباك	بابا+ك	NOUN+POSS_PRON_2S	Médenine	-25	M
+20190722	m5abbi2975	arabizi	مخبّي2975	مخبّي2975	NOUN_PROP	Medenine	-25	M
+20190722	m5abbi2251	arabizi	مخبّي2251	مخبّي2251	NOUN_PROP	Medenine	-25	M
+20190722	babakkk	arabizi	باباك	بابا+ك	NOUN+POSS_PRON_2S	Medenine	-25	M
 
 20190722	m5abbi347	foreign	m5abbi347	foreign	foreign	Algerie	25-35	M
 20190722	m5abbi347	foreign	m5abbi347	foreign	foreign	Algerie	25-35	M
@@ -8174,10 +8175,10 @@ data	arabish	code	words	token	pos	city	age	gender
 20190722	m5abbi2005	arabizi	مخبّي2005	مخبّي2005	NOUN_PROP	Tunis	-25	M
 20190722	😑😑	emotag	😑😑	emotag	emotag	Tunis	-25	M
 
-20190722	m5abbi1463	arabizi	مخبّي1463	مخبّي1463	NOUN_PROP	Médenine	-25	M
-20190722	m5abbi1297	arabizi	مخبّي1297	مخبّي1297	NOUN_PROP	Médenine	-25	M
-20190722	sahby	arabizi	صاحبي	صاحب+ي	NOUN+POSS_PRON_1S	Médenine	-25	M
-20190722	raak	arabizi	راك	را+ك	FOCUS_PART+PRON_2S	Médenine	-25	M
+20190722	m5abbi1463	arabizi	مخبّي1463	مخبّي1463	NOUN_PROP	Medenine	-25	M
+20190722	m5abbi1297	arabizi	مخبّي1297	مخبّي1297	NOUN_PROP	Medenine	-25	M
+20190722	sahby	arabizi	صاحبي	صاحب+ي	NOUN+POSS_PRON_1S	Medenine	-25	M
+20190722	raak	arabizi	راك	را+ك	FOCUS_PART+PRON_2S	Medenine	-25	M
 
 20190722	m5abbi342	arabizi	مخبّي342	مخبّي342	NOUN_PROP	Tunis	-25	M
 20190722	m5abbi2114	arabizi	مخبّي2114	مخبّي2114	NOUN_PROP	Tunis	-25	M
@@ -8705,8 +8706,8 @@ data	arabish	code	words	token	pos	city	age	gender
 20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	Tunis	-25	M
 20190722	m5abbi298	arabizi	مخبّي298	مخبّي298	NOUN_PROP	Tunis	-25	M
 
-20190722	m5abbi2483	arabizi	مخبّي2483	مخبّي2483	NOUN_PROP	Susa	25-35	M
-20190722	m5abbi178	arabizi	مخبّي178	مخبّي178	NOUN_PROP	Susa	25-35	M
+20190722	m5abbi2483	arabizi	مخبّي2483	مخبّي2483	NOUN_PROP	Sousse	25-35	M
+20190722	m5abbi178	arabizi	مخبّي178	مخبّي178	NOUN_PROP	Sousse	25-35	M
 
 20190722	m5abbi1390	arabizi	مخبّي1390	مخبّي1390	NOUN_PROP	nan	nan	nan
 20190722	m5abbi714	arabizi	مخبّي714	مخبّي714	NOUN_PROP	nan	nan	nan
@@ -8783,297 +8784,297 @@ data	arabish	code	words	token	pos	city	age	gender
 20190722	m5abbi42	arabizi	مخبّي42	مخبّي42	NOUN_PROP	Tunis	25-35	M
 20190722	😂😂😂😂😂	emotag	😂😂😂😂😂	emotag	emotag	Tunis	25-35	M
 
-20190722	m5abbi322	arabizi	مخبّي322	مخبّي322	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1694	arabizi	مخبّي1694	مخبّي1694	NOUN_PROP	nan	nan	nan
-20190722	♥♥	emotag	♥♥	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi1548	arabizi	مخبّي1548	مخبّي1548	NOUN_PROP	nan	nan	nan
-20190722	Sf	arabizi	سف	سف	ABBREV	nan	nan	nan
-20190722	😂😂	emotag	😂😂	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi437	arabizi	مخبّي437	مخبّي437	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1623	arabizi	مخبّي1623	مخبّي1623	NOUN_PROP	nan	nan	nan
-20190722	goulou	arabizi	قولوا	قولوا	NOUN_PROP	nan	nan	nan
-20190722	m5abbi517	foreign	m5abbi517	foreign	foreign	nan	nan	nan
-20190722	m5abbi1878	arabizi	مخبّي1878	مخبّي1878	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi385	arabizi	مخبّي385	مخبّي385	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1240	arabizi	مخبّي1240	مخبّي1240	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi30	arabizi	مخبّي30	مخبّي30	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1358	arabizi	مخبّي1358	مخبّي1358	NOUN_PROP	nan	nan	nan
-20190722	😏😝	emotag	😏😝	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi2683	arabizi	مخبّي2683	مخبّي2683	NOUN_PROP	nan	nan	nan
-20190722	m5abbi520	foreign	m5abbi520	foreign	foreign	nan	nan	nan
-
-20190722	m5abbi2400	arabizi	مخبّي2400	مخبّي2400	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi2446	arabizi	مخبّي2446	مخبّي2446	NOUN_PROP	nan	nan	nan
-20190722	m5abbi28	arabizi	مخبّي28	مخبّي28	NOUN_PROP	nan	nan	nan
-20190722	m5abbi28	arabizi	مخبّي28	مخبّي28	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2832	arabizi	مخبّي2832	مخبّي2832	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi1929	arabizi	مخبّي1929	مخبّي1929	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2575	arabizi	مخبّي2575	مخبّي2575	NOUN_PROP	nan	nan	nan
-20190722	m5abbi668	arabizi	مخبّي668	مخبّي668	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2885	arabizi	مخبّي2885	مخبّي2885	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1964	arabizi	مخبّي1964	مخبّي1964	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1814	arabizi	مخبّي1814	مخبّي1814	NOUN_PROP	nan	nan	nan
-20190722	hhhh	arabizi	هههه	هههه	INTERJ	nan	nan	nan
-
-20190722	m5abbi2369	arabizi	مخبّي2369	مخبّي2369	NOUN_PROP	nan	nan	nan
-20190722	m5abbi704	arabizi	مخبّي704	مخبّي704	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi689	arabizi	مخبّي689	مخبّي689	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi2570	arabizi	مخبّي2570	مخبّي2570	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1815	arabizi	مخبّي1815	مخبّي1815	NOUN_PROP	nan	nan	nan
-20190722	😂😂	emotag	😂😂	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi1500	arabizi	مخبّي1500	مخبّي1500	NOUN_PROP	nan	nan	nan
-20190722	m5abbi586	arabizi	مخبّي586	مخبّي586	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi1694	arabizi	مخبّي1694	مخبّي1694	NOUN_PROP	nan	nan	nan
-20190722	m5abbi322	arabizi	مخبّي322	مخبّي322	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi1796	arabizi	مخبّي1796	مخبّي1796	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1796	arabizi	مخبّي1796	مخبّي1796	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi1955	arabizi	مخبّي1955	مخبّي1955	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2915	arabizi	مخبّي2915	مخبّي2915	NOUN_PROP	nan	nan	nan
-20190722	m5abbi421	arabizi	مخبّي421	مخبّي421	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi958	arabizi	مخبّي958	مخبّي958	NOUN_PROP	nan	nan	nan
-20190722	m5abbi328	arabizi	مخبّي328	مخبّي328	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi2541	arabizi	مخبّي2541	مخبّي2541	NOUN_PROP	nan	nan	nan
-20190722	m5abbi425	arabizi	مخبّي425	مخبّي425	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi2384	arabizi	مخبّي2384	مخبّي2384	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2322	arabizi	مخبّي2322	مخبّي2322	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2799	arabizi	مخبّي2799	مخبّي2799	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2324	arabizi	مخبّي2324	مخبّي2324	NOUN_PROP	nan	nan	nan
-20190722	👃👃👃	emotag	👃👃👃	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi2340	arabizi	مخبّي2340	مخبّي2340	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1714	arabizi	مخبّي1714	مخبّي1714	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi2243	arabizi	مخبّي2243	مخبّي2243	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1330	arabizi	مخبّي1330	مخبّي1330	NOUN_PROP	nan	nan	nan
-20190722	3idek	arabizi	عيدك	عيد+ك	NOUN+POSS_PRON_2S	nan	nan	nan
-20190722	mabrouk	arabizi	مبروك	مبروك	INTERJ	nan	nan	nan
-20190722	w	arabizi	و	و	CONJ	nan	nan	nan
-20190722	kol	arabizi	كلّ	كلّ	NOUN_QUANT	nan	nan	nan
-20190722	3am	arabizi	عام	عام	NOUN	nan	nan	nan
-20190722	wenta	arabizi	وانتا	و+انتا	CONJ+PRON_2S	nan	nan	nan
-20190722	7ay	arabizi	حي	حي	ADJ	nan	nan	nan
-20190722	b5iir	arabizi	بخير	ب+خير	[PREP+NOUN]ADV	nan	nan	nan
-20190722	sa7bi	arabizi	صاحبي	صاحب+ي	NOUN+POSS_PRON_1S	nan	nan	nan
-20190722	😂😅	emotag	😂😅	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi342	arabizi	مخبّي342	مخبّي342	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1048	arabizi	مخبّي1048	مخبّي1048	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1659	arabizi	مخبّي1659	مخبّي1659	NOUN_PROP	nan	nan	nan
-20190722	hhh	arabizi	هههه	هههه	INTERJ	nan	nan	nan
-
-20190722	m5abbi685	arabizi	مخبّي685	مخبّي685	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2243	arabizi	مخبّي2243	مخبّي2243	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi1508	arabizi	مخبّي1508	مخبّي1508	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2440	arabizi	مخبّي2440	مخبّي2440	NOUN_PROP	nan	nan	nan
-20190722	hhhh	arabizi	هههه	هههه	INTERJ	nan	nan	nan
-
-20190722	m5abbi1748	arabizi	مخبّي1748	مخبّي1748	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2748	arabizi	مخبّي2748	مخبّي2748	NOUN_PROP	nan	nan	nan
-20190722	😂😂😂	emotag	😂😂😂	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2348	arabizi	مخبّي2348	مخبّي2348	NOUN_PROP	nan	nan	nan
-20190722	m5abbi517	arabizi	مخبّي517	مخبّي517	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi352	arabizi	مخبّي352	مخبّي352	NOUN_PROP	nan	nan	nan
-20190722	m5abbi113	arabizi	مخبّي113	مخبّي113	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi482	arabizi	مخبّي482	مخبّي482	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1727	arabizi	مخبّي1727	مخبّي1727	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi437	arabizi	مخبّي437	مخبّي437	NOUN_PROP	nan	nan	nan
-20190722	m5abbi182	arabizi	مخبّي182	مخبّي182	NOUN_PROP	nan	nan	nan
-20190722	😂😂	emotag	😂😂	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi1830	arabizi	مخبّي1830	مخبّي1830	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1657	arabizi	مخبّي1657	مخبّي1657	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi2597	arabizi	مخبّي2597	مخبّي2597	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2348	arabizi	مخبّي2348	مخبّي2348	NOUN_PROP	nan	nan	nan
-20190722	😂😂	emotag	😂😂	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi2243	arabizi	مخبّي2243	مخبّي2243	NOUN_PROP	nan	nan	nan
-20190722	m5abbi473	arabizi	مخبّي473	مخبّي473	NOUN_PROP	nan	nan	nan
-20190722	3idek	arabizi	عيدك	عيد+ك	NOUN+POSS_PRON_2S	nan	nan	nan
-20190722	mabrouk	arabizi	مبروك	مبروك	NOUN_PROP	nan	nan	nan
-20190722	khouya	arabizi	خويا	خو+يا	NOUN+POSS_PRON_1S	nan	nan	nan
-
-20190722	m5abbi1062	arabizi	مخبّي1062	مخبّي1062	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2355	arabizi	مخبّي2355	مخبّي2355	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1429	arabizi	مخبّي1429	مخبّي1429	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi546	foreign	m5abbi546	foreign	foreign	nan	nan	nan
-20190722	m5abbi546	foreign	m5abbi546	foreign	foreign	nan	nan	nan
-
-20190722	m5abbi2943	arabizi	مخبّي2943	مخبّي2943	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2943	arabizi	مخبّي2943	مخبّي2943	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi934	arabizi	مخبّي934	مخبّي934	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1976	arabizi	مخبّي1976	مخبّي1976	NOUN_PROP	nan	nan	nan
-20190722	😜	emotag	😜	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi1515	arabizi	مخبّي1515	مخبّي1515	NOUN_PROP	nan	nan	nan
-20190722	m5abbi55	arabizi	مخبّي55	مخبّي55	NOUN_PROP	nan	nan	nan
-20190722	😂😂	emotag	😂😂	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi423	arabizi	مخبّي423	مخبّي423	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1071	arabizi	مخبّي1071	مخبّي1071	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi2211	arabizi	مخبّي2211	مخبّي2211	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1137	arabizi	مخبّي1137	مخبّي1137	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1611	arabizi	مخبّي1611	مخبّي1611	NOUN_PROP	nan	nan	nan
-20190722	m5abbi188	arabizi	مخبّي188	مخبّي188	NOUN_PROP	nan	nan	nan
-20190722	m5abbi421	arabizi	مخبّي421	مخبّي421	NOUN_PROP	nan	nan	nan
-20190722	chkoun	arabizi	شكون	شكون	PRON_INDEF	nan	nan	nan
-20190722	zaama	arabizi	زعمة	زعمة	INTERROG_PART	nan	nan	nan
-20190722	🤔🤔😂	emotag	🤔🤔😂	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi1875	arabizi	مخبّي1875	مخبّي1875	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1048	arabizi	مخبّي1048	مخبّي1048	NOUN_PROP	nan	nan	nan
-20190722	El	arabizi	ال	ال	DET	nan	nan	nan
-20190722	Ghali	arabizi	غالي	غالي	ADJ	nan	nan	nan
-
-20190722	m5abbi1828	arabizi	مخبّي1828	مخبّي1828	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2828	arabizi	مخبّي2828	مخبّي2828	NOUN_PROP	nan	nan	nan
-20190722	😂😂	emotag	😂😂	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi1082	arabizi	مخبّي1082	مخبّي1082	NOUN_PROP	nan	nan	nan
-20190722	m5abbi567	arabizi	مخبّي567	مخبّي567	NOUN_PROP	nan	nan	nan
-20190722	🍾🍾	emotag	🍾🍾	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi2207	arabizi	مخبّي2207	مخبّي2207	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2520	arabizi	مخبّي2520	مخبّي2520	NOUN_PROP	nan	nan	nan
-20190722	😂😂	emotag	😂😂	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi707	arabizi	مخبّي707	مخبّي707	NOUN_PROP	nan	nan	nan
-20190722	m5abbi317	arabizi	مخبّي317	مخبّي317	NOUN_PROP	nan	nan	nan
-20190722	kol	arabizi	كلّ	كلّ	NOUN_QUANT	nan	nan	nan
-20190722	3am	arabizi	عام	عام	NOUN	nan	nan	nan
-20190722	wenti	arabizi	وانتي	و+انتي	CONJ+PRON_1S	nan	nan	nan
-20190722	b	arabizi	ب	ب	PREP	nan	nan	nan
-20190722	alf	arabizi	الف	الف	NOUN_NUM	nan	nan	nan
-20190722	khir	arabizi	خير	خير	NOUN	nan	nan	nan
-
-20190722	m5abbi2405	arabizi	مخبّي2405	مخبّي2405	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2717	arabizi	مخبّي2717	مخبّي2717	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi951	arabizi	مخبّي951	مخبّي951	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2999	arabizi	مخبّي2999	مخبّي2999	NOUN_PROP	nan	nan	nan
-20190722	☺	emotag	☺	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi2794	arabizi	مخبّي2794	مخبّي2794	NOUN_PROP	nan	nan	nan
-20190722	Est	foreign	Est	foreign	foreign	nan	nan	nan
-
-20190722	m5abbi2765	arabizi	مخبّي2765	مخبّي2765	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1976	arabizi	مخبّي1976	مخبّي1976	NOUN_PROP	nan	nan	nan
-20190722	😂	emotag	😂	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi485	arabizi	مخبّي485	مخبّي485	NOUN_PROP	nan	nan	nan
-20190722	Don	foreign	Don	foreign	foreign	nan	nan	nan
-20190722	m5abbi2278	arabizi	مخبّي2278	مخبّي2278	NOUN_PROP	nan	nan	nan
-20190722	hhhhhh	arabizi	هههه	هههه	INTERJ	nan	nan	nan
-20190722	😂😂😂😂	emotag	😂😂😂😂	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi2570	arabizi	مخبّي2570	مخبّي2570	NOUN_PROP	nan	nan	nan
-20190722	m5abbi281	arabizi	مخبّي281	مخبّي281	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi1609	arabizi	مخبّي1609	مخبّي1609	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2489	arabizi	مخبّي2489	مخبّي2489	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi1471	arabizi	مخبّي1471	مخبّي1471	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2243	arabizi	مخبّي2243	مخبّي2243	NOUN_PROP	nan	nan	nan
-20190722	😂	emotag	😂	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi704	arabizi	مخبّي704	مخبّي704	NOUN_PROP	nan	nan	nan
-20190722	m5abbi60	arabizi	مخبّي60	مخبّي60	NOUN_PROP	nan	nan	nan
-20190722	😂😂	emotag	😂😂	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi1609	arabizi	مخبّي1609	مخبّي1609	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1738	arabizi	مخبّي1738	مخبّي1738	NOUN_PROP	nan	nan	nan
-20190722	Ép	foreign	Ép	foreign	foreign	nan	nan	nan
-20190722	Rouis	arabizi	رويس	رويس	NOUN_PROP	nan	nan	nan
-20190722	😆😆😆	emotag	😆😆😆	emotag	emotag	nan	nan	nan
-
-20190722	m5abbi810	arabizi	مخبّي810	مخبّي810	NOUN_PROP	nan	nan	nan
-20190722	Kh	arabizi	خ	خ	ABBREV	nan	nan	nan
-
-20190722	m5abbi2654	arabizi	مخبّي2654	مخبّي2654	NOUN_PROP	nan	nan	nan
-20190722	m5abbi746	arabizi	مخبّي746	مخبّي746	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi807	arabizi	مخبّي807	مخبّي807	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2754	arabizi	مخبّي2754	مخبّي2754	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi358	arabizi	مخبّي358	مخبّي358	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1169	arabizi	مخبّي1169	مخبّي1169	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi2268	arabizi	مخبّي2268	مخبّي2268	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2975	arabizi	مخبّي2975	مخبّي2975	NOUN_PROP	nan	nan	nan
-20190722	m5abbi266	arabizi	مخبّي266	مخبّي266	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2224	arabizi	مخبّي2224	مخبّي2224	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi2597	arabizi	مخبّي2597	مخبّي2597	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2059	arabizi	مخبّي2059	مخبّي2059	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi1027	arabizi	مخبّي1027	مخبّي1027	NOUN_PROP	nan	nan	nan
-20190722	m5abbi121	arabizi	مخبّي121	مخبّي121	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi369	arabizi	مخبّي369	مخبّي369	NOUN_PROP	nan	nan	nan
-20190722	m5abbi63	arabizi	مخبّي63	مخبّي63	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi707	arabizi	مخبّي707	مخبّي707	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1814	arabizi	مخبّي1814	مخبّي1814	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi423	arabizi	مخبّي423	مخبّي423	NOUN_PROP	nan	nan	nan
-20190722	m5abbi823	arabizi	مخبّي823	مخبّي823	NOUN_PROP	nan	nan	nan
-20190722	Wathek	arabizi	واثك	واثك	ADJ	nan	nan	nan
-20190722	Belleh	arabizi	بالله	بالله	INTERJ	nan	nan	nan
-20190722	m5abbi370	arabizi	مخبّي370	مخبّي370	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2831	arabizi	مخبّي2831	مخبّي2831	NOUN_PROP	nan	nan	nan
-20190722	m5abbi482	arabizi	مخبّي482	مخبّي482	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1863	arabizi	مخبّي1863	مخبّي1863	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1539	arabizi	مخبّي1539	مخبّي1539	NOUN_PROP	nan	nan	nan
-20190722	m5abbi776	arabizi	مخبّي776	مخبّي776	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1604	arabizi	مخبّي1604	مخبّي1604	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi1446	arabizi	مخبّي1446	مخبّي1446	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1531	arabizi	مخبّي1531	مخبّي1531	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi775	arabizi	مخبّي775	مخبّي775	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1693	arabizi	مخبّي1693	مخبّي1693	NOUN_PROP	nan	nan	nan
-
-20190722	m5abbi917	arabizi	مخبّي917	مخبّي917	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	nan	nan	nan
-20190722	m5abbi586	arabizi	مخبّي586	مخبّي586	NOUN_PROP	nan	nan	nan
-20190722	happy	foreign	happy	foreign	foreign	nan	nan	nan
-20190722	day	foreign	day	foreign	foreign	nan	nan	nan
-20190722	for	foreign	for	foreign	foreign	nan	nan	nan
-20190722	me	foreign	me	foreign	foreign	nan	nan	nan
+20190722	m5abbi322	arabizi	مخبّي322	مخبّي322	NOUN_PROP	/	-25	M
+20190722	m5abbi1694	arabizi	مخبّي1694	مخبّي1694	NOUN_PROP	/	-25	M
+20190722	♥♥	emotag	♥♥	emotag	emotag	/	-25	M
+
+20190722	m5abbi1548	arabizi	مخبّي1548	مخبّي1548	NOUN_PROP	Tunis	-25	M
+20190722	Sf	arabizi	سف	سف	ABBREV	Tunis	-25	M
+20190722	😂😂	emotag	😂😂	emotag	emotag	Tunis	-25	M
+
+20190722	m5abbi437	arabizi	مخبّي437	مخبّي437	NOUN_PROP	Costantine	25-35	M
+20190722	m5abbi1623	arabizi	مخبّي1623	مخبّي1623	NOUN_PROP	Costantine	25-35	M
+20190722	goulou	arabizi	قولوا	قولوا	NOUN_PROP	Costantine	25-35	M
+20190722	m5abbi517	foreign	m5abbi517	foreign	foreign	Costantine	25-35	M
+20190722	m5abbi1878	arabizi	مخبّي1878	مخبّي1878	NOUN_PROP	Costantine	25-35	M
+
+20190722	m5abbi385	arabizi	مخبّي385	مخبّي385	NOUN_PROP	/	/	/
+20190722	m5abbi1240	arabizi	مخبّي1240	مخبّي1240	NOUN_PROP	/	/	/
+
+20190722	m5abbi30	arabizi	مخبّي30	مخبّي30	NOUN_PROP	/	/	/
+20190722	m5abbi1358	arabizi	مخبّي1358	مخبّي1358	NOUN_PROP	/	/	/
+20190722	😏😝	emotag	😏😝	emotag	emotag	/	/	/
+
+20190722	m5abbi2683	arabizi	مخبّي2683	مخبّي2683	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi520	foreign	m5abbi520	foreign	foreign	Tunis	-25	M
+
+20190722	m5abbi2400	arabizi	مخبّي2400	مخبّي2400	NOUN_PROP	Ben Arous	25-35	M
+20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	Ben Arous	25-35	M
+
+20190722	m5abbi2446	arabizi	مخبّي2446	مخبّي2446	NOUN_PROP	/	-25	M
+20190722	m5abbi28	arabizi	مخبّي28	مخبّي28	NOUN_PROP	/	-25	M
+20190722	m5abbi28	arabizi	مخبّي28	مخبّي28	NOUN_PROP	/	-25	M
+20190722	m5abbi2832	arabizi	مخبّي2832	مخبّي2832	NOUN_PROP	/	-25	M
+
+20190722	m5abbi1929	arabizi	مخبّي1929	مخبّي1929	NOUN_PROP	Sousse	25-35	M
+20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	Sousse	25-35	M
+20190722	m5abbi2575	arabizi	مخبّي2575	مخبّي2575	NOUN_PROP	Sousse	25-35	M
+20190722	m5abbi668	arabizi	مخبّي668	مخبّي668	NOUN_PROP	Sousse	25-35	M
+20190722	m5abbi2885	arabizi	مخبّي2885	مخبّي2885	NOUN_PROP	Sousse	25-35	M
+20190722	m5abbi1964	arabizi	مخبّي1964	مخبّي1964	NOUN_PROP	Sousse	25-35	M
+20190722	m5abbi1814	arabizi	مخبّي1814	مخبّي1814	NOUN_PROP	Sousse	25-35	M
+20190722	hhhh	arabizi	هههه	هههه	INTERJ	Sousse	25-35	M
+
+20190722	m5abbi2369	arabizi	مخبّي2369	مخبّي2369	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi704	arabizi	مخبّي704	مخبّي704	NOUN_PROP	Tunis	-25	M
+
+20190722	m5abbi689	arabizi	مخبّي689	مخبّي689	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	Tunis	-25	M
+
+20190722	m5abbi2570	arabizi	مخبّي2570	مخبّي2570	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi1815	arabizi	مخبّي1815	مخبّي1815	NOUN_PROP	Tunis	-25	M
+20190722	😂😂	emotag	😂😂	emotag	emotag	Tunis	-25	M
+
+20190722	m5abbi1500	arabizi	مخبّي1500	مخبّي1500	NOUN_PROP	Ariana	/	/
+20190722	m5abbi586	arabizi	مخبّي586	مخبّي586	NOUN_PROP	Ariana	/	/
+
+20190722	m5abbi1694	arabizi	مخبّي1694	مخبّي1694	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi322	arabizi	مخبّي322	مخبّي322	NOUN_PROP	Tunis	-25	M
+
+20190722	m5abbi1796	arabizi	مخبّي1796	مخبّي1796	NOUN_PROP	Tunis	25-35	M
+20190722	m5abbi1796	arabizi	مخبّي1796	مخبّي1796	NOUN_PROP	Tunis	25-35	M
+
+20190722	m5abbi1955	arabizi	مخبّي1955	مخبّي1955	NOUN_PROP	Tunis	25-35	M
+20190722	m5abbi2915	arabizi	مخبّي2915	مخبّي2915	NOUN_PROP	Tunis	25-35	M
+20190722	m5abbi421	arabizi	مخبّي421	مخبّي421	NOUN_PROP	Tunis	25-35	M
+
+20190722	m5abbi958	arabizi	مخبّي958	مخبّي958	NOUN_PROP	Sousse	25-35	M
+20190722	m5abbi328	arabizi	مخبّي328	مخبّي328	NOUN_PROP	Sousse	25-35	M
+
+20190722	m5abbi2541	arabizi	مخبّي2541	مخبّي2541	NOUN_PROP	Sousse	35-50	M
+20190722	m5abbi425	arabizi	مخبّي425	مخبّي425	NOUN_PROP	Sousse	35-50	M
+
+20190722	m5abbi2384	arabizi	مخبّي2384	مخبّي2384	NOUN_PROP	Ben Arous	-25	M
+20190722	m5abbi2322	arabizi	مخبّي2322	مخبّي2322	NOUN_PROP	Ben Arous	-25	M
+20190722	m5abbi2799	arabizi	مخبّي2799	مخبّي2799	NOUN_PROP	Ben Arous	-25	M
+20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	Ben Arous	-25	M
+20190722	m5abbi2324	arabizi	مخبّي2324	مخبّي2324	NOUN_PROP	Ben Arous	-25	M
+20190722	👃👃👃	emotag	👃👃👃	emotag	emotag	Ben Arous	-25	M
+
+20190722	m5abbi2340	arabizi	مخبّي2340	مخبّي2340	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi1714	arabizi	مخبّي1714	مخبّي1714	NOUN_PROP	Tunis	-25	M
+
+20190722	m5abbi2243	arabizi	مخبّي2243	مخبّي2243	NOUN_PROP	Medenine	25-35	M
+20190722	m5abbi1330	arabizi	مخبّي1330	مخبّي1330	NOUN_PROP	Medenine	25-35	M
+20190722	3idek	arabizi	عيدك	عيد+ك	NOUN+POSS_PRON_2S	Medenine	25-35	M
+20190722	mabrouk	arabizi	مبروك	مبروك	INTERJ	Medenine	25-35	M
+20190722	w	arabizi	و	و	CONJ	Medenine	25-35	M
+20190722	kol	arabizi	كلّ	كلّ	NOUN_QUANT	Medenine	25-35	M
+20190722	3am	arabizi	عام	عام	NOUN	Medenine	25-35	M
+20190722	wenta	arabizi	وانتا	و+انتا	CONJ+PRON_2S	Medenine	25-35	M
+20190722	7ay	arabizi	حي	حي	ADJ	Medenine	25-35	M
+20190722	b5iir	arabizi	بخير	ب+خير	[PREP+NOUN]ADV	Medenine	25-35	M
+20190722	sa7bi	arabizi	صاحبي	صاحب+ي	NOUN+POSS_PRON_1S	Medenine	25-35	M
+20190722	😂😅	emotag	😂😅	emotag	emotag	Medenine	25-35	M
+
+20190722	m5abbi342	arabizi	مخبّي342	مخبّي342	NOUN_PROP	/	/	/
+20190722	m5abbi1048	arabizi	مخبّي1048	مخبّي1048	NOUN_PROP	/	/	/
+20190722	m5abbi1659	arabizi	مخبّي1659	مخبّي1659	NOUN_PROP	/	/	/
+20190722	hhh	arabizi	هههه	هههه	INTERJ	/	/	/
+
+20190722	m5abbi685	arabizi	مخبّي685	مخبّي685	NOUN_PROP	Sidi Bouzid	-25	M
+20190722	m5abbi2243	arabizi	مخبّي2243	مخبّي2243	NOUN_PROP	Sidi Bouzid	-25	M
+
+20190722	m5abbi1508	arabizi	مخبّي1508	مخبّي1508	NOUN_PROP	Sfax	-25	M
+20190722	m5abbi2440	arabizi	مخبّي2440	مخبّي2440	NOUN_PROP	Sfax	-25	M
+20190722	hhhh	arabizi	هههه	هههه	INTERJ	Sfax	-25	M
+
+20190722	m5abbi1748	arabizi	مخبّي1748	مخبّي1748	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi2748	arabizi	مخبّي2748	مخبّي2748	NOUN_PROP	Tunis	-25	M
+20190722	😂😂😂	emotag	😂😂😂	emotag	emotag	Tunis	-25	M
+
+20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	Mahdia	-25	M
+20190722	m5abbi2348	arabizi	مخبّي2348	مخبّي2348	NOUN_PROP	Mahdia	-25	M
+20190722	m5abbi517	arabizi	مخبّي517	مخبّي517	NOUN_PROP	Mahdia	-25	M
+
+20190722	m5abbi352	arabizi	مخبّي352	مخبّي352	NOUN_PROP	Sfax	-25	F
+20190722	m5abbi113	arabizi	مخبّي113	مخبّي113	NOUN_PROP	Sfax	-25	F
+
+20190722	m5abbi482	arabizi	مخبّي482	مخبّي482	NOUN_PROP	Mahdia	25-35	M
+20190722	m5abbi1727	arabizi	مخبّي1727	مخبّي1727	NOUN_PROP	Mahdia	25-35	M
+
+20190722	m5abbi437	arabizi	مخبّي437	مخبّي437	NOUN_PROP	Monastir	-25	M
+20190722	m5abbi182	arabizi	مخبّي182	مخبّي182	NOUN_PROP	Monastir	-25	M
+20190722	😂😂	emotag	😂😂	emotag	emotag	Monastir	-25	M
+
+20190722	m5abbi1830	arabizi	مخبّي1830	مخبّي1830	NOUN_PROP	Tunis	25-35	M
+20190722	m5abbi1657	arabizi	مخبّي1657	مخبّي1657	NOUN_PROP	Tunis	25-35	M
+
+20190722	m5abbi2597	arabizi	مخبّي2597	مخبّي2597	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi2348	arabizi	مخبّي2348	مخبّي2348	NOUN_PROP	Tunis	-25	M
+20190722	😂😂	emotag	😂😂	emotag	emotag	Tunis	-25	M
+
+20190722	m5abbi2243	arabizi	مخبّي2243	مخبّي2243	NOUN_PROP	Tunis	25-35	M
+20190722	m5abbi473	arabizi	مخبّي473	مخبّي473	NOUN_PROP	Tunis	25-35	M
+20190722	3idek	arabizi	عيدك	عيد+ك	NOUN+POSS_PRON_2S	Tunis	25-35	M
+20190722	mabrouk	arabizi	مبروك	مبروك	NOUN_PROP	Tunis	25-35	M
+20190722	khouya	arabizi	خويا	خو+يا	NOUN+POSS_PRON_1S	Tunis	25-35	M
+
+20190722	m5abbi1062	arabizi	مخبّي1062	مخبّي1062	NOUN_PROP	Ben Arous	25-35	M
+20190722	m5abbi2355	arabizi	مخبّي2355	مخبّي2355	NOUN_PROP	Ben Arous	25-35	M
+20190722	m5abbi1429	arabizi	مخبّي1429	مخبّي1429	NOUN_PROP	Ben Arous	25-35	M
+
+20190722	m5abbi546	foreign	m5abbi546	foreign	foreign	/	/	/
+20190722	m5abbi546	foreign	m5abbi546	foreign	foreign	/	/	/
+
+20190722	m5abbi2943	arabizi	مخبّي2943	مخبّي2943	NOUN_PROP	Tripoli	-25	M
+20190722	m5abbi2943	arabizi	مخبّي2943	مخبّي2943	NOUN_PROP	Tripoli	-25	M
+
+20190722	m5abbi934	arabizi	مخبّي934	مخبّي934	NOUN_PROP	Ariana	25-35	M
+20190722	m5abbi1976	arabizi	مخبّي1976	مخبّي1976	NOUN_PROP	Ariana	25-35	M
+20190722	😜	emotag	😜	emotag	emotag	Ariana	25-35	M
+
+20190722	m5abbi1515	arabizi	مخبّي1515	مخبّي1515	NOUN_PROP	Le Kef	-25	F
+20190722	m5abbi55	arabizi	مخبّي55	مخبّي55	NOUN_PROP	Le Kef	-25	F
+20190722	😂😂	emotag	😂😂	emotag	emotag	Le Kef	-25	F
+
+20190722	m5abbi423	arabizi	مخبّي423	مخبّي423	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi1071	arabizi	مخبّي1071	مخبّي1071	NOUN_PROP	Tunis	-25	M
+
+20190722	m5abbi2211	arabizi	مخبّي2211	مخبّي2211	NOUN_PROP	Nabeul	-25	M
+20190722	m5abbi1137	arabizi	مخبّي1137	مخبّي1137	NOUN_PROP	Nabeul	-25	M
+20190722	m5abbi1611	arabizi	مخبّي1611	مخبّي1611	NOUN_PROP	Nabeul	-25	M
+20190722	m5abbi188	arabizi	مخبّي188	مخبّي188	NOUN_PROP	Nabeul	-25	M
+20190722	m5abbi421	arabizi	مخبّي421	مخبّي421	NOUN_PROP	Nabeul	-25	M
+20190722	chkoun	arabizi	شكون	شكون	PRON_INDEF	Nabeul	-25	M
+20190722	zaama	arabizi	زعمة	زعمة	INTERROG_PART	Nabeul	-25	M
+20190722	🤔🤔😂	emotag	🤔🤔😂	emotag	emotag	Nabeul	-25	M
+
+20190722	m5abbi1875	arabizi	مخبّي1875	مخبّي1875	NOUN_PROP	Nabeul	-25	F
+20190722	m5abbi1048	arabizi	مخبّي1048	مخبّي1048	NOUN_PROP	Nabeul	-25	F
+20190722	El	arabizi	ال	ال	DET	Nabeul	-25	F
+20190722	Ghali	arabizi	غالي	غالي	ADJ	Nabeul	-25	F
+
+20190722	m5abbi1828	arabizi	مخبّي1828	مخبّي1828	NOUN_PROP	/	/	/
+20190722	m5abbi2828	arabizi	مخبّي2828	مخبّي2828	NOUN_PROP	/	/	/
+20190722	😂😂	emotag	😂😂	emotag	emotag	/	/	/
+
+20190722	m5abbi1082	arabizi	مخبّي1082	مخبّي1082	NOUN_PROP	Nabeul	25-35	M
+20190722	m5abbi567	arabizi	مخبّي567	مخبّي567	NOUN_PROP	Nabeul	25-35	M
+20190722	🍾🍾	emotag	🍾🍾	emotag	emotag	Nabeul	25-35	M
+
+20190722	m5abbi2207	arabizi	مخبّي2207	مخبّي2207	NOUN_PROP	Sfax	-25	M
+20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	Sfax	-25	M
+20190722	m5abbi2520	arabizi	مخبّي2520	مخبّي2520	NOUN_PROP	Sfax	-25	M
+20190722	😂😂	emotag	😂😂	emotag	emotag	Sfax	-25	M
+
+20190722	m5abbi707	arabizi	مخبّي707	مخبّي707	NOUN_PROP	Sousse	25-35	M
+20190722	m5abbi317	arabizi	مخبّي317	مخبّي317	NOUN_PROP	Sousse	25-35	M
+20190722	kol	arabizi	كلّ	كلّ	NOUN_QUANT	Sousse	25-35	M
+20190722	3am	arabizi	عام	عام	NOUN	Sousse	25-35	M
+20190722	wenti	arabizi	وانتي	و+انتي	CONJ+PRON_1S	Sousse	25-35	M
+20190722	b	arabizi	ب	ب	PREP	Sousse	25-35	M
+20190722	alf	arabizi	الف	الف	NOUN_NUM	Sousse	25-35	M
+20190722	khir	arabizi	خير	خير	NOUN	Sousse	25-35	M
+
+20190722	m5abbi2405	arabizi	مخبّي2405	مخبّي2405	NOUN_PROP	Monastir	25-35	M
+20190722	m5abbi2717	arabizi	مخبّي2717	مخبّي2717	NOUN_PROP	Monastir	25-35	M
+
+20190722	m5abbi951	arabizi	مخبّي951	مخبّي951	NOUN_PROP	Tunis	25-35	F
+20190722	m5abbi2999	arabizi	مخبّي2999	مخبّي2999	NOUN_PROP	Tunis	25-35	F
+20190722	☺	emotag	☺	emotag	emotag	Tunis	25-35	F
+
+20190722	m5abbi2794	arabizi	مخبّي2794	مخبّي2794	NOUN_PROP	Tunis	25-35	M
+20190722	Est	foreign	Est	foreign	foreign	Tunis	25-35	M
+
+20190722	m5abbi2765	arabizi	مخبّي2765	مخبّي2765	NOUN_PROP	Medenine	-25	M
+20190722	m5abbi1976	arabizi	مخبّي1976	مخبّي1976	NOUN_PROP	Medenine	-25	M
+20190722	😂	emotag	😂	emotag	emotag	Medenine	-25	M
+
+20190722	m5abbi485	arabizi	مخبّي485	مخبّي485	NOUN_PROP	Ariana	25-35	M
+20190722	Don	foreign	Don	foreign	foreign	Ariana	25-35	M
+20190722	m5abbi2278	arabizi	مخبّي2278	مخبّي2278	NOUN_PROP	Ariana	25-35	M
+20190722	hhhhhh	arabizi	هههه	هههه	INTERJ	Ariana	25-35	M
+20190722	😂😂😂😂	emotag	😂😂😂😂	emotag	emotag	Ariana	25-35	M
+
+20190722	m5abbi2570	arabizi	مخبّي2570	مخبّي2570	NOUN_PROP	Tunis	25-35	M
+20190722	m5abbi281	arabizi	مخبّي281	مخبّي281	NOUN_PROP	Tunis	25-35	M
+
+20190722	m5abbi1609	arabizi	مخبّي1609	مخبّي1609	NOUN_PROP	Tunis	-25	F
+20190722	m5abbi2489	arabizi	مخبّي2489	مخبّي2489	NOUN_PROP	Tunis	-25	F
+
+20190722	m5abbi1471	arabizi	مخبّي1471	مخبّي1471	NOUN_PROP	Nabeul	-25	F
+20190722	m5abbi2243	arabizi	مخبّي2243	مخبّي2243	NOUN_PROP	Nabeul	-25	F
+20190722	😂	emotag	😂	emotag	emotag	Nabeul	-25	F
+
+20190722	m5abbi704	arabizi	مخبّي704	مخبّي704	NOUN_PROP	Mahdia	-25	M
+20190722	m5abbi60	arabizi	مخبّي60	مخبّي60	NOUN_PROP	Mahdia	-25	M
+20190722	😂😂	emotag	😂😂	emotag	emotag	Mahdia	-25	M
+
+20190722	m5abbi1609	arabizi	مخبّي1609	مخبّي1609	NOUN_PROP	Sousse	-25	M
+20190722	m5abbi1738	arabizi	مخبّي1738	مخبّي1738	NOUN_PROP	Sousse	-25	M
+20190722	Ép	foreign	Ép	foreign	foreign	Sousse	-25	M
+20190722	Rouis	arabizi	رويس	رويس	NOUN_PROP	Sousse	-25	M
+20190722	😆😆😆	emotag	😆😆😆	emotag	emotag	Sousse	-25	M
+
+20190722	m5abbi810	arabizi	مخبّي810	مخبّي810	NOUN_PROP	/	/	/
+20190722	Kh	arabizi	خ	خ	ABBREV	/	/	/
+
+20190722	m5abbi2654	arabizi	مخبّي2654	مخبّي2654	NOUN_PROP	Istanbul	35-50	M
+20190722	m5abbi746	arabizi	مخبّي746	مخبّي746	NOUN_PROP	Istanbul	35-50	M
+
+20190722	m5abbi807	arabizi	مخبّي807	مخبّي807	NOUN_PROP	Ben Arous	-25	M
+20190722	m5abbi2754	arabizi	مخبّي2754	مخبّي2754	NOUN_PROP	Ben Arous	-25	M
+
+20190722	m5abbi358	arabizi	مخبّي358	مخبّي358	NOUN_PROP	Tripoli	25-35	M
+20190722	m5abbi1169	arabizi	مخبّي1169	مخبّي1169	NOUN_PROP	Tripoli	25-35	M
+
+20190722	m5abbi2268	arabizi	مخبّي2268	مخبّي2268	NOUN_PROP	/	-25	M
+20190722	m5abbi2975	arabizi	مخبّي2975	مخبّي2975	NOUN_PROP	/	-25	M
+20190722	m5abbi266	arabizi	مخبّي266	مخبّي266	NOUN_PROP	/	-25	M
+20190722	m5abbi2224	arabizi	مخبّي2224	مخبّي2224	NOUN_PROP	/	-25	M
+
+20190722	m5abbi2597	arabizi	مخبّي2597	مخبّي2597	NOUN_PROP	/	-25	F
+20190722	m5abbi2059	arabizi	مخبّي2059	مخبّي2059	NOUN_PROP	/	-25	F
+
+20190722	m5abbi1027	arabizi	مخبّي1027	مخبّي1027	NOUN_PROP	/	/	/
+20190722	m5abbi121	arabizi	مخبّي121	مخبّي121	NOUN_PROP	/	/	/
+
+20190722	m5abbi369	arabizi	مخبّي369	مخبّي369	NOUN_PROP	Nabeul	25-35	F
+20190722	m5abbi63	arabizi	مخبّي63	مخبّي63	NOUN_PROP	Nabeul	25-35	F
+
+20190722	m5abbi707	arabizi	مخبّي707	مخبّي707	NOUN_PROP	Medenine, Djerba	-25	M
+20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	Medenine, Djerba	-25	M
+20190722	m5abbi1814	arabizi	مخبّي1814	مخبّي1814	NOUN_PROP	Medenine, Djerba	-25	M
+
+20190722	m5abbi423	arabizi	مخبّي423	مخبّي423	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi823	arabizi	مخبّي823	مخبّي823	NOUN_PROP	Tunis	-25	M
+20190722	Wathek	arabizi	واثك	واثك	ADJ	Tunis	-25	M
+20190722	Belleh	arabizi	بالله	بالله	INTERJ	Tunis	-25	M
+20190722	m5abbi370	arabizi	مخبّي370	مخبّي370	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi2831	arabizi	مخبّي2831	مخبّي2831	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi482	arabizi	مخبّي482	مخبّي482	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi1863	arabizi	مخبّي1863	مخبّي1863	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi1539	arabizi	مخبّي1539	مخبّي1539	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi776	arabizi	مخبّي776	مخبّي776	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi1604	arabizi	مخبّي1604	مخبّي1604	NOUN_PROP	Tunis	-25	M
+
+20190722	m5abbi1446	arabizi	مخبّي1446	مخبّي1446	NOUN_PROP	/	/	/
+20190722	m5abbi1531	arabizi	مخبّي1531	مخبّي1531	NOUN_PROP	/	/	/
+
+20190722	m5abbi775	arabizi	مخبّي775	مخبّي775	NOUN_PROP	Sfax	25-35	F
+20190722	m5abbi1693	arabizi	مخبّي1693	مخبّي1693	NOUN_PROP	Sfax	25-35	F
+
+20190722	m5abbi917	arabizi	مخبّي917	مخبّي917	NOUN_PROP	Tunis	-25	F
+20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	Tunis	-25	F
+20190722	m5abbi586	arabizi	مخبّي586	مخبّي586	NOUN_PROP	Tunis	-25	F
+20190722	happy	foreign	happy	foreign	foreign	Tunis	-25	F
+20190722	day	foreign	day	foreign	foreign	Tunis	-25	F
+20190722	for	foreign	for	foreign	foreign	Tunis	-25	F
+20190722	me	foreign	me	foreign	foreign	Tunis	-25	F
 
 20190722	m5abbi133	arabizi	مخبّي133	مخبّي133	NOUN_PROP	nan	nan	nan
 20190722	m5abbi757	arabizi	مخبّي757	مخبّي757	NOUN_PROP	nan	nan	nan
@@ -9083,76 +9084,76 @@ data	arabish	code	words	token	pos	city	age	gender
 20190722	b	arabizi	ب	ب	PREP	nan	nan	nan
 20190722	rou7i	arabizi	روحي	روح+ي	NOUN+POSS_PRON_1S	nan	nan	nan
 
-20190722	m5abbi2559	arabizi	مخبّي2559	مخبّي2559	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1086	arabizi	مخبّي1086	مخبّي1086	NOUN_PROP	nan	nan	nan
+20190722	m5abbi2559	arabizi	مخبّي2559	مخبّي2559	NOUN_PROP	Tripoli	25-35	M
+20190722	m5abbi1086	arabizi	مخبّي1086	مخبّي1086	NOUN_PROP	Tripoli	25-35	M
 
-20190722	m5abbi1405	arabizi	مخبّي1405	مخبّي1405	NOUN_PROP	nan	nan	nan
-20190722	m5abbi897	arabizi	مخبّي897	مخبّي897	NOUN_PROP	nan	nan	nan
+20190722	m5abbi1405	arabizi	مخبّي1405	مخبّي1405	NOUN_PROP	Jendouba	-25	M
+20190722	m5abbi897	arabizi	مخبّي897	مخبّي897	NOUN_PROP	Jendouba	-25	M
 
-20190722	m5abbi1446	arabizi	مخبّي1446	مخبّي1446	NOUN_PROP	nan	nan	nan
-20190722	m5abbi352	arabizi	مخبّي352	مخبّي352	NOUN_PROP	nan	nan	nan
+20190722	m5abbi1446	arabizi	مخبّي1446	مخبّي1446	NOUN_PROP	Tunis	25-35	M
+20190722	m5abbi352	arabizi	مخبّي352	مخبّي352	NOUN_PROP	Tunis	25-35	M
 
-20190722	m5abbi1084	arabizi	مخبّي1084	مخبّي1084	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1576	arabizi	مخبّي1576	مخبّي1576	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2764	arabizi	مخبّي2764	مخبّي2764	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2243	arabizi	مخبّي2243	مخبّي2243	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2972	arabizi	مخبّي2972	مخبّي2972	NOUN_PROP	nan	nan	nan
+20190722	m5abbi1084	arabizi	مخبّي1084	مخبّي1084	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi1576	arabizi	مخبّي1576	مخبّي1576	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi2764	arabizi	مخبّي2764	مخبّي2764	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi2243	arabizi	مخبّي2243	مخبّي2243	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi2972	arabizi	مخبّي2972	مخبّي2972	NOUN_PROP	Tunis	-25	M
 
-20190722	m5abbi2676	arabizi	مخبّي2676	مخبّي2676	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	nan	nan	nan
+20190722	m5abbi2676	arabizi	مخبّي2676	مخبّي2676	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	Tunis	-25	M
 
-20190722	m5abbi71	arabizi	مخبّي71	مخبّي71	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1262	arabizi	مخبّي1262	مخبّي1262	NOUN_PROP	nan	nan	nan
+20190722	m5abbi71	arabizi	مخبّي71	مخبّي71	NOUN_PROP	Kasserine	-25	M
+20190722	m5abbi1262	arabizi	مخبّي1262	مخبّي1262	NOUN_PROP	Kasserine	-25	M
 
-20190722	m5abbi2878	arabizi	مخبّي2878	مخبّي2878	NOUN_PROP	nan	nan	nan
-20190722	m5abbi591	foreign	m5abbi591	foreign	foreign	nan	nan	nan
+20190722	m5abbi2878	arabizi	مخبّي2878	مخبّي2878	NOUN_PROP	/	25-35	M
+20190722	m5abbi591	foreign	m5abbi591	foreign	foreign	/	25-35	M
 
-20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	nan	nan	nan
-20190722	m5abbi730	arabizi	مخبّي730	مخبّي730	NOUN_PROP	nan	nan	nan
+20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	Sfax	-25	M
+20190722	m5abbi730	arabizi	مخبّي730	مخبّي730	NOUN_PROP	Sfax	-25	M
 
 20190722	m5abbi2597	arabizi	مخبّي2597	مخبّي2597	NOUN_PROP	nan	nan	nan
 20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	nan	nan	nan
 20190722	m5abbi1645	arabizi	مخبّي1645	مخبّي1645	NOUN_PROP	nan	nan	nan
 20190722	m5abbi84	arabizi	مخبّي84	مخبّي84	NOUN_PROP	nan	nan	nan
 
-20190722	m5abbi1084	arabizi	مخبّي1084	مخبّي1084	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1568	arabizi	مخبّي1568	مخبّي1568	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2484	arabizi	مخبّي2484	مخبّي2484	NOUN_PROP	nan	nan	nan
+20190722	m5abbi1084	arabizi	مخبّي1084	مخبّي1084	NOUN_PROP	Gafsa	25-35	M
+20190722	m5abbi1568	arabizi	مخبّي1568	مخبّي1568	NOUN_PROP	Gafsa	25-35	M
+20190722	m5abbi2484	arabizi	مخبّي2484	مخبّي2484	NOUN_PROP	Gafsa	25-35	M
 
-20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	nan	nan	nan
-20190722	m5abbi517	arabizi	مخبّي517	مخبّي517	NOUN_PROP	nan	nan	nan
+20190722	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	Sousse	-25	M
+20190722	m5abbi517	arabizi	مخبّي517	مخبّي517	NOUN_PROP	Sousse	-25	M
 
-20190722	m5abbi2278	arabizi	مخبّي2278	مخبّي2278	NOUN_PROP	nan	nan	nan
-20190722	m5abbi788	arabizi	مخبّي788	مخبّي788	NOUN_PROP	nan	nan	nan
+20190722	m5abbi2278	arabizi	مخبّي2278	مخبّي2278	NOUN_PROP	Kairouane	25-35	M
+20190722	m5abbi788	arabizi	مخبّي788	مخبّي788	NOUN_PROP	Kairouane	25-35	M
 
-20190722	m5abbi54	arabizi	مخبّي54	مخبّي54	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1446	arabizi	مخبّي1446	مخبّي1446	NOUN_PROP	nan	nan	nan
-20190722	m5abbi555	arabizi	مخبّي555	مخبّي555	NOUN_PROP	nan	nan	nan
+20190722	m5abbi54	arabizi	مخبّي54	مخبّي54	NOUN_PROP	Tunis	25-35	M
+20190722	m5abbi1446	arabizi	مخبّي1446	مخبّي1446	NOUN_PROP	Tunis	25-35	M
+20190722	m5abbi555	arabizi	مخبّي555	مخبّي555	NOUN_PROP	Tunis	25-35	M
 
-20190722	m5abbi2523	arabizi	مخبّي2523	مخبّي2523	NOUN_PROP	nan	nan	nan
-20190722	m5abbi757	arabizi	مخبّي757	مخبّي757	NOUN_PROP	nan	nan	nan
-20190722	Ep	foreign	Ep	foreign	foreign	nan	nan	nan
-20190722	m5abbi2750	arabizi	مخبّي2750	مخبّي2750	NOUN_PROP	nan	nan	nan
-20190722	m5abbi12	arabizi	مخبّي12	مخبّي12	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1893	arabizi	مخبّي1893	مخبّي1893	NOUN_PROP	nan	nan	nan
+20190722	m5abbi2523	arabizi	مخبّي2523	مخبّي2523	NOUN_PROP	Sousse	25-35	M
+20190722	m5abbi757	arabizi	مخبّي757	مخبّي757	NOUN_PROP	Sousse	25-35	M
+20190722	Ep	foreign	Ep	foreign	foreign	Sousse	25-35	M
+20190722	m5abbi2750	arabizi	مخبّي2750	مخبّي2750	NOUN_PROP	Sousse	25-35	M
+20190722	m5abbi12	arabizi	مخبّي12	مخبّي12	NOUN_PROP	Sousse	25-35	M
+20190722	m5abbi1853	arabizi	مخبّي1853	مخبّي1853	NOUN_PROP	Sousse	25-35	M
+20190722	m5abbi1893	arabizi	مخبّي1893	مخبّي1893	NOUN_PROP	Sousse	25-35	M
 
-20190722	m5abbi1313	arabizi	مخبّي1313	مخبّي1313	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1379	arabizi	مخبّي1379	مخبّي1379	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2243	arabizi	مخبّي2243	مخبّي2243	NOUN_PROP	nan	nan	nan
-20190722	m5abbi631	arabizi	مخبّي631	مخبّي631	NOUN_PROP	nan	nan	nan
+20190722	m5abbi1313	arabizi	مخبّي1313	مخبّي1313	NOUN_PROP	Bizerte	-25	M
+20190722	m5abbi1379	arabizi	مخبّي1379	مخبّي1379	NOUN_PROP	Bizerte	-25	M
+20190722	m5abbi2243	arabizi	مخبّي2243	مخبّي2243	NOUN_PROP	Bizerte	-25	M
+20190722	m5abbi631	arabizi	مخبّي631	مخبّي631	NOUN_PROP	Bizerte	-25	M
 
-20190722	m5abbi2324	arabizi	مخبّي2324	مخبّي2324	NOUN_PROP	nan	nan	nan
-20190722	m5abbi333	arabizi	مخبّي333	مخبّي333	NOUN_PROP	nan	nan	nan
+20190722	m5abbi2324	arabizi	مخبّي2324	مخبّي2324	NOUN_PROP	Sfax	-25	M
+20190722	m5abbi333	arabizi	مخبّي333	مخبّي333	NOUN_PROP	Sfax	-25	M
 
-20190722	m5abbi1503	arabizi	مخبّي1503	مخبّي1503	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1503	arabizi	مخبّي1503	مخبّي1503	NOUN_PROP	nan	nan	nan
+20190722	m5abbi1503	arabizi	مخبّي1503	مخبّي1503	NOUN_PROP	Nabeul	25-35	M
+20190722	m5abbi1503	arabizi	مخبّي1503	مخبّي1503	NOUN_PROP	Nabeul	25-35	M
 
-20190722	m5abbi2476	arabizi	مخبّي2476	مخبّي2476	NOUN_PROP	nan	nan	nan
-20190722	m5abbi2618	arabizi	مخبّي2618	مخبّي2618	NOUN_PROP	nan	nan	nan
+20190722	m5abbi2476	arabizi	مخبّي2476	مخبّي2476	NOUN_PROP	Tunis	25-35	M
+20190722	m5abbi2618	arabizi	مخبّي2618	مخبّي2618	NOUN_PROP	Tunis	25-35	M
 
-20190722	m5abbi2570	arabizi	مخبّي2570	مخبّي2570	NOUN_PROP	nan	nan	nan
-20190722	m5abbi1071	arabizi	مخبّي1071	مخبّي1071	NOUN_PROP	nan	nan	nan
+20190722	m5abbi2570	arabizi	مخبّي2570	مخبّي2570	NOUN_PROP	Tunis	-25	M
+20190722	m5abbi1071	arabizi	مخبّي1071	مخبّي1071	NOUN_PROP	Tunis	-25	M
 
 20190722	m5abbi563	arabizi	مخبّي563	مخبّي563	NOUN_PROP	nan	nan	nan
 20190722	m5abbi2511	arabizi	مخبّي2511	مخبّي2511	NOUN_PROP	nan	nan	nan
@@ -9597,7 +9598,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190722	Walahi	arabizi	ولّاهي	ولّاهي	INTERJ	nan	nan	nan
 20190722	mawjoud	arabizi	موجود	موجود	ADJ	nan	nan	nan
 20190722	wa9tech	arabizi	وقتاش	وقتاش	INTERROG_ADV	nan	nan	nan
-20190722	t7eb	arabizi	تحب	تحب	IV2S-IV	nan	nan	nan
+20190722	t7eb	arabizi	تحبّ	تحبّ	IV2S-IV	nan	nan	nan
 20190722	njibelkom	arabizi	نجيب لكم	نجيب+ل+كم	IV1S-IV+[PREP+PRON_2P]IVSUFF_IO:2P	nan	nan	nan
 
 20190722	m5abbi2335	arabizi	مخبّي2335	مخبّي2335	NOUN_PROP	nan	nan	nan
@@ -9785,7 +9786,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190722	m5abbi2570	arabizi	مخبّي2570	مخبّي2570	NOUN_PROP	nan	nan	nan
 20190722	hhh	arabizi	هههه	هههه	INTERJ	nan	nan	nan
 20190722	markiih	arabizi	مركيه	مركي+ه	IV1S-IV+IVSUFF_DO:3MS	nan	nan	nan
-20190722	aqa	arabizi	هكا	هكا	ADV	nan	nan	nan
+20190722	aqa	arabizi	هكّا	هكّا	ADV	nan	nan	nan
 20190722	louhayeed	arabizi	الوحيد	ال+وحيد	DET+NOUN_NUM	nan	nan	nan
 
 20190722	m5abbi800	arabizi	مخبّي800	مخبّي800	NOUN_PROP	nan	nan	nan
@@ -10703,7 +10704,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190720	tbadel	arabizi	تبدّل	تبدّل	IV2S-IV	nan	nan	nan
 20190720	esmek	arabizi	اسمك	اسم+ك	NOUN+POSS_PRON_2S	nan	nan	nan
 20190720	ken	arabizi	كان	كان	SUB_CONJ	nan	nan	nan
-20190720	theeb	arabizi	تحب	تحب	IV2S-IV	nan	nan	nan
+20190720	theeb	arabizi	تحبّ	تحبّ	IV2S-IV	nan	nan	nan
 
 20190720	Haw	arabizi	هاه	ها+ه	FOCUS_PART+PRON_3MS	nan	nan	nan
 20190720	je	arabizi	جا	جا	PV-PVSUFF_SUBJ:3MS	nan	nan	nan
@@ -10864,7 +10865,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190720	m5abbi1688	arabizi	مخبّي1688	مخبّي1688	NOUN_PROP	nan	nan	nan
 20190720	m5abbi426	arabizi	مخبّي426	مخبّي426	NOUN_PROP	nan	nan	nan
 20190720	hiya	arabizi	هي	هي	PRON_3FS	nan	nan	nan
-20190720	theb	arabizi	تحب	تحب	IV3FS-IV	nan	nan	nan
+20190720	theb	arabizi	تحبّ	تحبّ	IV3FS-IV	nan	nan	nan
 20190720	aala	arabizi	على	على	PREP	nan	nan	nan
 20190720	m5abbi2113	arabizi	مخبّي2113	مخبّي2113	NOUN_PROP	nan	nan	nan
 20190720	moch	arabizi	موش	موش	NEG_PART	nan	nan	nan
@@ -11683,7 +11684,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190721	enta	arabizi	انتا	انتا	PRON_2S	nan	nan	nan
 20190721	w	arabizi	و	و	CONJ	nan	nan	nan
 20190721	tfih	arabizi	تفيه	تفيه	IV3MS-IV	nan	nan	nan
-20190721	3lik	arabizi	عليك	علي+ك	PREP+PRON_2S	nan	nan	nan
+20190721	3lik	arabizi	عليك	على+ك	PREP+PRON_2S	nan	nan	nan
 
 20190721	hhhh	arabizi	هههه	هههه	INTERJ	nan	nan	nan
 
@@ -12175,7 +12176,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190725	m5abbi2677	arabizi	مخبّي2677	مخبّي2677	NOUN_PROP	nan	nan	nan
 20190725	m5abbi333	arabizi	مخبّي333	مخبّي333	NOUN_PROP	nan	nan	nan
 20190725	moe	arabizi	مو	مو	NOUN_PROP	nan	nan	nan
-20190725	thb	arabizi	تحب	تحب	IV2S-IV	nan	nan	nan
+20190725	thb	arabizi	تحبّ	تحبّ	IV2S-IV	nan	nan	nan
 20190725	3al	arabizi	على	على	PREP	nan	nan	nan
 20190725	habra	arabizi	هبرى	هبرى	NOUN	nan	nan	nan
 20190725	bared	arabizi	بارد	بارد	ADJ	nan	nan	nan
@@ -12207,8 +12208,8 @@ data	arabish	code	words	token	pos	city	age	gender
 20190725	Badre	arabizi	بدر	بدر	NOUN_PROP	nan	nan	nan
 20190725	m5abbi2029	arabizi	مخبّي2029	مخبّي2029	NOUN_PROP	nan	nan	nan
 
-20190725	Ray	arabizi	راي	را+ي	FOCUS_PART+PRON_1S	nan	nan	nan
-20190725	Den	arabizi	دين	دين	NOUN	nan	nan	nan
+20190725	Ray	arabizi	راي	راي	ABBREV	nan	nan	nan
+20190725	Den	arabizi	دين	دين	ABBREV	nan	nan	nan
 20190725	aya	arabizi	ايّ	ايّ	INTERJ	nan	nan	nan
 20190725	m3allem	arabizi	معلّم	معلّم	NOUN	nan	nan	nan
 20190725	ched	arabizi	شد	شد	CV2S-CV	nan	nan	nan
@@ -12238,7 +12239,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190725	na3rfek	arabizi	نعرفك	نعرف+ك	IV1S-IV+IVSUFF_DO:2S	nan	nan	nan
 20190725	hedha	arabizi	هاذا	هاذا	DEM_PRON_3MS	nan	nan	nan
 20190725	eli	arabizi	اللي	اللي	REL_PRON	nan	nan	nan
-20190725	t7eb	arabizi	تحب	تحب	IV2S-IV	nan	nan	nan
+20190725	t7eb	arabizi	تحبّ	تحبّ	IV2S-IV	nan	nan	nan
 20190725	3lih	arabizi	عليه	على+ه	PREP+PRON_3MS	nan	nan	nan
 20190725	juste	foreign	juste	foreign	foreign	nan	nan	nan
 20190725	badlelha	arabizi	بدّللها	بدّل+ل+ها	CV2S-CV+[PREP+PRON_3FS]CVSUFF_IO:3FS	nan	nan	nan
@@ -12373,7 +12374,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190725	m5abbi1891	arabizi	مخبّي1891	مخبّي1891	NOUN_PROP	nan	nan	nan
 20190725	ta3raf	arabizi	تعرف	تعرف	IV2S-IV	nan	nan	nan
 20190725	chkon	arabizi	شكون	شكون	PRON_INDEF	nan	nan	nan
-20190725	yhab	arabizi	يحب	يحب	IV3MS-IV	nan	nan	nan
+20190725	yhab	arabizi	يحبّ	يحبّ	IV3MS-IV	nan	nan	nan
 20190725	hado	arabizi	هاذه	هاذه	DEM_PRON_3MS	nan	nan	nan
 20190725	hhhhhh	arabizi	هههه	هههه	INTERJ	nan	nan	nan
 
@@ -13096,7 +13097,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190721	m5abbi1419	arabizi	مخبّي1419	مخبّي1419	NOUN_PROP	nan	nan	nan
 20190721	🤣🤣🤣🤣	emotag	🤣🤣🤣🤣	emotag	emotag	nan	nan	nan
 
-20190721	Hey	arabizi	هاي	ها+ي	FOCUS_PART+PRON_1S	nan	nan	nan
+20190721	Hey	arabizi	هاي	هاي	INTERJ	nan	nan	nan
 20190721	m5abbi1170	arabizi	مخبّي1170	مخبّي1170	NOUN_PROP	nan	nan	nan
 20190721	❤	emotag	❤	emotag	emotag	nan	nan	nan
 
@@ -13975,7 +13976,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20120404	féé	foreign	féé	foreign	foreign	nan	nan	nan
 
 20120404	βēŠŦ	foreign	βēŠŦ	foreign	foreign	nan	nan	nan
-20120404	JàâàŴ	arabizi	جو	جو	NOUN_PROP	nan	nan	nan
+20120404	JàâàŴ	arabizi	جوّ	جوّ	NOUN_PROP	nan	nan	nan
 20120404	ŠŭR	foreign	ŠŭR	foreign	foreign	nan	nan	nan
 20120404	ƒãČëβǿØK	arabizi	فايسبوك	فايسبوك	NOUN_PROP	nan	nan	nan
 
@@ -14093,7 +14094,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20120403	9olna	arabizi	قلنا	قل+نا	CV2S-CV+CVSUFF_DO:1P	nan	nan	nan
 20120403	saluuuuuuuuuuttttt	foreign	saluuuuuuuuuuttttt	foreign	foreign	nan	nan	nan
 20120403	chnia	arabizi	شنية	شنية	INTERROG_PRON	nan	nan	nan
-20120403	jaw	arabizi	جو	جو	NOUN	nan	nan	nan
+20120403	jaw	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20120403	le9raya	arabizi	القراية	ال+قراية	DET+NOUN-NSUFF_FEM_SG	nan	nan	nan
 20120403	wala	arabizi	ولا	ولا	CONJ	nan	nan	nan
 20120403	l5edma	arabizi	الخدمة	ال+خدمة	DET+NOUN-NSUFF_FEM_SG	nan	nan	nan
@@ -14104,7 +14105,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20120403	"\"""	arabizi	"\"""	"\"""	SYM	nan	nan	nan
 20120403	"\"""	arabizi	"\"""	"\"""	SYM	nan	nan	nan
 
-20120403	Jawe	arabizi	جو	جو	NOUN	nan	nan	nan
+20120403	Jawe	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20120403	la9raya	arabizi	القراية	ال+قراية	DET+NOUN-NSUFF_FEM_SG	nan	nan	nan
 20120403	cava	foreign	cava	foreign	foreign	nan	nan	nan
 20120403	m3a	arabizi	مع	مع	PREP	nan	nan	nan
@@ -14251,11 +14252,11 @@ data	arabish	code	words	token	pos	city	age	gender
 20120407	a	arabizi	ا	ة	-NSUFF_FEM_SG	nan	nan	nan
 20120407	)	arabizi	(	)	PUNC	nan	nan	nan
 20120407	w	arabizi	و	و	CONJ	nan	nan	nan
-20120407	t7ib	arabizi	تحب	تحب	IV2S-IV	nan	nan	nan
-20120407	jaw	arabizi	جو	جو	NOUN	nan	nan	nan
+20120407	t7ib	arabizi	تحبّ	تحبّ	IV2S-IV	nan	nan	nan
+20120407	jaw	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20120407	sahreyet	arabizi	سهريّات	سهريّات	NOUN-NSUFF_FEM_PL	nan	nan	nan
 20120407	w	arabizi	و	و	CONJ	nan	nan	nan
-20120407	t7ib	arabizi	تحب	تحب	IV2S-IV	nan	nan	nan
+20120407	t7ib	arabizi	تحبّ	تحبّ	IV2S-IV	nan	nan	nan
 20120407	ta7ki	arabizi	تحكي	تحكي	IV2S-IV	nan	nan	nan
 20120407	histoire	foreign	histoire	foreign	foreign	nan	nan	nan
 20120407	d'amour	foreign	d'amour	foreign	foreign	nan	nan	nan
@@ -14327,7 +14328,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20120407	pùub	foreign	pùub	foreign	foreign	nan	nan	nan
 
 20120407	βēŠŦ	foreign	βēŠŦ	foreign	foreign	nan	nan	nan
-20120407	JàâàŴ	arabizi	جو	جو	NOUN	nan	nan	nan
+20120407	JàâàŴ	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20120407	ŠŭR	foreign	ŠŭR	foreign	foreign	nan	nan	nan
 20120407	ƒãČëβǿØK	arabizi	فايسبوك	فايسبوك	NOUN_PROP	nan	nan	nan
 
@@ -14353,7 +14354,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20120407	0	arabizi	0	0	NOUN_NUM	nan	nan	nan
 20120407	>	arabizi	>	>	PUNC	nan	nan	nan
 20120407	βēŠŦ	foreign	βēŠŦ	foreign	foreign	nan	nan	nan
-20120407	JàâàŴ	arabizi	جو	جو	NOUN	nan	nan	nan
+20120407	JàâàŴ	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20120407	ŠŭR	foreign	ŠŭR	foreign	foreign	nan	nan	nan
 20120407	ƒãČëβǿØK	arabizi	فايسبوك	فايسبوك	NOUN_PROP	nan	nan	nan
 
@@ -14476,11 +14477,11 @@ data	arabish	code	words	token	pos	city	age	gender
 20120406	a	arabizi	ا	ة	-NSUFF_FEM_SG	nan	nan	nan
 20120406	)	arabizi	(	)	PUNC	nan	nan	nan
 20120406	w	arabizi	و	و	CONJ	nan	nan	nan
-20120406	t7ib	arabizi	تحب	تحب	IV2S-IV	nan	nan	nan
-20120406	jaw	arabizi	جو	جو	NOUN	nan	nan	nan
+20120406	t7ib	arabizi	تحبّ	تحبّ	IV2S-IV	nan	nan	nan
+20120406	jaw	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20120406	sahreyet	arabizi	سهريّات	سهريّات	NOUN-NSUFF_FEM_PL	nan	nan	nan
 20120406	w	arabizi	و	و	CONJ	nan	nan	nan
-20120406	t7ib	arabizi	تحب	تحب	IV2S-IV	nan	nan	nan
+20120406	t7ib	arabizi	تحبّ	تحبّ	IV2S-IV	nan	nan	nan
 20120406	ta7ki	arabizi	تحكي	تحكي	IV2S-IV	nan	nan	nan
 20120406	histoire	foreign	histoire	foreign	foreign	nan	nan	nan
 20120406	d'amour	foreign	d'amour	foreign	foreign	nan	nan	nan
@@ -14564,7 +14565,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20120404	9oul	arabizi	قل	قل	IV1S-IV	nan	nan	nan
 20120404	n7ebek	arabizi	نحبّك	نحبّ+ك	IV1S-IV+IVSUFF_DO:2S	nan	nan	nan
 20120404	lely	arabizi	لاللي	ل+اللي	PREP+REL_PRON	nan	nan	nan
-20120404	t7eb	arabizi	تحب	تحب	IV2S-IV	nan	nan	nan
+20120404	t7eb	arabizi	تحبّ	تحبّ	IV2S-IV	nan	nan	nan
 
 20120404	N7ebek	arabizi	نحبّك	نحبّ+ك	IV1S-IV+IVSUFF_DO:2S	nan	nan	nan
 20120404	ya	arabizi	يا	يا	VOC_PART	nan	nan	nan
@@ -14622,9 +14623,9 @@ data	arabish	code	words	token	pos	city	age	gender
 20120404	Si	foreign	Si	foreign	foreign	nan	nan	nan
 20120404	toi	foreign	toi	foreign	foreign	nan	nan	nan
 20120404	aussi	foreign	aussi	foreign	foreign	nan	nan	nan
-20120404	t7éb	arabizi	تحب	تحب	IV2S-IV	nan	nan	nan
+20120404	t7éb	arabizi	تحبّ	تحبّ	IV2S-IV	nan	nan	nan
 20120404	ta3mêl	arabizi	تعمل	تعمل	IV2S-IV	nan	nan	nan
-20120404	jaaaw	arabizi	جو	جو	NOUN	nan	nan	nan
+20120404	jaaaw	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20120404	(-')	emotag	(-')	emotag	emotag	nan	nan	nan
 20120404	Ija	arabizi	اجا	اجا	CV2S-CV	nan	nan	nan
 20120404	m3ana	arabizi	معنا	مع+نا	PREP+PRON_1P	nan	nan	nan
@@ -14690,9 +14691,9 @@ data	arabish	code	words	token	pos	city	age	gender
 20120404	Si	foreign	Si	foreign	foreign	nan	nan	nan
 20120404	toi	foreign	toi	foreign	foreign	nan	nan	nan
 20120404	aussi	foreign	aussi	foreign	foreign	nan	nan	nan
-20120404	t7éb	arabizi	تحب	تحب	IV2S-IV	nan	nan	nan
+20120404	t7éb	arabizi	تحبّ	تحبّ	IV2S-IV	nan	nan	nan
 20120404	ta3mêl	arabizi	تعمل	تعمل	IV2S-IV	nan	nan	nan
-20120404	jaaaw	arabizi	جو	جو	NOUN	nan	nan	nan
+20120404	jaaaw	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20120404	(-')	emotag	(-')	emotag	emotag	nan	nan	nan
 20120404	Ija	arabizi	اجا	اجا	CV2S-CV	nan	nan	nan
 20120404	m3ana	arabizi	معنا	مع+نا	PREP+DET	nan	nan	nan
@@ -14731,7 +14732,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20120402	!	arabizi	!	!	PUNC	nan	nan	nan
 
 20120402	chnia	arabizi	شنية	شنية	INTERROG_PRON	nan	nan	nan
-20120402	jaw	arabizi	جو	جو	NOUN	nan	nan	nan
+20120402	jaw	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20120402	le9raya	arabizi	القراية	ال+قراية	DET+NOUN-NSUFF_FEM_SG	nan	nan	nan
 20120402	fi	arabizi	في	في	PREP	nan	nan	nan
 20120402	rentrée	foreign	rentrée	foreign	foreign	nan	nan	nan
@@ -14746,7 +14747,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20120402	wasel	arabizi	واصل	واصل	ADJ	nan	nan	nan
 20120402	hhh	arabizi	ههه	هههه	INTERJ	nan	nan	nan
 
-20120402	Jaw	arabizi	جو	جو	NOUN	nan	nan	nan
+20120402	Jaw	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20120402	moch	arabizi	موش	موش	NEG_PART	nan	nan	nan
 20120402	normal	arabizi	نورمال	نورمال	ADJ	nan	nan	nan
 20120402	.	arabizi	.	.	PUNC	nan	nan	nan
@@ -14811,7 +14812,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20120402	Inamous	arabizi	لناموس	ال+ناموس	DET+NOUN	nan	nan	nan
 20120402	ma5alanach	arabizi	ما خلّاناش	ما+خلّوا+نا+ش	NEG_PART+PV-PVSUFF_SUBJ:3P+PVSUFF_DO:1P+NEG_PART	nan	nan	nan
 20120402	na3mlou	arabizi	نعملوا	نعملوا	IV1P-IV-IVSUFF_SUBJ:P	nan	nan	nan
-20120402	jaw	arabizi	جو	جو	NOUN	nan	nan	nan
+20120402	jaw	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 
 20120402	Pas	foreign	Pas	foreign	foreign	nan	nan	nan
 20120402	mal	foreign	mal	foreign	foreign	nan	nan	nan
@@ -14841,7 +14842,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20120406	puub	foreign	puub	foreign	foreign	nan	nan	nan
 20120406	βēŠŦ	foreign	βēŠŦ	foreign	foreign	nan	nan	nan
-20120406	JàâàŴ	arabizi	جو	جو	NOUN	nan	nan	nan
+20120406	JàâàŴ	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20120406	ŠŭR	foreign	ŠŭR	foreign	foreign	nan	nan	nan
 20120406	ƒãČëβǿØK	arabizi	فايسبوك	فايسبوك	NOUN_PROP	nan	nan	nan
 
@@ -16191,7 +16192,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20100228	ye5i	arabizi	ياخي	ياخي	CONJ	nan	nan	nan
 20100228	fibalkom	arabizi	في بالكم	في+بال+كم	PREP+NOUN+POSS_PRON_2S	nan	nan	nan
 20100228	sbou3i	arabizi	سبوعي	سبوع+ي	NOUN+POSS_PRON_1S	nan	nan	nan
-20100228	y7eb	arabizi	يحب	يحب	IV3MS-IV	nan	nan	nan
+20100228	y7eb	arabizi	يحبّ	يحبّ	IV3MS-IV	nan	nan	nan
 20100228	lemfach5a	arabizi	المفشخة	ال+مفشخة	DET+NOUN-NSUFF_FEM_SG	nan	nan	nan
 20100228	m7aba	arabizi	محبّة	محبّة	ADJ-NSUFF_FEM_SG	nan	nan	nan
 20100228	f	arabizi	ف	في	PREP	nan	nan	nan
@@ -16222,7 +16223,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20100228	3léch	arabizi	علاش	علاش	INTERROG_PRON	nan	nan	nan
 20100228	houwa	arabizi	هو	هو	PRON_3MS	nan	nan	nan
 20100228	mara	arabizi	مرّة	مرّة	ADV	nan	nan	nan
-20100228	y7eb	arabizi	يحب	يحب	IV3MS-IV	nan	nan	nan
+20100228	y7eb	arabizi	يحبّ	يحبّ	IV3MS-IV	nan	nan	nan
 20100228	mnestir	arabizi	مستير	مستير	NOUN_PROP	nan	nan	nan
 20100228	mara	arabizi	مرّة	مرّة	ADV	nan	nan	nan
 20100228	lemfach5a	arabizi	المفشخة	ال+مفشخة	DEF+ADJ-NSUFF_FEM_SG	nan	nan	nan
@@ -16356,7 +16357,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150721	chkoun	arabizi	شكون	شكون	INTERROG_PRON	Gafsa	35-50	M
 20150721	hayja	arabizi	هيجة	هيجة	ADJ-NSUFF_FEM_SG	Gafsa	35-50	M
 20150721	w	arabizi	و	و	CONJ	Gafsa	35-50	M
-20150721	t7eb	arabizi	تحب	تحب	IV3FS-IV	Gafsa	35-50	M
+20150721	t7eb	arabizi	تحبّ	تحبّ	IV3FS-IV	Gafsa	35-50	M
 20150721	chi5a	arabizi	شيخة	شيخة	NOUN-NSUFF_FEM_SG	Gafsa	35-50	M
 20150721	en	foreign	en	foreign	foreign	Gafsa	35-50	M
 20150721	top	foreign	top	foreign	foreign	Gafsa	35-50	M
@@ -16376,7 +16377,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190226	o5roj	arabizi	اخرج	اخرج	CV2S-CV	nan	nan	nan
 20190226	tfrahed	arabizi	تفرهد	تفرهد	CV2S-CV	nan	nan	nan
 20190226	a3mel	arabizi	اعمل	اعمل	CV2S-CV	nan	nan	nan
-20190226	jaw	arabizi	جو	جو	NOUN	nan	nan	nan
+20190226	jaw	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20190226	5arej	arabizi	خارج	خارج	ADV	nan	nan	nan
 20190226	🎡🎢	emotag	🎡🎢	emotag	emotag	nan	nan	nan
 20190226	#	arabizi	#	#	SYM	nan	nan	nan
@@ -16438,7 +16439,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190226	w	arabizi	و	و	CONJ	nan	nan	nan
 20190226	bilnes	arabizi	بالناس	ب+ال+ناس	PREP+DET+NOUN	nan	nan	nan
 20190226	ili	arabizi	اللي	اللي	REL_PRON	nan	nan	nan
-20190226	i7eb	arabizi	يحب	يحب	IV3MS-IV	nan	nan	nan
+20190226	i7eb	arabizi	يحبّ	يحبّ	IV3MS-IV	nan	nan	nan
 20190226	y5roj	arabizi	يخرج	يخرج	IV3MS-IV	nan	nan	nan
 20190226	m3ana	arabizi	معنا	مع+نا	PREP+PRON_1P	nan	nan	nan
 20190226	w	arabizi	و	و	CONJ	nan	nan	nan
@@ -16851,7 +16852,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190125	o5roj	arabizi	اخرج	اخرج	CV2S-CV	nan	nan	nan
 20190125	tfrahed	arabizi	تفرهد	تفرهد	CV2S-CV	nan	nan	nan
 20190125	a3mel	arabizi	اعمل	اعمل	CV2S-CV	nan	nan	nan
-20190125	jaw	arabizi	جو	جو	NOUN	nan	nan	nan
+20190125	jaw	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20190125	🎡🎢	emotag	🎡🎢	emotag	emotag	nan	nan	nan
 20190125	5arej	arabizi	خارج	خارج	ADV	nan	nan	nan
 20190125	#	arabizi	#	#	SYM	nan	nan	nan
@@ -16913,7 +16914,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190125	w	arabizi	و	و	CONJ	nan	nan	nan
 20190125	bilnes	arabizi	بالناس	ب+ال+ناس	PREP+DET+NOUN	nan	nan	nan
 20190125	ili	arabizi	اللي	اللي	REL_PRON	nan	nan	nan
-20190125	i7eb	arabizi	يحب	يحب	IV3MS-IV	nan	nan	nan
+20190125	i7eb	arabizi	يحبّ	يحبّ	IV3MS-IV	nan	nan	nan
 20190125	y5roj	arabizi	يخرج	يخرج	IV3MS-IV	nan	nan	nan
 20190125	m3ana	arabizi	معنا	مع+نا	PREP+PRON_1P	nan	nan	nan
 20190125	w	arabizi	و	و	CONJ	nan	nan	nan
@@ -17218,7 +17219,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150124	kedach	arabizi	قدّاش	قدّاش	INTERROG_ADV	Gafsa	35-50	M
 20150124	soumo	arabizi	سومه	سوم+ه	NOUN+POSS_PRON_3MS	Gafsa	35-50	M
 
-20150124	Prix	foreign	Prix	foreign	foreign	Djerba	25-35	M
+20150124	Prix	foreign	Prix	foreign	foreign	Medenine, Djerba	25-35	M
 
 20150124	Brabi	arabizi	بربّي	ب+ربّ+ي	[PREP+NOUN+POSS_PRON_1S]INTERJ	Tataouine	50+	M
 20150124	el	arabizi	ال	ال	DET	Tataouine	50+	M
@@ -17534,7 +17535,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190713	3leh	arabizi	علاه	علاه	INTERROG_ADV	Tunis	35-50	F
 20190713	3amlou	arabizi	عملوا	عملوا	PV-PVSUFF_SUBJ:3P	Tunis	35-50	F
 20190713	m3aha	arabizi	معها	مع+ها	PREP+PRON_3FS	Tunis	35-50	F
-20190713	haka	arabizi	هكا	هكا	ADV	Tunis	35-50	F
+20190713	haka	arabizi	هكّا	هكّا	ADV	Tunis	35-50	F
 20190713	Hhhh	arabizi	هههه	هههه	INTERJ	Tunis	35-50	F
 
 20190712	hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh	arabizi	هههه	هههه	INTERJ	Gabès	-25	F
@@ -17782,7 +17783,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20130713	admin	foreign	admin	foreign	foreign	nan	nan	nan
 20130713	«med	arabizi	«مد	«+مد	PUNC+NOUN_PROP	nan	nan	nan
-20130713	ali»	arabizi	علي»	علي+»	NOUN_PROP+PUNC	nan	nan	nan
+20130713	ali»	arabizi	علي»	على+»	NOUN_PROP+PUNC	nan	nan	nan
 
 20130713	Alah	arabizi	الله	الله	NOUN_PROP	Zaghouan	25-35	F
 20130713	yar7mek	arabizi	يرحمك	يرحم+ك	IV3MS-IV+IVSUFF_DO:2S	Zaghouan	25-35	F
@@ -18005,8 +18006,8 @@ data	arabish	code	words	token	pos	city	age	gender
 20190306	dispo	foreign	dispo	foreign	foreign	nan	nan	nan
 20190306	?	arabizi	؟	؟	PUNC	nan	nan	nan
 
-20190306	Lieu	foreign	Lieu	foreign	foreign	Djerba	25-35	F
-20190306	?	arabizi	؟	؟	PUNC	Djerba	25-35	F
+20190306	Lieu	foreign	Lieu	foreign	foreign	Medenine, Djerba	25-35	F
+20190306	?	arabizi	؟	؟	PUNC	Medenine, Djerba	25-35	F
 
 20190306	Prix	foreign	Prix	foreign	foreign	/	25-35	F
 
@@ -18352,7 +18353,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20130724	kalb	arabizi	كلب	كلب	NOUN	Sfax	50+	M
 
 20130724	hhhhhhhhhhhh	arabizi	هههه	هههه	INTERJ	/	/	/
-20130724	t7ib	arabizi	تحب	تحب	IV2S-IV	/	/	/
+20130724	t7ib	arabizi	تحبّ	تحبّ	IV2S-IV	/	/	/
 20130724	traja3	arabizi	ترجّع	ترجّع	IV2S-IV	/	/	/
 20130724	el	arabizi	ال	ال	DET	/	/	/
 20130724	bey	arabizi	باي	باي	NOUN	/	/	/
@@ -19022,7 +19023,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20130725	jerdhan	arabizi	جرذان	جرذان	NOUN	nan	nan	nan
 20130725	tawa	arabizi	توّا	توّا	ADV	nan	nan	nan
 20130725	walitou	arabizi	ولّيتوا	ولّيتوا	PV-PVSUFF_SUBJ:3P	nan	nan	nan
-20130725	t7eb	arabizi	تحب	تحب	ADV	nan	nan	nan
+20130725	t7eb	arabizi	تحبّ	تحبّ	ADV	nan	nan	nan
 20130725	il	arabizi	ال	ال	PREP	nan	nan	nan
 20130725	bay	arabizi	باي	باي	NOUN	nan	nan	nan
 20130725	?	arabizi	؟	؟	PUNC	nan	nan	nan

@@ -25,7 +25,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150902	bou9alb	arabizi	بوقلب	بو+قلب	[PREP+NOUN]ADJ	Bizerte	25-35	M
 20150902	wehed	arabizi	واحد	واحد	PRON_INDEF	Bizerte	25-35	M
 20150902	t9oul	arabizi	تقول	تقول	IV2S-IV	Bizerte	25-35	M
-20150902	3lih	arabizi	عليه	علي+ه	PREP+PRON_3MS	Bizerte	25-35	M
+20150902	3lih	arabizi	عليه	على+ه	PREP+PRON_3MS	Bizerte	25-35	M
 20150902	y3ich	arabizi	يعيش	يعيش	IV3MS-IV	Bizerte	25-35	M
 20150902	fi	arabizi	في	في	PREP	Bizerte	25-35	M
 20150902	alcatraz	arabizi	الكتراز	الكتراز	NOUN_PROP	Bizerte	25-35	M
@@ -50,7 +50,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20150919	w	arabizi	و	و	CONJ	Bizerte	25-35	M
 20150919	9al	arabizi	قال	قال	PV-PVSUFF_SUBJ:3MS	Bizerte	25-35	M
 20150919	raw	arabizi	راه	را+ه	FOCUS_PART+PRON_3MS	Bizerte	25-35	M
-20150919	4alltouni	arabizi	غلطوني	غلطوا+ني	PV-PVSUFF_SUBJ:3P+PVSUFF_DO:1S	Bizerte	25-35	M
+20150919	4alltouni	arabizi	غالطوني	غالطوا+ني	PV-PVSUFF_SUBJ:3P+PVSUFF_DO:1S	Bizerte	25-35	M
 20150919	9olna	arabizi	قولنا	قولنا	PV-PVSUFF_SUBJ:1P	Bizerte	25-35	M
 20150919	8aw	arabizi	هاه	ها+ه	FOCUS_PART+PRON_3MS	Bizerte	25-35	M
 20150919	rabbi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	Bizerte	25-35	M
@@ -94,11 +94,11 @@ data	arabish	code	words	token	pos	city	age	gender
 20150919	m5abbi2790	arabizi	مخبّي2790	مخبّي2790	NOUN_PROP	Bizerte	35-50	M
 20150919	elli	arabizi	اللي	اللي	REL_PRON	Bizerte	35-50	M
 20150919	chad	arabizi	شد	شد	PV-PVSUFF_SUBJ:3MS	Bizerte	35-50	M
-20150919	lebled	arabizi	البلد	ال+بلد	DET+NOUN	Bizerte	35-50	M
+20150919	lebled	arabizi	البلد	ال+بلاد	DET+NOUN	Bizerte	35-50	M
 20150919	blech	arabizi	بلاش	بلاش	PREP	Bizerte	35-50	M
 20150919	soulou7iyet	arabizi	صلاحيات	صلاحيات	NOUN-NSUFF_FEM_PL	Bizerte	35-50	M
 20150919	w	arabizi	و	و	CONJ	Bizerte	35-50	M
-20150919	zid	arabizi	زيد	زيد	ADV	Bizerte	35-50	M
+20150919	zid	arabizi	زيد	زيد	CV2S-CV	Bizerte	35-50	M
 20150919	tawa	arabizi	توّا	توّا	ADV	Bizerte	35-50	M
 20150919	chadna	arabizi	شدنا	شد+نا	PV-PVSUFF_SUBJ:3MS+PVSUFF_DO:1P	Bizerte	35-50	M
 20150919	3zouz	arabizi	عزوز	عزوز	NOUN	Bizerte	35-50	M
@@ -197,7 +197,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20151002	bedmou3	arabizi	بالدموع	ب+ال+دموع	PREP+DET+NOUN	Tunis	35-50	M
 
 20151004	3rabfieurope2011:	arabizi	عرب في اوروبا 2011 :	عرب+في+اوروبا+2011+:	NOUN+PREP+NOUN_PROP+NOUN_NUM+PUNC	Bizerte	25-35	M
-20151004	walla8i	arabizi	واللّه	واللّهي	INTERJ	Bizerte	25-35	M
+20151004	walla8i	arabizi	واللّهي	والله	INTERJ	Bizerte	25-35	M
 20151004	klemek	arabizi	كلامك	كلام+ك	NOUN+POSS_PRON_2S	Bizerte	25-35	M
 20151004	s7i7	arabizi	صحيح	صحيح	ADJ	Bizerte	25-35	M
 20151004	100	arabizi	100	100	NOUN_NUM	Bizerte	25-35	M
@@ -206,7 +206,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20151004	berjoulia	arabizi	بالرجولية	ب+ال+رجولية	PREP+DET+NOUN-NSUFF_FEM_SG	Bizerte	25-35	M
 20151004	famma	arabizi	فمّة	فمّة	PSEUDO_VERB	Bizerte	25-35	M
 20151004	twensa	arabizi	توانسة	توانسة	NOUN	Bizerte	25-35	M
-20151004	mashalla	arabizi	ما شاء لله	ماشاءلله	INTERJ	Bizerte	25-35	M
+20151004	mashalla	arabizi	ما شاء لله	ما شاء لله	INTERJ	Bizerte	25-35	M
 20151004	fi	arabizi	في	في	PREP	Bizerte	25-35	M
 20151004	m5a58om	arabizi	مخاخهم	مخاخ+هم	NOUN+POSS_PRON_3P	Bizerte	25-35	M
 20151004	w	arabizi	و	و	CONJ	Bizerte	25-35	M
@@ -228,8 +228,8 @@ data	arabish	code	words	token	pos	city	age	gender
 20151004	barcha	arabizi	برشا	برشا	ADV	Bizerte	25-35	M
 20151004	twensa	arabizi	توانسة	توانسة	NOUN	Bizerte	25-35	M
 20151004	o5rin	arabizi	آخرين	آخرين	ADJ-NSUFF_MASC_PL	Bizerte	25-35	M
-20151004	ynajmou	arabizi	ينجموا	ينجموا	IV3MP-IV-IVSUFF_SUBJ:P	Bizerte	25-35	M
-20151004	ybaddlou	arabizi	يبدلوا	يبدلوا	IV3MP-IV-IVSUFF_SUBJ:P	Bizerte	25-35	M
+20151004	ynajmou	arabizi	ينجّموا	ينجّموا	IV3MP-IV-IVSUFF_SUBJ:P	Bizerte	25-35	M
+20151004	ybaddlou	arabizi	يبدلّوا	يبدّلوا	IV3MP-IV-IVSUFF_SUBJ:P	Bizerte	25-35	M
 20151004	lebled	arabizi	البلاد	ال+بلاد	DET+NOUN	Bizerte	25-35	M
 20151004	ama	arabizi	أما	اما	CONJ	Bizerte	25-35	M
 20151004	el	arabizi	ال	ال	DET	Bizerte	25-35	M
@@ -238,11 +238,11 @@ data	arabish	code	words	token	pos	city	age	gender
 20151004	elli	arabizi	اللي	اللي	REL_PRON	Bizerte	25-35	M
 20151004	y3ich	arabizi	يعيش	يعيش	IV3MS-IV	Bizerte	25-35	M
 20151004	fi	arabizi	في	في	PREP	Bizerte	25-35	M
-20151004	fransa	arabizi	فرنسا	فرنسا	NOUN_PROP	Bizerte	25-35	M
+20151004	fransa	arabizi	فرنسا	فرانسا	NOUN_PROP	Bizerte	25-35	M
 20151004	w	arabizi	و	و	CONJ	Bizerte	25-35	M
 20151004	le5or	arabizi	الآخر	ال+آخر	DET+ADJ	Bizerte	25-35	M
 20151004	fi	arabizi	في	في	PREP	Bizerte	25-35	M
-20151004	italyen	arabizi	إيطليان	إيطليا	NOUN_PROP	Bizerte	25-35	M
+20151004	italyen	arabizi	إيطليان	ايطاليا	NOUN_PROP	Bizerte	25-35	M
 20151004	yetKayef	arabizi	يتكيف	يتكيف	IV3MS-IV	Bizerte	25-35	M
 20151004	fi	arabizi	في	في	PREP	Bizerte	25-35	M
 20151004	kif	arabizi	كيف	كيف	NOUN	Bizerte	25-35	M
@@ -261,7 +261,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20151004	ena	arabizi	انا	انا	PRON_1S	Tunis	25-35	F
 20151004	tghithni	arabizi	تغيضني	تغيض+ني	IV3FS-IV+IVSUFF_DO:1S	Tunis	25-35	F
 20151004	tounes	arabizi	تونس	تونس	NOUN_PROP	Tunis	25-35	F
-20151004	wallah	arabizi	واللّه	واللّه	INTERJ	Tunis	25-35	F
+20151004	wallah	arabizi	والله	والله	INTERJ	Tunis	25-35	F
 
 20151004	3rabfieurope2011:	arabizi	عرب في اوروبا 2011 :	عرب+في+اوروبا+2011+:	NOUN+PREP+NOUN_PROP+NOUN_NUM+PUNC	Bizerte	25-35	M
 20151004	merci	arabizi	مرسي	مرسي	INTERJ	Bizerte	25-35	M
@@ -270,14 +270,14 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20151004	tounes	arabizi	تونس	تونس	NOUN_PROP	Bizerte	25-35	M
 20151004	lkolna	arabizi	الكلنا	ال+كل+نا	DET+NOUN_QUANT+PRON_1P	Bizerte	25-35	M
-20151004	n7abbou8a	arabizi	نحببوها	نحببوا+ها	IV1P-IV-IVSUFF_SUBJ:P+IVSUFF_DO:3FS	Bizerte	25-35	M
+20151004	n7abbou8a	arabizi	نحبّوها	نحبّوا+ها	IV1P-IV-IVSUFF_SUBJ:P+IVSUFF_DO:3FS	Bizerte	25-35	M
 20151004	w	arabizi	و	و	CONJ	Bizerte	25-35	M
 20151004	rabby	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	Bizerte	25-35	M
 20151004	ya7fed8a	arabizi	يحفظها	يحفظ+ها	IV3MS-IV+IVSUFF_DO:3FS	Bizerte	25-35	M
 20151004	lina	arabizi	لنا	ل+نا	PREP+PRON_1P	Bizerte	25-35	M
 20151004	,	arabizi	,	,	PUNC	Bizerte	25-35	M
 
-20151004	inshalla	arabizi	ان شاء الله	انشاءلله	INTERJ	Bizerte	25-35	M
+20151004	inshalla	arabizi	ان شاء الله	ان شاء لله	INTERJ	Bizerte	25-35	M
 20151004	lkol	arabizi	لكل	ل+كل	PREP+NOUN_QUANT	Bizerte	25-35	M
 20151004	elli	arabizi	اللي	اللي	REL_PRON	Bizerte	25-35	M
 20151004	kifna	arabizi	كيفنا	كيف+نا	ADV+PRON_1P	Bizerte	25-35	M
@@ -294,7 +294,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20151004	w	arabizi	و	و	CONJ	Bizerte	25-35	M
 20151004	kol	arabizi	كلّ	كلّ	NOUN_QUANT	Bizerte	25-35	M
 20151004	boulden	arabizi	بلدان	بلدان	NOUN	Bizerte	25-35	M
-20151004	ethawra	arabizi	الثوره	ال+ثوره	DET+NOUN-NSUFF_FEM_SG	Bizerte	25-35	M
+20151004	ethawra	arabizi	الثورة	ال+ثورة	DET+NOUN-NSUFF_FEM_SG	Bizerte	25-35	M
 
 20131115	les	foreign	les	foreign	foreign	Allemagne	35-50	F
 20131115	filles	foreign	filles	foreign	foreign	Allemagne	35-50	F
@@ -355,7 +355,7 @@ data	arabish	code	words	token	pos	city	age	gender
 
 20131115	3indi	arabizi	عندي	عند+ي	PREP+PRON_1S	/	35-50	F
 20131115	jeans	foreign	jeans	foreign	foreign	/	35-50	F
-20131115	hakkéka	arabizi	هكّاكا	هكّاكا	ADV	/	35-50	F
+20131115	hakkéka	arabizi	هكاكا	هكاكا	ADV	/	35-50	F
 20131115	sghir	arabizi	صغير	صغير	ADJ	/	35-50	F
 20131115	3leyya	arabizi	علييا	على+يا	PREP+PRON_1S	/	35-50	F
 20131115	fel	arabizi	فال	في+ال	PREP+DET	/	35-50	F
@@ -368,7 +368,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20131115	méhou	arabizi	ماهو	ما+هو	NEG_PART+PRON_3MS	/	35-50	F
 20131115	bech	arabizi	باش	باش	FUT_PART	/	35-50	F
 20131115	iji	arabizi	يجي	يجي	IV3MS-IV	/	35-50	F
-20131115	9addi	arabizi	قدّي	قدّ+ي	ADJ+PRON_1S	/	35-50	F
+20131115	9addi	arabizi	قدّي	قدّ+ي	NOUN+POSS_PRON_1S	/	35-50	F
 
 20131115	hhhhhhhhhh	arabizi	هههه	هههه	INTERJ	Tunis	/	F
 20131115	ey	arabizi	أي	اي	INTERJ	Tunis	/	F
@@ -449,7 +449,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20131115	7aja	arabizi	حاجة	حاجة	NOUN-NSUFF_FEM_SG	/	/	F
 20131115	me3adech	arabizi	ماعادش	ما+عاد+ش	NEG_PART+PV-PVSUFF_SUBJ:3MS+NEG_PART	/	/	F
 20131115	tji	arabizi	تجي	تجي	IV3FS-IV	/	/	F
-20131115	9adi	arabizi	قدّي	قدّ+ي	ADJ+PRON_1S	/	/	F
+20131115	9adi	arabizi	قدّي	قدّ+ي	NOUN+POSS_PRON_1S	/	/	F
 20131115	n9olha	arabizi	نقول لها	نقول+ل+ها	IV1S-IV+[PREP+PRON_3FS]IVSUFF_IO:3FS	/	/	F
 20131115	bye	foreign	bye	foreign	foreign	/	/	F
 20131115	byeeeee	foreign	byeeeee	foreign	foreign	/	/	F
@@ -488,7 +488,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20131115	narja3	arabizi	نرجع	نرجع	IV1S-IV	/	25-35	F
 20131115	nelbess	arabizi	نلبس	نلبس	IV1S-IV	/	25-35	F
 20131115	dabchy	arabizi	دبشي	دبش+ي	NOUN+POSS_PRON_1S	/	25-35	F
-20131115	5asatan	arabizi	خاصة	خاصة	ADJ-NSUFF_FEM_SG	/	25-35	F
+20131115	5asatan	arabizi	خاصة	خاصة	ADV	/	25-35	F
 20131115	ana	arabizi	انا	انا	PRON_1S	/	25-35	F
 20131115	malbeset	arabizi	ما لبست	ما+لبست	NEG_PART+PV-PVSUFF_SUBJ:1S	/	25-35	F
 20131115	chay	arabizi	شي	شي	PRON_INDEF	/	25-35	F
@@ -499,11 +499,11 @@ data	arabish	code	words	token	pos	city	age	gender
 20131115	bon	foreign	bon	foreign	foreign	/	25-35	F
 20131115	ana	arabizi	انا	انا	PRON_1S	/	25-35	F
 20131115	belgrossessse	arabizi	بالغروسّيس	ب+ال+غروسّيس	PREP+DET+NOUN	/	25-35	F
-20131115	netsama	arabizi	نتسمّى	نتسمّى	IV1S-IV_PASS	/	25-35	F
-20131115	tra93et	arabizi	ترقّعت	ترقّعت	NOUN	/	25-35	F
+20131115	netsama	arabizi	نتسمّى	نتسمّى	IV1S-IV	/	25-35	F
+20131115	tra93et	arabizi	ترقّعت	ترقّعت	PV-PVSUFF_SUBJ:1S	/	25-35	F
 20131115	ama	arabizi	أما	اما	CONJ	/	25-35	F
 20131115	comeme	foreign	comeme	foreign	foreign	/	25-35	F
-20131115	n7eb	arabizi	نحب	نحب	IV1S-IV	/	25-35	F
+20131115	n7eb	arabizi	نحبّ	نحبّ	IV1S-IV	/	25-35	F
 20131115	nelbess	arabizi	نلبس	نلبس	IV1S-IV	/	25-35	F
 20131115	dabchy	arabizi	دبشي	دبش+ي	NOUN+POSS_PRON_1S	/	25-35	F
 20131115	chritou	arabizi	شريته	شريت+ه	PV-PVSUFF_SUBJ:1S+PVSUFF_DO:3MS	/	25-35	F
@@ -565,7 +565,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20131115	el	arabizi	ال	ال	DET	/	/	F
 20131115	kdom	arabizi	قدم	قدم	ADJ	/	/	F
 20131115	el	arabizi	ال	ال	DET	/	/	F
-20131115	kollehom	arabizi	كلّهم	كل+هم	NOUN_QUANT+PRON_3P	/	/	F
+20131115	kollehom	arabizi	كلّهم	كلّ+هم	NOUN_QUANT+PRON_3P	/	/	F
 20131115	waleou	arabizi	ولّاوا	ولّاوا	PV-PVSUFF_SUBJ:3P	/	/	F
 20131115	motivation	foreign	motivation	foreign	foreign	/	/	F
 20131115	(	arabizi	)	)	PUNC	/	/	F
@@ -633,7 +633,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20131119	3ers	arabizi	عرس	عرس	NOUN	/	25-35	F
 20131119	nal9ahom	arabizi	نلقاهم	نلقى+هم	IV1S-IV+IVSUFF_DO:3P	/	25-35	F
 20131119	mayjouch	arabizi	مايجيوش	ما+يجيوا+ش	NEG_PART+IV3MP-IV-IVSUFF_SUBJ:P+NEG_PART	/	25-35	F
-20131119	9addiii	arabizi	قدّي	قدّ+ي	ADJ+PRON_1S	/	25-35	F
+20131119	9addiii	arabizi	قدّي	قدّ+ي	NOUN+POSS_PRON_1S	/	25-35	F
 
 20131119	tesdamt	arabizi	تصدمت	تصدمت	PV_PASS-PVSUFF_SUBJ:1S	/	25-35	F
 20131119	wallit	arabizi	ولّيت	ولّيت	PV-PVSUFF_SUBJ:1S	/	25-35	F
@@ -863,7 +863,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20140912	ysirou	arabizi	يصيروا	يصيروا	IV3MP-IV-IVSUFF_SUBJ:P	nan	nan	F
 20140912	raho	arabizi	راه	را+ه	FOCUS_PART+PRON_3MS	nan	nan	F
 20140912	machakel	arabizi	مشاكل	مشاكل	NOUN	nan	nan	F
-20140912	haka	arabizi	هكا	هكا	ADV	nan	nan	F
+20140912	haka	arabizi	هكّا	هكّا	ADV	nan	nan	F
 20140912	bin	arabizi	بين	بين	PREP	nan	nan	F
 20140912	les	foreign	les	foreign	foreign	nan	nan	F
 20140912	couples	foreign	couples	foreign	foreign	nan	nan	F
@@ -938,7 +938,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20140912	MREYA	arabizi	مراية	مراية	NOUN-NSUFF_FEM_SG	nan	nan	F
 20140912	JAMAIS	foreign	JAMAIS	foreign	foreign	nan	nan	F
 20140912	KONT	arabizi	كنت	كنت	PV-PVSUFF_SUBJ:1S	nan	nan	F
-20140912	HAKA	arabizi	هكا	هكا	ADV	nan	nan	F
+20140912	HAKA	arabizi	هكّا	هكّا	ADV	nan	nan	F
 20140912	KERCHI	arabizi	كرشي	كرش+ي	NOUN+POSS_PRON_1S	nan	nan	F
 20140912	DEZA	arabizi	دزا	دزا	ADJ	nan	nan	F
 20140912	W	arabizi	و	و	CONJ	nan	nan	F
@@ -1236,7 +1236,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190412	ama	arabizi	اما	اما	CONJ	nan	nan	F
 20190412	7atta	arabizi	حتّى	حتّى	SUB_CONJ	nan	nan	F
 20190412	ken	arabizi	كان	كان	SUB_CONJ	nan	nan	F
-20190412	t7eb	arabizi	تحب	تحب	IV2S-IV	nan	nan	F
+20190412	t7eb	arabizi	تحبّ	تحبّ	IV2S-IV	nan	nan	F
 20190412	tafsa3	arabizi	تفصع	تفصع	IV2S-IV	nan	nan	F
 20190412	ma	arabizi	ما	ما	NEG_PART	nan	nan	F
 20190412	n5allikech	arabizi	نخلّيكش	نخلّي+ك+ش	IV1S-IV+IVSUFF_DO:2S+NEG_PART	nan	nan	F
@@ -1679,7 +1679,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190412	critères	foreign	critères	foreign	foreign	nan	nan	F
 20190412	wadh7ine	arabizi	واضحين	واضحين	ADJ-NSUFF_MASC_PL	nan	nan	F
 20190412	kifeh	arabizi	كيفاه	كيفاه	REL_PRON	nan	nan	F
-20190412	y7eb	arabizi	يحب	يحب	IV3MS-IV	nan	nan	F
+20190412	y7eb	arabizi	يحبّ	يحبّ	IV3MS-IV	nan	nan	F
 20190412	ettofla	arabizi	الطفلة	ال+طفلة	DET+NOUN-NSUFF_FEM_SG	nan	nan	F
 20190412	,	arabizi	,	,	PUNC	nan	nan	F
 20190412	il	foreign	il	foreign	foreign	nan	nan	F
@@ -2270,7 +2270,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190225	tayech	arabizi	طيّش	طيّش	IV2S-IV	nan	nan	F
 20190225	sou2el	arabizi	سؤال	سكال	NOUN	nan	nan	F
 20190225	kima	arabizi	كيما	كيما	CONJ	nan	nan	F
-20190225	haka	arabizi	هكا	هكا	ADV	nan	nan	F
+20190225	haka	arabizi	هكّا	هكّا	ADV	nan	nan	F
 20190225	direct	foreign	direct	foreign	foreign	nan	nan	F
 20190225	n9ollek	arabizi	نقول لك	نقول+ل+ك	IV1S-IV+[PREP+PRON_2S]IVSUFF_IO:2S	nan	nan	F
 20190225	mouch	arabizi	موش	موش	NEG_PART	nan	nan	F
@@ -2601,7 +2601,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190225	w	arabizi	و	و	CONJ	nan	nan	F
 20190225	chey5in	arabizi	شايخين	شايخين	ADJ-NSUFF_MASC_PL	nan	nan	F
 20190225	bih	arabizi	به	ب+ه	PREP+PRON_3MS	nan	nan	F
-20190225	heka	arabizi	هكا	هكا	ADV	nan	nan	F
+20190225	heka	arabizi	هكّا	هكّا	ADV	nan	nan	F
 20190225	3lech	arabizi	علاش	علاش	NOUN	nan	nan	F
 20190225	ydallelouh	arabizi	يدلّلوه	يدلّلوا+ه	IV3MP-IV-IVSUFF_SUBJ:P+IVSUFF_DO:3MS	nan	nan	F
 20190225	w	arabizi	و	و	CONJ	nan	nan	F
@@ -2655,7 +2655,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190225	exemple	foreign	exemple	foreign	foreign	nan	nan	F
 20190225	t9ollek	arabizi	تقول لك	تقول+ل+ك	IV3FS-IV+[PREP+PRON_2S]IVSUFF_IO:2S	nan	nan	F
 20190225	esghir	arabizi	الصغير	ال+صغير	DET+ADJ	nan	nan	F
-20190225	heka	arabizi	هكا	هكا	ADV	nan	nan	F
+20190225	heka	arabizi	هكّا	هكّا	ADV	nan	nan	F
 20190225	manchoufouch	arabizi	ما نشوفهش	ما+نشوف+ه+ش	NEG_PART+IV1S-IV+IVSUFF_DO:3MS+NEG_PART	nan	nan	F
 20190225	barcha	arabizi	برشا	برشا	ADV	nan	nan	F
 20190225	(	arabizi	)	(	PUNC	nan	nan	F
@@ -3119,7 +3119,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20120725	ka3bett	arabizi	كعبات	كعبات	NOUN-NSUFF_FEM_PL	nan	nan	nan
 20120725	décote	foreign	décote	foreign	foreign	nan	nan	nan
 20120725	gadd	arabizi	قد	قد	ADV	nan	nan	nan
-20120725	haka	arabizi	هكا	هكا	ADV	nan	nan	nan
+20120725	haka	arabizi	هكّا	هكّا	ADV	nan	nan	nan
 20120725	w	arabizi	و	و	CONJ	nan	nan	nan
 20120725	3efcha	arabizi	عفشة	عفشة	ADJ-NSUFF_FEM_SG	nan	nan	nan
 20120725	en	foreign	en	foreign	foreign	nan	nan	nan
@@ -3265,7 +3265,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20120725	mann	arabizi	مان	مان	NOUN	nan	nan	nan
 20120725	w	arabizi	و	و	CONJ	nan	nan	nan
 20120725	9oul	arabizi	قل	قل	CV2S-CV	nan	nan	nan
-20120725	haka	arabizi	هكا	هكا	ADV	nan	nan	nan
+20120725	haka	arabizi	هكّا	هكّا	ADV	nan	nan	nan
 20120725	3aaad	arabizi	عاد	عاد	INTERJ	nan	nan	nan
 20120725	mte3	arabizi	متاع	متاع	PREP	nan	nan	nan
 20120725	ken	arabizi	كان	كان	SUB_CONJ	nan	nan	nan
@@ -3588,7 +3588,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190611	7ata	arabizi	حتّى	حتّى	ADV	nan	nan	F
 20190611	7al	arabizi	حل	حل	NOUN	nan	nan	F
 20190611	ken	arabizi	كان	كان	RESTRIC_PART	nan	nan	F
-20190611	haka	arabizi	هكا	هكا	ADJ	nan	nan	F
+20190611	haka	arabizi	هكّا	هكّا	ADJ	nan	nan	F
 20190611	we7ed	arabizi	واحد	واحد	PRON_INDEF	nan	nan	F
 20190611	ya3ml	arabizi	يعمل	يعمل	IV3MS-IV	nan	nan	F
 20190611	eli	arabizi	اللي	اللي	REL_PRON	nan	nan	F
@@ -3907,11 +3907,11 @@ data	arabish	code	words	token	pos	city	age	gender
 20190106	w	arabizi	و	و	CONJ	nan	nan	F
 20190106	ma	arabizi	ما	ما	NEG_PART	nan	nan	F
 20190106	n5amamch	arabizi	نخمّمش	نخمّم+ش	IV1S-IV+NEG_PART	nan	nan	F
-20190106	haka	arabizi	هكا	هكا	ADV	nan	nan	F
+20190106	haka	arabizi	هكّا	هكّا	ADV	nan	nan	F
 20190106	5ater	arabizi	خاطر	خاطر	SUB_CONJ	nan	nan	F
 20190106	wa9t	arabizi	وقت	وقت	NOUN	nan	nan	F
 20190106	elli	arabizi	اللي	اللي	REL_PRON	nan	nan	F
-20190106	y7eb	arabizi	يحب	يحب	IV3MS-IV	nan	nan	F
+20190106	y7eb	arabizi	يحبّ	يحبّ	IV3MS-IV	nan	nan	F
 20190106	Rabbi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	nan	nan	F
 20190106	yji	arabizi	يجي	يجي	IV3MS-IV	nan	nan	F
 20190106	inchallah	arabizi	ان شاء الله	ان شاء الله	INTERJ	nan	nan	F
@@ -3932,7 +3932,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190106	les	foreign	les	foreign	foreign	nan	nan	F
 20190106	mauvaises	foreign	mauvaises	foreign	foreign	nan	nan	F
 20190106	ondes	foreign	ondes	foreign	foreign	nan	nan	F
-20190106	haka	arabizi	هكا	هكا	ADV	nan	nan	F
+20190106	haka	arabizi	هكّا	هكّا	ADV	nan	nan	F
 20190106	..	arabizi	..	..	PUNC	nan	nan	F
 
 20190106	W	arabizi	و	و	CONJ	nan	nan	F
@@ -3966,7 +3966,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20190106	m3arssin	arabizi	معرسّين	معرسّين	ADJ-NSUFF_MASC_PL	nan	nan	F
 20190106	w	arabizi	و	و	CONJ	nan	nan	F
 20190106	ma3maltech	arabizi	ما عملتش	ما+عملت+ش	NEG_PART+PV-PVSUFF_SUBJ:1S+NEG_PART	nan	nan	F
-20190106	haka	arabizi	هكا	هكا	ADV	nan	nan	F
+20190106	haka	arabizi	هكّا	هكّا	ADV	nan	nan	F
 20190106	!	arabizi	!	!	PUNC	nan	nan	F
 
 20190106	Soit	foreign	Soit	foreign	foreign	nan	nan	F
@@ -4363,7 +4363,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20051114	femma	arabizi	فمّة	فمّة	PSEUDO_VERB	Mahdia	nan	nan
 20051114	choya	arabizi	شويا	شوية	ADV	Mahdia	nan	nan
 20051114	nes	arabizi	ناس	ناس	NOUN	Mahdia	nan	nan
-20051114	t7eb	arabizi	تحب	تحب	IV3FS-IV	Mahdia	nan	nan
+20051114	t7eb	arabizi	تحبّ	تحبّ	IV3FS-IV	Mahdia	nan	nan
 20051114	3al	arabizi	عال	ع+ال	PREP+DET	Mahdia	nan	nan
 20051114	vis	foreign	vis	foreign	foreign	Mahdia	nan	nan
 20051114	......	arabizi	......	......	PUNC	Mahdia	nan	nan
@@ -4395,7 +4395,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20051114	barcha	arabizi	برشا	برشا	ADV	Mahdia	nan	nan
 20051114	:	arabizi	:	:	PUNC	Mahdia	nan	nan
 20051114	elmahdwi	arabizi	المهدوي	ال+مهدوي	DET+NOUN	Mahdia	nan	nan
-20051114	j7eb	arabizi	يحب	يحب	IV3MS-IV	Mahdia	nan	nan
+20051114	j7eb	arabizi	يحبّ	يحبّ	IV3MS-IV	Mahdia	nan	nan
 20051114	famille	foreign	famille	foreign	foreign	Mahdia	nan	nan
 20051114	et	foreign	et	foreign	foreign	Mahdia	nan	nan
 20051114	tous	foreign	tous	foreign	foreign	Mahdia	nan	nan
@@ -7229,7 +7229,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20060426	3lina	arabizi	علينا	على+نا	PREP+PRON_1P	Mahdia	25-35	nan
 20060426	barcha	arabizi	برشا	برشا	ADV	Mahdia	25-35	nan
 20060426	felli	arabizi	فاللي	في+اللي	PREP+REL_PRON	Mahdia	25-35	nan
-20060426	t7eb	arabizi	تحب	تحب	IV2S-IV	Mahdia	25-35	nan
+20060426	t7eb	arabizi	تحبّ	تحبّ	IV2S-IV	Mahdia	25-35	nan
 20060426	inti	arabizi	انتي	انتي	PRON_2S	Mahdia	25-35	nan
 20060426	ma3ada	arabizi	ماعدا	ماعدا	PREP	Mahdia	25-35	nan
 20060426	ettourisme	arabizi	التوريسم	ال+توريسم	DET+NOUN	Mahdia	25-35	nan
@@ -7397,7 +7397,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20060426	no93odbehet	arabizi	نقعد باهت	نقعد+باهت	IV1S-IV+ADJ	Mahdia	35-50	nan
 20060426	fi	arabizi	في	في	PREP	Mahdia	35-50	nan
 20060426	jma3a	arabizi	جماعة	جماعة	NOUN-NSUFF_FEM_SG	Mahdia	35-50	nan
-20060426	t7eb	arabizi	تحب	تحب	IV2S-IV	Mahdia	35-50	nan
+20060426	t7eb	arabizi	تحبّ	تحبّ	IV2S-IV	Mahdia	35-50	nan
 20060426	l	foreign	l	foreign	foreign	Mahdia	35-50	nan
 20060426	'	foreign	'	foreign	foreign	Mahdia	35-50	nan
 20060426	etoile	foreign	etoile	foreign	foreign	Mahdia	35-50	nan
@@ -7737,7 +7737,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20070427	yo7fathou	arabizi	يحفظ	يحفظ	IV3MS-IV	Tunis, France	25-35	nan
 20070427	walè	arabizi	ولا	و+لا	CONJ+NEG_PART	Tunis, France	25-35	nan
 20070427	you9assou	arabizi	يقاس	يقاس	IV3MS-IV	Tunis, France	25-35	nan
-20070427	3alayhi	arabizi	عليه	علي+ه	PREP+PRON_3MS	Tunis, France	25-35	nan
+20070427	3alayhi	arabizi	عليه	على+ه	PREP+PRON_3MS	Tunis, France	25-35	nan
 
 20070427	w	arabizi	و	و	CONJ	Tunis, France	25-35	nan
 20070427	ma	arabizi	ما	ما	NEG_PART	Tunis, France	25-35	nan
@@ -8121,7 +8121,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20070427	mte3	arabizi	متاع	متاع	PREP	Toulouse	35-50	nan
 20070427	el5enzir	arabizi	الخنزير	ال+خنزير	DET+NOUN	Toulouse	35-50	nan
 20070427	elli	arabizi	اللي	اللي	REL_PRON	Toulouse	35-50	nan
-20070427	y7eb	arabizi	يحب	يحب	IV3MS-IV	Toulouse	35-50	nan
+20070427	y7eb	arabizi	يحبّ	يحبّ	IV3MS-IV	Toulouse	35-50	nan
 20070427	ybeddel	arabizi	يبدّل	يبدّل	IV3MS-IV	Toulouse	35-50	nan
 20070427	essmou	arabizi	اسمه	اسم	NOUN	Toulouse	35-50	nan
 
@@ -8360,7 +8360,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20061102	.	arabizi	.	.	PUNC	Italie	35-50	nan
 
 20061102	Amma	arabizi	امّا	امّا	CONJ	Italie	35-50	nan
-20061102	m5abbi1385	binous	m5abbi1385	foreign	foreign	Italie	35-50	nan
+20061102	m5abbi1385	arabizi	m5abbi1385	foreign	foreign	Italie	35-50	nan
 20061102	w	arabizi	و	و	CONJ	Italie	35-50	nan
 20061102	nizou	arabizi	نيزو	نيزو	NOUN_PROP	Italie	35-50	nan
 20061102	fin'hom	arabizi	فينهم	في+نهم	PREP+PRON_3P	Italie	35-50	nan
@@ -8557,7 +8557,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20061105	4h	foreign	4h	foreign	foreign	loc1	35-50	nan
 20061105	du	foreign	du	foreign	foreign	loc1	35-50	nan
 20061105	mat	foreign	mat	foreign	foreign	loc1	35-50	nan
-20061105	t7eb	arabizi	تحب	تحب	IV2S-IV	loc1	35-50	nan
+20061105	t7eb	arabizi	تحبّ	تحبّ	IV2S-IV	loc1	35-50	nan
 20061105	tkoun	arabizi	تكون	تكون	IV2S-IV	loc1	35-50	nan
 20061105	rasek	arabizi	راسك	راس+ك	NOUN+POSS_PRON_2S	loc1	35-50	nan
 20061105	ras	arabizi	راس	راس	NOUN	loc1	35-50	nan
@@ -8711,7 +8711,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180801	ta3ref	arabizi	تعرف	تعرف	IV2S-IV	nan	nan	nan
 20180801	7aja	arabizi	حاجة	حاجة	NOUN-NSUFF_FEM_SG	nan	nan	nan
 20180801	matob5élch	arabizi	ما تبخلش	ما+تبخل+ش	NEG_PART+IV2S-IV+NEG_PART	nan	nan	nan
-20180801	3liya	arabizi	علييا	علي+يا	PREP+PRON_1S	nan	nan	nan
+20180801	3liya	arabizi	علييا	على+يا	PREP+PRON_1S	nan	nan	nan
 20180801	rani	arabizi	راني	را+ني	FOCUS_PART+PRON_1S	nan	nan	nan
 20180801	5ayfa	arabizi	خايفة	خايفة	ADJ-NSUFF_FEM_SG	nan	nan	nan
 20180801	barcha	arabizi	برشا	برشا	ADV	nan	nan	nan
@@ -9011,7 +9011,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20180801	ta3ref	arabizi	تعرف	تعرف	IV2S-IV	nan	nan	nan
 20180801	7aja	arabizi	حاجة	حاجة	NOUN-NSUFF_FEM_SG	nan	nan	nan
 20180801	matob5élch	arabizi	ما تبخلش	ما+تبخل+ش	NEG_PART+IV2S-IV+NEG_PART	nan	nan	nan
-20180801	3liya	arabizi	علييا	علي+يا	PREP+PRON_1S	nan	nan	nan
+20180801	3liya	arabizi	علييا	على+يا	PREP+PRON_1S	nan	nan	nan
 20180801	rani	arabizi	راني	را+ني	FOCUS_PART+PRON_1S	nan	nan	nan
 20180801	5ayfa	arabizi	خايفة	خايفة	ADJ-NSUFF_FEM_SG	nan	nan	nan
 20180801	barcha	arabizi	برشا	برشا	ADV	nan	nan	nan
@@ -9704,7 +9704,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20091119	viens	foreign	viens	foreign	foreign	nan	nan	nan
 
 20181130	tetmenyek	arabizi	تتمنيك	تتمنيك	IV2S-IV	nan	nan	nan
-20181130	3liya	arabizi	علييا	علي+يا	PREP+PRON_1S	nan	nan	nan
+20181130	3liya	arabizi	علييا	على+يا	PREP+PRON_1S	nan	nan	nan
 20181130	?	arabizi	؟	؟	PUNC	nan	nan	nan
 20181130	=	arabizi	=	=	SYM	nan	nan	nan
 20181130	tu	foreign	tu	foreign	foreign	nan	nan	nan
@@ -9921,7 +9921,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20080721	fi	arabizi	في	في	PREP	nan	nan	nan
 20080721	darkom	arabizi	داركم	دار+كم	NOUN+POSS_PRON_2P	nan	nan	nan
 20080721	w	arabizi	و	و	CONJ	nan	nan	nan
-20080721	jaw	arabizi	جو	جو	NOUN	nan	nan	nan
+20080721	jaw	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20080721	lel7ouma	arabizi	للحومة	ل+ال+حومة	PREP+DET+NOUN-NSUFF_FEM_SG	nan	nan	nan
 
 20080721	aya	arabizi	ايّ	ايّ	INTERJ	nan	nan	nan
@@ -10264,7 +10264,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20170818	hal	arabizi	هال	ها+ال	DEM_PRON+DET	nan	nan	nan
 20170818	layamet	arabizi	الايامات	ال+ايامات	DET+NOUN-NSUFF_FEM_PL	nan	nan	nan
 20170818	twa7acht	arabizi	توحّشت	توحّشت	PV-PVSUFF_SUBJ:1S	nan	nan	nan
-20170818	jaw	arabizi	جو	جو	NOUN	nan	nan	nan
+20170818	jaw	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20170818	les	foreign	les	foreign	foreign	nan	nan	nan
 20170818	forums	foreign	forums	foreign	foreign	nan	nan	nan
 20170818	wel	arabizi	وال	و+ال	CONJ+DET	nan	nan	nan
@@ -10335,7 +10335,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20171017	shay	arabizi	شي	شي	PRON_INDEF	nan	nan	nan
 20171017	n7ib	arabizi	نحب	نحب	IV1S-IV	nan	nan	nan
 20171017	n3ml	arabizi	نعمل	نعمل	IV1S-IV	nan	nan	nan
-20171017	jaw	arabizi	جو	جو	NOUN	nan	nan	nan
+20171017	jaw	arabizi	جوّ	جوّ	NOUN	nan	nan	nan
 20171017	kifkom	arabizi	كيفكم	كيف+كم	CONJ+PRON_2P	nan	nan	nan
 20171017	7ta	arabizi	حتّى	حتّى	ADV	nan	nan	nan
 20171017	eni	arabizi	انا	انا	PRON_1S	nan	nan	nan
@@ -11169,7 +11169,7 @@ data	arabish	code	words	token	pos	city	age	gender
 202002270	chay	arabizi	شي	شي	ADV	nan	nan	F
 202002270	voila	foreign	voila	foreign	foreign	nan	nan	F
 
-202002270	nchallah	arabizi	ان شاء الله	ان-#-شاء-#-الله	INTERJ	nan	nan	F
+202002270	nchallah	arabizi	ان شاء الله	ان شاء الله	INTERJ	nan	nan	F
 202002270	rabi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	nan	nan	F
 202002270	yosterna	arabizi	يسترنا	يستر+نا	IV3MS-IV+IVSUFF_DO:1P	nan	nan	F
 202002270	el	arabizi	ال	ال	DET	nan	nan	F
@@ -11223,7 +11223,7 @@ data	arabish	code	words	token	pos	city	age	gender
 202002270	w	arabizi	و	و	CONJ	nan	nan	F
 202002270	sattar	arabizi	ستّار	ستّار	NOUN	nan	nan	F
 202002270	allah	arabizi	الله	الله	NOUN_PROP	nan	nan	F
-202002270	nchallah	arabizi	ان شاء الله	ان-#-شاء-#-الله	INTERJ	nan	nan	F
+202002270	nchallah	arabizi	ان شاء الله	ان شاء الله	INTERJ	nan	nan	F
 202002270	rabi	arabizi	ربّي	ربّ+ي	NOUN+POSS_PRON_1S	nan	nan	F
 202002270	ya7mina	arabizi	يحمينا	يحمي+نا	IV3MS-IV+IVSUFF_DO:1P	nan	nan	F
 202002270	w	arabizi	و	و	CONJ	nan	nan	F
@@ -11307,7 +11307,7 @@ data	arabish	code	words	token	pos	city	age	gender
 202002270	w	arabizi	و	و	CONJ	nan	nan	F
 202002270	hajet	arabizi	حاجات	حاجات	NOUN-NSUFF_FEM_PL	nan	nan	F
 202002270	kima	arabizi	كيما	كيما	CONJ	nan	nan	F
-202002270	haka	arabizi	هكا	هكا	ADV	nan	nan	F
+202002270	haka	arabizi	هكّا	هكّا	ADV	nan	nan	F
 202002270	bech	arabizi	باش	باش	FUT_PART	nan	nan	F
 202002270	lakadar	arabizi	لا قدّر	لا+قدّر	NEG_PART+IV3MS-IV	nan	nan	F
 202002270	allah	arabizi	الله	الله	NOUN_PROP	nan	nan	F
@@ -12082,7 +12082,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20200228	mais	foreign	mais	foreign	foreign	nan	nan	F
 20200228	peut	foreign	peut	foreign	foreign	nan	nan	F
 20200228	importe	foreign	importe	foreign	foreign	nan	nan	F
-20200228	nchallah	arabizi	ان شاء الله	ان-#-شاء-#-الله	INTERJ	nan	nan	F
+20200228	nchallah	arabizi	ان شاء الله	ان شاء الله	INTERJ	nan	nan	F
 20200228	yetla3	arabizi	يطلع	يطلع	IV3MS-IV	nan	nan	F
 20200228	négatif	foreign	négatif	foreign	foreign	nan	nan	F
 20200228	w	arabizi	و	و	CONJ	nan	nan	F
@@ -12177,7 +12177,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20200228	:	arabizi	:	:	PUNC	nan	nan	F
 20200228	m5abbi1405	foreign	m5abbi1405	foreign	foreign	nan	nan	F
 
-20200228	inchalla	arabizi	ان شاء الله	ان-#-شاء-#-الله	INTERJ	nan	nan	F
+20200228	inchalla	arabizi	ان شاء الله	ان شاء الله	INTERJ	nan	nan	F
 20200228	ma	arabizi	ما	ما	NEG_PART	nan	nan	F
 20200228	youssel	arabizi	يوصل	يوصل	IV3MS-IV	nan	nan	F
 20200228	el	arabizi	ل	ل	PREP	nan	nan	F
@@ -12202,7 +12202,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20200228	lesbitar	arabizi	لسبيطار	ل+سبيطار	PREP+NOUN	nan	nan	F
 20200228	farhat	arabizi	فرحات	فرحات	NOUN_PROP	nan	nan	F
 20200228	hached	arabizi	حشاد	حشاد	NOUN_PROP	nan	nan	F
-20200228	nchallah	arabizi	ان شاء الله	ان-#-شاء-#-الله	INTERJ	nan	nan	F
+20200228	nchallah	arabizi	ان شاء الله	ان شاء الله	INTERJ	nan	nan	F
 20200228	yatla3	arabizi	يطلع	يطلع	IV3MS-IV	nan	nan	F
 20200228	négatif	foreign	négatif	foreign	foreign	nan	nan	F
 20200228	wa	arabizi	و	و	CONJ	nan	nan	F
@@ -12467,7 +12467,7 @@ data	arabish	code	words	token	pos	city	age	gender
 20200303	el	arabizi	ال	ال	DET	nan	nan	F
 20200303	gel	foreign	gel	foreign	foreign	nan	nan	F
 20200303	maktoub	arabizi	مكتوب	مكتوب	ADJ	nan	nan	F
-20200303	alih	arabizi	عليه	علي+ه	PREP+PRON_3MS	nan	nan	F
+20200303	alih	arabizi	عليه	على+ه	PREP+PRON_3MS	nan	nan	F
 20200303	il	foreign	il	foreign	foreign	nan	nan	F
 20200303	tue	foreign	tue	foreign	foreign	nan	nan	F
 20200303	99%	arabizi	99%	99%	NOUN_NUM+SYM	nan	nan	F
