@@ -4,7 +4,7 @@ This repository describes and contains the corpus mentioned in the following pap
 
 * [Gugliotta, E. & Dinarelli, M. (2020, May). TArC: Incrementally and Semi-Automatically Collecting a Tunisian Arabish Corpus. In Proceedings of The 12th LREC (pp. 6279-6286).](https://www.aclweb.org/anthology/2020.lrec-1.770/)
 * [Gugliotta, E., & Dinarelli, M. (2020, June). TArC. Un corpus d'arabish tunisien. In Actes: JEP-TALN (RÉCITAL).Vol 2: (pp. 232-240). ATALA.](https://hal.archives-ouvertes.fr/hal-02784772/)
-* [Gugliotta, E. et al., (2020). Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation.](https://arxiv.org/abs/2011.05152)
+* [Gugliotta, E. et al., (2020). Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation.](https://www.aclweb.org/anthology/2020.wanlp-1.16/)
 
 The TArC has been designed as a flexible and multi-purpose open corpus in order to be a useful support for different types of analyses: computational and linguistics, as well as for NLP tools training. 
 
@@ -112,7 +112,7 @@ Any user personal information has been anonymized by covering it with the token:
 
 The Tunisian word 'm5abbi' means 'covered', correspond to the *CODAfied* token 'مخبّي' and the PoS-tag: 'NOUN_PROP'.  
 
-If you want to use this data with the [Multi-Task Sequence Prediction System](https://www.aclweb.org/anthology/2020.wanlp-1.16/), you should remove the header and extract the columns that you need, depending on process that you want to perform. 
+If you want to use this data with the [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system), you should remove the header and extract the columns that you need, depending on process that you want to perform. 
 
 <br />
 
