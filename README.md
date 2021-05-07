@@ -112,7 +112,7 @@ Any user personal information has been anonymized by covering it with the token:
 
 The Tunisian word 'm5abbi' means 'covered', correspond to the *CODAfied* token 'مخبّي' and the PoS-tag: 'NOUN_PROP'.  
 
-If you want to use this data with the [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system), you should remove the header and extract the columns that you need, depending on process that you want to perform. 
+If you want to use this data with the [Multi-Task Sequence Prediction System](https://www.aclweb.org/anthology/2020.wanlp-1.16/), you should remove the header and extract the columns that you need, depending on process that you want to perform. 
 
 <br />
 
