@@ -26,7 +26,7 @@ In a nutshell, the data gathered in TArC represent **Tunisian Arabish writing an
 
 TArC texts have been  extracted from social media for an amount of 43 313 tokens. Each text has been extracted together with the user's **metadata** when publicly shared. 
 The metadata consists in: 
-* **The municipality of provenance**
+* **The governorate of provenance**
 * **Age range**: [-25],[25-35],[35-50],[50+]
 * **Gender**: M/F 
 
