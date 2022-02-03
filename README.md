@@ -6,7 +6,7 @@ This repository describes and contains the corpus mentioned in the following pap
 * [Gugliotta, E., & Dinarelli, M. (2020, June). TArC. Un corpus d'arabish tunisien. In Actes: JEP-TALN (RÉCITAL).Vol 2: (pp. 232-240). ATALA.](https://hal.archives-ouvertes.fr/hal-02784772/)
 * [Gugliotta, E. et al., (2020). Multi-Task Sequence Prediction For Tunisian Arabizi Multi-Level Annotation.](https://www.aclweb.org/anthology/2020.wanlp-1.16/)
 
-The TArC has been designed as a flexible and multi-purpose open corpus in order to be a useful support for different types of analyses: computational and linguistics, as well as for NLP tools training. 
+TArC has been designed as a flexible and multi-purpose open corpus in order to be a useful support for different types of analyses: computational and linguistics, as well as for NLP tools training. 
 
 Arabish, also known as *Arabizi*, is a spontaneous encoding of Arabic dialects in Latin characters and *arithmographs* (numbers used as letters). This **code-system** was developed by Arabic-speaking users of social media in order to facilitate the writing in the Computer Mediated Communication (CMC) and text messaging informal frameworks [[2]](#2).
 
@@ -22,7 +22,7 @@ Arabish, also known as *Arabizi*, is a spontaneous encoding of Arabic dialects i
 
 ### *Overview of TArC*
 
-In a nutshell, the data gathered in the TArC represent **Tunisian Arabish writing and its evolution over the last ten years**.   
+In a nutshell, the data gathered in TArC represent **Tunisian Arabish writing and its evolution over the last ten years**.   
 
 TArC texts have been  extracted from social media for an amount of 43 313 tokens. Each text has been extracted together with the user's **metadata** when publicly shared. 
 The metadata consists in: 
@@ -41,12 +41,12 @@ TArC numbers:
 
 |               |**SENTENCES**|         |**WORDS**|         |
 |:--------------|:-----------:|:-------:|:-------:|:-------:|
-|**TOTAL**      |   4790      |         |  43 313 |         |
+|**TOTAL**      |   4,797     |         |  43,327 |         |
 |               |             |*arabizi*|*foreign*|*emotag* |
-|Forum (11 909) | 756         |6022     |5874     |13       |
-|Social (16 055)| 3154        |11833    |3624     |598      |
-|Blog (6 669)   | 366         |5988     |674      |7        |
-|Rap (8 680)    | 514         |7734     |944      |2        |
+|Forum (11,909) | 755         |6,024    |5,873    |12       |
+|Social (16,056)| 3,162       |11,835   |3,623    |598      |
+|Blog (6,671)   | 366         |5,970    |694      |7        |
+|Rap (8,691)    | 514         |7,681    |1,009    |1        |
 
 <br />
 
@@ -89,8 +89,8 @@ It is possible to download TArC text files organized by genres:
 
 * Forum texts: *forum.tab*
 * Social Network texts: *social.tab*
-* Blog texts: *blog.tab* (forthcoming)
-* Rap lyrics texts: *rap.tab* (forthcoming)
+* Blog texts: *blog.tab* 
+* Rap lyrics texts: *rap.tab* 
 
 
 In each file, the sentences are delimited by a blank line and each file contains the header such as: 
@@ -102,9 +102,9 @@ In each file, the sentences are delimited by a blank line and each file contains
 \
 The publication date information follow the structure: yyyymmdd. 
 
-Not all sentences are provided with all the metadata information (city/age/gender). You can find '/' in place of the metadata, it means that the users didn't published this information. In some other cases you can find the string 'nan' in place of the metadata, it means that the information has not yet been registered in the corpus file and that a new updated file will be uploaded soon. 
+Not all sentences are provided with all the metadata information (city/age/gender). You can find '/' in place of the metadata, it means that the users didn't published this information. 
 
-The municipality names are encoded following the French orhographical conventions. In some occasion, it is possible to find a general location such as 'Nord', which stands for 'north'. 
+The governorate names are encoded following the French orhographical conventions. 
 
 Any user personal information has been anonymized by covering it with the token: 
 
@@ -113,6 +113,8 @@ Any user personal information has been anonymized by covering it with the token:
 The Tunisian word 'm5abbi' means 'covered', correspond to the *CODAfied* token 'مخبّي' and the PoS-tag: 'NOUN_PROP'.  
 
 If you want to use this data with the [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system), you should remove the header and extract the columns that you need, depending on process that you want to perform. 
+
+The lemmatization layer is coming, as is a distribution of the data in Excel format.
 
 <br />
 
