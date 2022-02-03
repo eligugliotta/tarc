@@ -96,15 +96,16 @@ It is possible to download TArC text files organized by genres:
 In each file, the sentences are delimited by a blank line and each file contains the header such as: 
 
 
-|data|arabish|class|coda|token|pos|city|age|
+|data|arabish|class|coda|token|pos|governorate|age|
 |:--:|:-----:|:--:|:---:|:---:|:-:|:--:|:-:|
 
 \
 The publication date information follow the structure: yyyymmdd. 
 
-Not all sentences are provided with all the metadata information (city/age/gender). You can find '/' in place of the metadata, it means that the users didn't published this information. 
+Not all sentences are provided with all the metadata information (governorate/age/gender). You can find '/' in place of the metadata, it means that the users didn't published this information. 
 
-The governorate names are encoded following the French orhographical conventions. 
+The governorate names are encoded following the French orhographical conventions and are: 
+*Ariana, Béja, Sousse, Bizerte, Gabès, Nabeul, Jendouba, Kairouan, Zaghouan, Kebili, El Kef, Mahdia, Manouba, Medenine, Monastir, Gafsa, Sfax, Sidi Bouzid, Siliana, Ben Arous, Tataouine, Tozeur, Tunis, Kasserine*. 
 
 Any user personal information has been anonymized by covering it with the token: 
 
