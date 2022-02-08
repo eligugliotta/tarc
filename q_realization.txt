@@ -1,0 +1,1280 @@
+The following are the words containing [q] realization (Tunis excluded):
+
+<idx: 1> <word: bou9alb> <gov: Bizerte> <age: 25-35> <gender:M>
+
+<idx: 2> <word: t9oul> <gov: Bizerte> <age: 25-35> <gender:M>
+
+<idx: 3> <word: 9al> <gov: Bizerte> <age: 25-35> <gender:M>
+
+<idx: 4> <word: 9olna> <gov: Bizerte> <age: 25-35> <gender:M>
+
+<idx: 5> <word: 9bel> <gov: Bizerte> <age: 35-50> <gender:M>
+
+<idx: 6> <word: 9rib> <gov: Bizerte> <age: 35-50> <gender:M>
+
+<idx: 7> <word: y9adder> <gov: Bizerte> <age: 35-50> <gender:M>
+
+<idx: 8> <word: we9ef> <gov: Bizerte> <age: 25-35> <gender:M>
+
+<idx: 9> <word: n9oulou> <gov: Bizerte> <age: 25-35> <gender:M>
+
+<idx: 17> <word: mal9ouch> <gov: Bizerte> <age: 25-35> <gender:M>
+
+<idx: 19> <word: wa9t> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 20> <word: 9addi> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 27> <word: 9adi> <gov: /> <age: /> <gender:F>
+
+<idx: 28> <word: n9olha> <gov: /> <age: /> <gender:F>
+
+<idx: 29> <word: tra93et> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 32> <word: n9is> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 33> <word: nal9ahom> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 34> <word: 9addiii> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 370> <word: mo9liya> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 371> <word: 9erfa> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 372> <word: 9chour> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 373> <word: 9arsa> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 374> <word: t9ossha> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 375> <word: wr9iii9a> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 376> <word: w9tha> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 377> <word: t9os> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 378> <word: t9os> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 379> <word: 9ad> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 380> <word: ma9roud> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 381> <word: 9al9al> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 382> <word: w9erfa> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 383> <word: w9chour> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 384> <word: 9alyen> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 385> <word: a9lih> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 386> <word: Il9alyen> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 387> <word: wa9tha> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 388> <word: d9i9a> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 389> <word: yet9lei> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 390> <word: elfou9> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 391> <word: w9tha> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 392> <word: b9a3> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 393> <word: elwar9a> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 394> <word: 9alibhom> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 395> <word: wa9tha> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 396> <word: yesta9trou> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 397> <word: 9atratt> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 398> <word: etba9> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 399> <word: fou9> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 400> <word: wt9assamha> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 401> <word: tsa9iha> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 402> <word: fou9> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 403> <word: Ba9lewa> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 404> <word: tes9i> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 405> <word: 9bal> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 406> <word: t9asamha> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 407> <word: 9ad> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 408> <word: 9ad> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 409> <word: 9al9al> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 410> <word: fou9> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 411> <word: fou9> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 412> <word: 9al9al> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 413> <word: 9oushom> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 414> <word: fou9hom> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 415> <word: fou9> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 416> <word: btari9a> <gov: Sousse> <age: 25-35> <gender:F>
+
+<idx: 417> <word: tetarche9> <gov: Sousse> <age: 25-35> <gender:F>
+
+<idx: 418> <word: 9ares> <gov: Sousse> <age: 25-35> <gender:F>
+
+<idx: 419> <word: n9alli> <gov: Sousse> <age: 25-35> <gender:F>
+
+<idx: 420> <word: ma9sousa> <gov: Sousse> <age: 25-35> <gender:F>
+
+<idx: 421> <word: ma9sous> <gov: Sousse> <age: 25-35> <gender:F>
+
+<idx: 422> <word: ma9la> <gov: Sousse> <age: 25-35> <gender:F>
+
+<idx: 435> <word: ye9belch> <gov: /> <age: /> <gender:F>
+
+<idx: 436> <word: 9aria> <gov: /> <age: /> <gender:F>
+
+<idx: 437> <word: t9admou> <gov: /> <age: /> <gender:F>
+
+<idx: 438> <word: erta9iw> <gov: /> <age: /> <gender:F>
+
+<idx: 439> <word: 9albi> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 440> <word: da9it> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 441> <word: nel9a> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 442> <word: ta9ef> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 443> <word: t9ouulou> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 444> <word: t9adem> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 445> <word: na9sin> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 446> <word: t9oli> <gov: /> <age: /> <gender:F>
+
+<idx: 447> <word: wa9t> <gov: /> <age: /> <gender:F>
+
+<idx: 448> <word: nal9a> <gov: /> <age: /> <gender:F>
+
+<idx: 449> <word: n9abelhom> <gov: /> <age: /> <gender:F>
+
+<idx: 450> <word: n9abelha> <gov: /> <age: /> <gender:F>
+
+<idx: 451> <word: fou9> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 452> <word: ba9lawa> <gov: Medenine> <age: /> <gender:F>
+
+<idx: 471> <word: 9atar> <gov: Sfax> <age: 35-50> <gender:M>
+
+<idx: 473> <word: ar9ami> <gov: Zaghouan> <age: 50+> <gender:F>
+
+<idx: 477> <word: 9adach> <gov: /> <age: 35-50> <gender:M>
+
+<idx: 478> <word: 9adech> <gov: Béja> <age: 25-35> <gender:M>
+
+<idx: 479> <word: 9adech> <gov: /> <age: 25-35> <gender:M>
+
+<idx: 481> <word: b9adech> <gov: /> <age: /> <gender:F>
+
+<idx: 482> <word: b9adech> <gov: /> <age: /> <gender:F>
+
+<idx: 492> <word: be9i> <gov: Monastir> <age: 50+> <gender:M>
+
+<idx: 493> <word: ta9s> <gov: France> <age: -25> <gender:M>
+
+<idx: 500> <word: mestha9> <gov: France> <age: 35-50> <gender:M>
+
+<idx: 501> <word: 9rib> <gov: Medenine> <age: /> <gender:F>
+
+<idx: 504> <word: l9hawi> <gov: Monastir> <age: 25-35> <gender:M>
+
+<idx: 507> <word: ma9tch> <gov: Nabeul> <age: 25-35> <gender:F>
+
+<idx: 509> <word: te9tlouch> <gov: Algeria> <age: 25-35> <gender:M>
+
+<idx: 510> <word: m9adar> <gov: Kebili> <age: /> <gender:F>
+
+<idx: 514> <word: yeb9a> <gov: Jendouba> <age: 25-35> <gender:M>
+
+<idx: 515> <word: il9tlik> <gov: Gabès> <age: -25> <gender:M>
+
+<idx: 517> <word: ta9rib> <gov: Nabeul> <age: 25-35> <gender:M>
+
+<idx: 518> <word: l9awem> <gov: Gafsa> <age: 25-35> <gender:M>
+
+<idx: 519> <word: ta9rib> <gov: Sousse> <age: 25-35> <gender:M>
+
+<idx: 520> <word: 9adech> <gov: Sfax> <age: -25> <gender:M>
+
+<idx: 521> <word: 9adeh> <gov: Manouba> <age: -25> <gender:M>
+
+<idx: 522> <word: 9ahbaa> <gov: Sousse> <age: -25> <gender:M>
+
+<idx: 523> <word: O9a3dou> <gov: Monastir> <age: 25-35> <gender:M>
+
+<idx: 526> <word: wa9etna> <gov: /> <age: 25-35> <gender:M>
+
+<idx: 527> <word: 7a9> <gov: /> <age: 25-35> <gender:M>
+
+<idx: 528> <word: sadiqa> <gov: Kebili> <age: 50+> <gender:M>
+
+<idx: 531> <word: 9adech> <gov: Sousse> <age: 25-35> <gender:M>
+
+<idx: 532> <word: 9adeh> <gov: Kairouan> <age: 25-35> <gender:M>
+
+<idx: 533> <word: a9al> <gov: Ben_Arous> <age: -25> <gender:M>
+
+<idx: 538> <word: 9LOUB> <gov: /> <age: 25-35> <gender:M>
+
+<idx: 539> <word: A9raw> <gov: Bizerte> <age: 25-35> <gender:M>
+
+<idx: 543> <word: 9wiyya> <gov: Bizerte> <age: 25-35> <gender:M>
+
+<idx: 545> <word: 9owet> <gov: Turquie> <age: 25-35> <gender:M>
+
+<idx: 550> <word: nel9ak> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 552> <word: 9oul> <gov: Ben_Arous> <age: 25-35> <gender:M>
+
+<idx: 555> <word: qahwa> <gov: /> <age: -25> <gender:M>
+
+<idx: 556> <word: mat9ouuul> <gov: Sousse> <age: 25-35> <gender:M>
+
+<idx: 557> <word: 9adk> <gov: Sousse> <age: 25-35> <gender:M>
+
+<idx: 559> <word: l9ithesh> <gov: /> <age: -25> <gender:F>
+
+<idx: 560> <word: 9ad> <gov: Bizerte> <age: 25-35> <gender:F>
+
+<idx: 561> <word: 9ad> <gov: Bizerte> <age: 25-35> <gender:F>
+
+<idx: 563> <word: no9sed> <gov: Sousse> <age: 25-35> <gender:M>
+
+<idx: 564> <word: tfata9> <gov: Sousse> <age: -25> <gender:M>
+
+<idx: 566> <word: 9oul> <gov: Manouba> <age: -25> <gender:F>
+
+<idx: 567> <word: 9ol> <gov: Bizerte> <age: 25-35> <gender:M>
+
+<idx: 568> <word: ya9dhich> <gov: Monastir> <age: -25> <gender:M>
+
+<idx: 569> <word: 9ol> <gov: Nabeul> <age: -25> <gender:M>
+
+<idx: 570> <word: n9oulou> <gov: Zaghouan> <age: -25> <gender:F>
+
+<idx: 572> <word: 9oum> <gov: Bizerte> <age: -25> <gender:M>
+
+<idx: 573> <word: 9otli> <gov: Nabeul> <age: -25> <gender:M>
+
+<idx: 576> <word: 9ahwa> <gov: Sfax> <age: -25> <gender:M>
+
+<idx: 578> <word: dhi9> <gov: Manouba> <age: -25> <gender:M>
+
+<idx: 579> <word: Ach9lik> <gov: Sidi_Bouzid> <age: 25-35> <gender:M>
+
+<idx: 580> <word: lha9> <gov: Algeria> <age: -25> <gender:M>
+
+<idx: 582> <word: ch9wlik> <gov: Bizerte> <age: 25-35> <gender:M>
+
+<idx: 585> <word: 9ol> <gov: Medenine> <age: 25-35> <gender:M>
+
+<idx: 588> <word: 5al9> <gov: Gabès> <age: -25> <gender:M>
+
+<idx: 590> <word: l9it> <gov: Sousse> <age: -25> <gender:M>
+
+<idx: 592> <word: 9allou> <gov: Monastir> <age: 35-50> <gender:M>
+
+<idx: 593> <word: zrere9> <gov: Monastir> <age: 35-50> <gender:M>
+
+<idx: 594> <word: 9yessk> <gov: Bizerte> <age: -25> <gender:M>
+
+<idx: 599> <word: ech9al> <gov: Nabeul> <age: 35-50> <gender:M>
+
+<idx: 600> <word: baddel’esondou9> <gov: Jendouba> <age: 25-35> <gender:M>
+
+<idx: 601> <word: 9oul> <gov: Sousse> <age: -25> <gender:F>
+
+<idx: 605> <word: 9oul> <gov: Kairouan> <age: 25-35> <gender:M>
+
+<idx: 606> <word: ech9awlek> <gov: Sousse> <age: 35-50> <gender:M>
+
+<idx: 610> <word: 9olt> <gov: Sousse> <age: 25-35> <gender:M>
+
+<idx: 611> <word: 7a9> <gov: Sousse> <age: 25-35> <gender:M>
+
+<idx: 612> <word: tisthaq> <gov: Sfax> <age: 25-35> <gender:M>
+
+<idx: 615> <word: na9is> <gov: /> <age: /> <gender:F>
+
+<idx: 616> <word: O93odd> <gov: Mahdia> <age: -25> <gender:M>
+
+<idx: 617> <word: ifri9iya> <gov: Mahdia> <age: -25> <gender:M>
+
+<idx: 629> <word: na9es> <gov: Tataouine> <age: /> <gender:F>
+
+<idx: 630> <word: a9ra> <gov: Tataouine> <age: /> <gender:F>
+
+<idx: 642> <word: l9raya> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 643> <word: wta9s> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 646> <word: n9oulha> <gov: Tozeur> <age: 25-35> <gender:F>
+
+<idx: 648> <word: 9albik> <gov: Ariana> <age: /> <gender:F>
+
+<idx: 649> <word: ta9ra> <gov: Ariana> <age: /> <gender:F>
+
+<idx: 650> <word: t9oul> <gov: Ariana> <age: /> <gender:F>
+
+<idx: 656> <word: 9albik> <gov: Ariana> <age: /> <gender:F>
+
+<idx: 657> <word: ta9ra> <gov: Ariana> <age: /> <gender:F>
+
+<idx: 658> <word: t9oul> <gov: Ariana> <age: /> <gender:F>
+
+<idx: 664> <word: lfou9> <gov: Sfax> <age: 25-35> <gender:F>
+
+<idx: 666> <word: t9ilbit> <gov: /> <age: 25-35> <gender:F>
+
+<idx: 667> <word: n9oum> <gov: Kairouan> <age: 25-35> <gender:F>
+
+<idx: 668> <word: 9ayma> <gov: Kairouan> <age: 25-35> <gender:F>
+
+<idx: 669> <word: 9alidtou> <gov: Jendouba> <age: -25> <gender:F>
+
+<idx: 670> <word: 9rayathom> <gov: Jendouba> <age: -25> <gender:F>
+
+<idx: 671> <word: 9aldou> <gov: Jendouba> <age: -25> <gender:F>
+
+<idx: 673> <word: t9olou> <gov: Manouba> <age: 35-50> <gender:M>
+
+<idx: 674> <word: 9atlou> <gov: Manouba> <age: 35-50> <gender:M>
+
+<idx: 675> <word: 9adekch> <gov: France> <age: 25-35> <gender:M>
+
+<idx: 681> <word: bl9ma3> <gov: Tozeur> <age: -25> <gender:M>
+
+<idx: 682> <word: int9> <gov: Gafsa> <age: -25> <gender:M>
+
+<idx: 686> <word: 9ahba> <gov: Jendouba> <age: 25-35> <gender:M>
+
+<idx: 687> <word: litsad9h> <gov: Algeria> <age: 50+> <gender:M>
+
+<idx: 701> <word: b9addech> <gov: Ariana> <age: 35-50> <gender:M>
+
+<idx: 702> <word: b9addech> <gov: Libya> <age: /> <gender:M>
+
+<idx: 703> <word: 7a9a> <gov: Libya> <age: /> <gender:M>
+
+<idx: 708> <word: 9arar> <gov: France> <age: 25-35> <gender:M>
+
+<idx: 709> <word: 9ararat> <gov: France> <age: 25-35> <gender:M>
+
+<idx: 710> <word: 7a9> <gov: France> <age: 25-35> <gender:M>
+
+<idx: 711> <word: 7ou9ou9na> <gov: France> <age: 25-35> <gender:M>
+
+<idx: 712> <word: 7ou9ou9> <gov: France> <age: 25-35> <gender:M>
+
+<idx: 717> <word: 9ima> <gov: /> <age: /> <gender:F>
+
+<idx: 718> <word: ta9af> <gov: /> <age: /> <gender:F>
+
+<idx: 724> <word: mounefi9in> <gov: /> <age: 35-50> <gender:F>
+
+<idx: 725> <word: 9awe9> <gov: Mahdia> <age: 50+> <gender:M>
+
+<idx: 740> <word: fase9> <gov: Gabès> <age: 25-35> <gender:M>
+
+
+	***********************************************
+The following are the words containing [g] realization (Tunis excluded):
+
+<idx: 491> <word: igadre> <gov: Sousse> <age: 25-35> <gender:F>
+
+<idx: 502> <word: 7arga> <gov: El_Kef> <age: 50+> <gender:F>
+
+<idx: 505> <word: ma7gtich> <gov: Monastir> <age: 25-35> <gender:M>
+
+<idx: 508> <word: guerden> <gov: /> <age: -25> <gender:M>
+
+<idx: 534> <word: goulilhom> <gov: Gabès> <age: /> <gender:M>
+
+<idx: 535> <word: gidech> <gov: Gabès> <age: /> <gender:M>
+
+<idx: 544> <word: galbi> <gov: Algeria> <age: 25-35> <gender:M>
+
+<idx: 547> <word: goulou> <gov: Algeria> <age: 25-35> <gender:M>
+
+<idx: 551> <word: goulou> <gov: Gafsa> <age: 25-35> <gender:M>
+
+<idx: 571> <word: goul> <gov: /> <age: /> <gender:M>
+
+<idx: 587> <word: g3dlkoum> <gov: Gabès> <age: -25> <gender:M>
+
+<idx: 589> <word: gilat> <gov: Gabès> <age: -25> <gender:M>
+
+<idx: 595> <word: gad> <gov: Algeria> <age: -25> <gender:M>
+
+<idx: 597> <word: goul> <gov: Jendouba> <age: 25-35> <gender:M>
+
+<idx: 598> <word: tgedha> <gov: Béja> <age: -25> <gender:M>
+
+<idx: 683> <word: wgolik> <gov: Gafsa> <age: -25> <gender:M>
+
+<idx: 707> <word: galou> <gov: Kairouan> <age: /> <gender:M>
+
+<idx: 722> <word: bouguiba> <gov: Sfax> <age: 50+> <gender:M>
+
+<idx: 738> <word: gali> <gov: Gabès> <age: 25-35> <gender:M>
+
+<idx: 739> <word: gasket> <gov: Gabès> <age: 25-35> <gender:M>
+
+<idx: 742> <word: gali> <gov: Gabès> <age: 25-35> <gender:M>
+
+
+	***********************************************
+The following are the words containing [q] realization from Tunis:
+
+<idx: 10> <word: r9oud> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 11> <word: 9alik> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 12> <word: 3a9liya> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 13> <word: elfa9ir> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 460> <word: 9a3da> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 461> <word: 9essa> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 462> <word: 9esset> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 463> <word: w9eft> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 464> <word: w9eft> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 465> <word: 9adem> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 466> <word: l9odem> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 467> <word: 9odem> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 468> <word: y9oli> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 469> <word: wa9t> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 470> <word: tri9> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 472> <word: 9a3din> <gov: Tunis> <age: -25> <gender:F>
+
+<idx: 480> <word: 9adeh> <gov: Tunis> <age: /> <gender:F>
+
+<idx: 494> <word: wa9tech> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 495> <word: wa9tha> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 496> <word: Nitne9chou> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 497> <word: nit9ablou> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 498> <word: wa9ti> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 499> <word: i9dhaw> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 506> <word: lbe9i> <gov: Tunis> <age: 35-50> <gender:F>
+
+<idx: 511> <word: wa9te> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 512> <word: Wa9teh> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 513> <word: b9odret> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 525> <word: n9lk> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 529> <word: sou9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 530> <word: a9al> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 537> <word: 9adhifa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 548> <word: 9aloulek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 553> <word: wa9tech> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 554> <word: sada9ni> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 565> <word: t9ol> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 575> <word: n9oulou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 584> <word: L9itha> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 586> <word: Ch9aawlk> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 596> <word: 9oul> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 603> <word: 9oul> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 607> <word: Sba9tni> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 613> <word: yestha9oha> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 614> <word: t9ouhibna> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 627> <word: 9bal> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 631> <word: erra9m> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 632> <word: el9iyesi> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 633> <word: bl7a9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 641> <word: la9raya> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 645> <word: N9oulha> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 647> <word: N9oulha> <gov: Tunis> <age: 35-50> <gender:F>
+
+<idx: 654> <word: el7a9> <gov: Tunis> <age: -25> <gender:F>
+
+<idx: 655> <word: eli9a3din> <gov: Tunis> <age: -25> <gender:F>
+
+<idx: 672> <word: tha9afa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 677> <word: Ta9alid> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 679> <word: yenta9am> <gov: Tunis> <age: 35-50> <gender:F>
+
+<idx: 680> <word: 9atl> <gov: Tunis> <age: 35-50> <gender:F>
+
+<idx: 684> <word: tou9l> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 685> <word: 9asreya> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 699> <word: 9adach> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 716> <word: mal9at> <gov: Tunis> <age: /> <gender:F>
+
+<idx: 731> <word: nouchne9ou> <gov: Tunis> <age: 50+> <gender:M>
+
+<idx: 733> <word: 9alhach> <gov: Tunis> <age: 50+> <gender:M>
+
+<idx: 735> <word: 3a9ba> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 746> <word: 9rib> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 748> <word: 9bal> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 751> <word: ma9ali> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 752> <word: 9rasni> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 753> <word: 9albi> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 754> <word: ydo9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 755> <word: la3ra9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 756> <word: 9olet> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 757> <word: m9abelni> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 758> <word: 3ara9iya> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 759> <word: m9amet> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 760> <word: 9ali> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 761> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 762> <word: yet9arra3lek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 763> <word: 3ere9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 764> <word: 9ali> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 765> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 766> <word: 9ali> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 767> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 768> <word: 9orTass> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 769> <word: Fa9Ih> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 770> <word: 9oltou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 771> <word: A9wa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 772> <word: 5la9tou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 773> <word: 9al> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 774> <word: 9owa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 775> <word: m9assmin> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 776> <word: fer9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 777> <word: fer9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 778> <word: 9sourat> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 779> <word: 9assass> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 780> <word: 9atel> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 781> <word: sare9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 782> <word: na9ess> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 783> <word: et9oulou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 784> <word: 9leb> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 786> <word: 9tlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 787> <word: en9adfou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 788> <word: 9olet> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 789> <word: 9olet> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 790> <word: tal9ah> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 791> <word: 9alli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 792> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 793> <word: 9alli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 794> <word: 7a9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 795> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 796> <word: 7a9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 797> <word: 9alli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 798> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 799> <word: 9ayem> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 801> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 802> <word: 9olli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 803> <word: tari9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 804> <word: Ta9im> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 805> <word: 9amiss> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 806> <word: 9al> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 807> <word: 9oul> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 808> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 810> <word: ar9am> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 811> <word: 9iyassiya> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 812> <word: 9olli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 813> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 814> <word: 9alli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 815> <word: mettha9eff> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 816> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 817> <word: tha9affa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 818> <word: 9alli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 819> <word: 9otbi> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 820> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 821> <word: 9.00> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 822> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 823> <word: tetarcha9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 824> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 825> <word: 9anoujiya> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 826> <word: 9afefa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 827> <word: tawou9it> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 828> <word: 9al> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 829> <word: 9fa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 830> <word: d3aza9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 832> <word: ri9ek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 833> <word: 5al9ek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 834> <word: 9al> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 835> <word: 9allek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 836> <word: tafer9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 837> <word: 9wa3ed> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 838> <word: 9wa3dek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 839> <word: ta9achoff> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 840> <word: 9oddemi> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 841> <word: tha9afa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 842> <word: yal9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 843> <word: 9onbla> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 845> <word: 9all> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 846> <word: ya9in> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 847> <word: 9olli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 848> <word: ar9am> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 849> <word: 9iyassiya> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 850> <word: 9olli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 851> <word: 9ali> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 852> <word: 9awoulek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 853> <word: dimo9ratiya> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 854> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 855> <word: 7a9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 856> <word: 9alli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 857> <word: 9awoulek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 858> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 859> <word: 9ali> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 860> <word: ni9ab> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 861> <word: ni9at> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 862> <word: 9bal> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 863> <word: tasfi9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 864> <word: 9offa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 865> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 866> <word: en9ollek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 867> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 868> <word: 9offa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 869> <word: aR9AM> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 870> <word: 9IYASSIYA> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 871> <word: sa9in> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 872> <word: 9adhawou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 873> <word: 9adhyethom> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 874> <word: 9alouli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 875> <word: tal9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 876> <word: re9ed> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 877> <word: 3ami9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 878> <word: nou9ezz> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 879> <word: 9dhaya> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 880> <word: ya9dhiha> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 881> <word: 9olli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 883> <word: na9dhilou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 884> <word: 9oulelhom> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 885> <word: et9oul> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 886> <word: techra9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 887> <word: techra9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 888> <word: ne9bel> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 889> <word: 9al> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 890> <word: sadi9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 891> <word: rafi9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 892> <word: 9acher> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 893> <word: 9al> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 894> <word: 9al> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 895> <word: cha9i9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 896> <word: tab9awou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 897> <word: A9al> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 898> <word: 9otli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 899> <word: 9oltelhom> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 900> <word: 9am> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 901> <word: 9alli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 902> <word: 9awoulek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 903> <word: 9olna> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 904> <word: 79i9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 905> <word: 3ach9ou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 906> <word: 9assi> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 907> <word: say9ouk> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 908> <word: sawou9ouk> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 909> <word: 9am> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 910> <word: 9alli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 911> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 912> <word: 9olna> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 913> <word: ne9leb> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 914> <word: ne9leb> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 915> <word: AR9AM> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 916> <word: 9IYASSIYA> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 917> <word: fou9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 918> <word: 9aouli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 919> <word: 9ayed> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 920> <word: 9assouli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 921> <word: 9alouli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 922> <word: 9ali> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 923> <word: 9badha> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 924> <word: 9ali> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 925> <word: mFat9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 926> <word: MTal9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 927> <word: MTarch9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 928> <word: metrach9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 929> <word: tal9a8a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 930> <word: 9ader> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 931> <word: 9otlou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 932> <word: 9albi> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 933> <word: eb9adech> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 934> <word: 9ali> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 935> <word: en9ollek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 936> <word: intla9an> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 937> <word: saya9oum> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 939> <word: yal9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 940> <word: 9ad> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 941> <word: 9ala> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 942> <word: 9ad> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 943> <word: Rache9et> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 944> <word: 9odem> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 945> <word: 9echra> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 946> <word: Ta3che9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 947> <word: Tarchi9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 948> <word: 7a9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 949> <word: yal9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 950> <word: 9oul> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 951> <word: cha9i9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 952> <word: Sadi9a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 953> <word: 9olna> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 954> <word: 9olna> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 955> <word: 9alou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 956> <word: bi9a3> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 957> <word: Tal9ana> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 958> <word: 9al> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 959> <word: mochta9atha> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 960> <word: 3alla9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 961> <word: ma9rouna> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 962> <word: 9alou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 963> <word: Rafi9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 964> <word: 9annet> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 965> <word: 5ale9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 966> <word: 9amiss> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 967> <word: wa9t8a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 968> <word: 9iyam> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 969> <word: 9albi> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 970> <word: 9omt> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 971> <word: tri9i> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 972> <word: tri9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 974> <word: wa9t> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 975> <word: l9ina> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 976> <word: te9fenna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 977> <word: 9ayla> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 978> <word: 9esstHa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 979> <word: 93adna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 980> <word: sa9ina> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 981> <word: w9fet> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 982> <word: we9fetenna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 983> <word: mante9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 984> <word: 9alenna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 985> <word: ysou9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 986> <word: t9oul> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 987> <word: nef9dou> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 988> <word: la79i9a> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 989> <word: 9bal> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 990> <word: y9oulou> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 991> <word: te9ef> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 992> <word: 9oltelkom> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 993> <word: n9ollou> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 994> <word: l9ina> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 995> <word: ysou9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 996> <word: mal9ach> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 997> <word: 9assa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 998> <word: ta9rib> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 999> <word: we9fin> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1000> <word: 9ahwa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1001> <word: 9hawina> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1002> <word: cha9ina> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1003> <word: la79i9a> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1005> <word: 9oddem> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1006> <word: FOU9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1007> <word: 9doooom> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1008> <word: 9ahwa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1009> <word: se9ou> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1010> <word: etha9afa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1011> <word: 9raya> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1013> <word: fou9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1015> <word: 9boura> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1016> <word: y9oulou> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1017> <word: y9olna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1020> <word: fa9at> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1021> <word: 9omt> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1022> <word: 9loubHom> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1023> <word: t9ollek> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1024> <word: l9anna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1025> <word: tri9na> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1028> <word: 93ad> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1030> <word: 9bal> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1032> <word: 9olna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1033> <word: 9ad> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1034> <word: 9loubna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1036> <word: 3alla9al> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1038> <word: tri9na> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1040> <word: tfi9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1041> <word: 9ouma> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1045> <word: ysou9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1046> <word: 9alouna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1047> <word: 93adna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1048> <word: ne9ssmou> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1049> <word: wa9telli> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1050> <word: 9rib> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1051> <word: nsou9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1052> <word: tri9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1054> <word: Sfe9ess> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1055> <word: tri9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1057> <word: lata9t3inna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1058> <word: d9aye9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1059> <word: te9fenna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1060> <word: ye9ef> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1061> <word: w9ef> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1063> <word: tal9a> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1064> <word: 9ane3a> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1065> <word: 93ad> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1066> <word: we9fet> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1067> <word: wa9tHa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1070> <word: 9am9oum> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1072> <word: no93od> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1073> <word: 9oltelkom> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1074> <word: r9adna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1076> <word: essou9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1078> <word: wa9telli> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1079> <word: 9aletenna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1080> <word: yfatte9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1082> <word: sad9ouni> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1083> <word: tha9afa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1084> <word: 9albou> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1086> <word: wa9t> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1087> <word: yo9tlouni> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1088> <word: t9oulech> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1089> <word: 9am9oum> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1090> <word: 9oltelkom> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1091> <word: 3ami9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1092> <word: 9a3detna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1093> <word: 9a3din> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1094> <word: 9alounna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1095> <word: 9bal> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1096> <word: 9la9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1097> <word: 93at> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1098> <word: 3an9ou> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1099> <word: 9wiii> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1100> <word: 9oddem> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1101> <word: 9oddemek> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1102> <word: 9ach3er> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1103> <word: n9oul> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1104> <word: 9bal> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1105> <word: 9albi> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1107> <word: sa9ina> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1108> <word: w9efenna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1109> <word: mounasse9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1112> <word: tri9na> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1116> <word: feye9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1119> <word: 9.00> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1120> <word: tfatta9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1121> <word: tari9a> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1123> <word: ywa99ef> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1124> <word: y9arrebb> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1125> <word: 9attouss> <gov: Tunis> <age: 25-35> <gender:F>
+
+
+	***********************************************
+The following are the words containing [g] realization from Tunis:
+
+<idx: 14> <word: gatilhom> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 15> <word: golna> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 16> <word: fregkom> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 457> <word: Bourguiba> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 542> <word: gda> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 591> <word: galbk> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 747> <word: yguata3> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 785> <word: goyyed> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 800> <word: ghare9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 809> <word: goyedd> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 1004> <word: belgdé> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1014> <word: Ergoud> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1075> <word: galb> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 1081> <word: mdagdeg> <gov: Tunis> <age: 25-35> <gender:F>
+

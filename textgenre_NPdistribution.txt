@@ -1,0 +1,260 @@
+The following are the NPs of tipe [prep+det n] found in blogs:
+
+<idx: 32070> <NP: el#chhar> <POS: DET#NOUN>
+
+<idx: 32092> <NP: fil#dar> <POS: PREP+DET#NOUN>
+
+<idx: 32236> <NP: el#sobe7> <POS: DET#NOUN>
+
+<idx: 32413> <NP: el#cha3eb> <POS: DET#NOUN>
+
+<idx: 32425> <NP: el#din> <POS: DET#NOUN>
+
+<idx: 32442> <NP: lel#tari9> <POS: PREP+DET#NOUN>
+
+<idx: 32549> <NP: el#thnoub> <POS: DET#NOUN>
+
+<idx: 32629> <NP: el#tha9affa> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 32634> <NP: el#rjouliya> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 32721> <NP: el#tawou9it> <POS: DET#NOUN>
+
+<idx: 32731> <NP: el#le7ya> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 32749> <NP: el#thawoura> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 32782> <NP: el#rabbaniya> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 32786> <NP: el#le7ya> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 32815> <NP: el#siyessa> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 32819> <NP: el#nessha> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 32858> <NP: el#taffar> <POS: DET#NOUN>
+
+<idx: 32868> <NP: el#smaa> <POS: DET#NOUN>
+
+<idx: 32894> <NP: el#souss> <POS: DET#NOUN>
+
+<idx: 32915> <NP: lel#sole7> <POS: PREP+DET#NOUN>
+
+<idx: 32934> <NP: el#cha3eb> <POS: DET#NOUN>
+
+<idx: 32946> <NP: el#din> <POS: DET#NOUN>
+
+<idx: 32986> <NP: el#chahawatt> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 32998> <NP: el#din> <POS: DET#NOUN>
+
+<idx: 33065> <NP: el#chak> <POS: DET#NOUN>
+
+<idx: 33079> <NP: hal#jertila> <POS: DEM_PRON+DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 33091> <NP: el#ness> <POS: DET#NOUN>
+
+<idx: 33152> <NP: el#dimo9ratiya> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 33170> <NP: el#ta3bid> <POS: DET#NOUN>
+
+<idx: 33175> <NP: el#ta3birr> <POS: DET#NOUN>
+
+<idx: 33197> <NP: el#ni9ab> <POS: DET#NOUN>
+
+<idx: 33203> <NP: el#ni9at> <POS: DET#NOUN>
+
+<idx: 33213> <NP: lel#tasfi9> <POS: PREP+DET#NOUN>
+
+<idx: 33229> <NP: el#chay> <POS: DET#NOUN>
+
+<idx: 33236> <NP: bel#takbir> <POS: PREP+DET#NOUN>
+
+<idx: 33248> <NP: el#sayed> <POS: DET#NOUN>
+
+<idx: 33278> <NP: el#nour> <POS: DET#NOUN>
+
+<idx: 33286> <NP: el#le7ya> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 33294> <NP: el#sout> <POS: DET#NOUN>
+
+<idx: 33360> <NP: el#SO7Ba> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 33364> <NP: el#neya> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 33380> <NP: el#sa9in> <POS: DET#NOUN>
+
+<idx: 33385> <NP: bel#Rai> <POS: PREP+DET#NOUN>
+
+<idx: 33396> <NP: bel#nsaya7> <POS: PREP+DET#NOUN>
+
+<idx: 33449> <NP: 3al#dbabezz> <POS: PREP+DET#NOUN>
+
+<idx: 33474> <NP: el#talifoun> <POS: DET#NOUN>
+
+<idx: 33509> <NP: hal#swayet> <POS: DEM_PRON_3MS+DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 33545> <NP: el#dGhoff> <POS: DET#NOUN>
+
+<idx: 33642> <NP: el#T5ma> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 33663> <NP: el#nfass> <POS: DET#NOUN>
+
+<idx: 33670> <NP: el#sbedri> <POS: DET#NOUN>
+
+<idx: 33710> <NP: el#sadi9> <POS: DET#NOUN>
+
+<idx: 33737> <NP: el#louz> <POS: DET#NOUN>
+
+<idx: 33744> <NP: el#sayed> <POS: DET#NOUN>
+
+<idx: 33776> <NP: el#cha9i9a> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 33907> <NP: el#ri7> <POS: DET#NOUN>
+
+<idx: 33967> <NP: el#deni> <POS: DET#NOUN>
+
+<idx: 34059> <NP: el#sandi> <POS: DET#NOUN+POSS_PRON_1S>
+
+<idx: 34070> <NP: el#zine> <POS: DET#NOUN>
+
+<idx: 34141> <NP: 8al#Ta3lam> <POS: DEM_PRON+DET#NOUN>
+
+<idx: 34146> <NP: el#tounsi> <POS: DET#NOUN>
+
+<idx: 34152> <NP: el#Lazzem> <POS: DET#NOUN>
+
+<idx: 34165> <NP: al#jariya> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 34168> <NP: el#tounsi> <POS: DET#NOUN>
+
+<idx: 34175> <NP: el#Rabbi> <POS: DET#NOUN+POSS_PRON_1S>
+
+<idx: 34259> <NP: el#lista> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 34416> <NP: el#dou5a> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 34475> <NP: el#chalbi> <POS: DET#NOUN>
+
+<idx: 34490> <NP: al#talab> <POS: DET#NOUN>
+
+<idx: 34501> <NP: el#Tabouna> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 34541> <NP: el#Cha3b> <POS: DET#NOUN>
+
+<idx: 34614> <NP: al#tabi3a> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 34646> <NP: el#drabou> <POS: DET#NOUN>
+
+<idx: 34659> <NP: al#jawel> <POS: DET#NOUN>
+
+<idx: 34720> <NP: bel#chicha> <POS: PREP+DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 34728> <NP: el#louben> <POS: DET#NOUN>
+
+<idx: 34813> <NP: al#Tabi3a> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 34820> <NP: bel#Tbi3a> <POS: PREP+DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 34856> <NP: el#Tabbel> <POS: DET#NOUN>
+
+<idx: 34901> <NP: al#cha9i9a> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 34904> <NP: al#Sadi9a> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 34934> <NP: bel#tounsi> <POS: PREP+DET#NOUN>
+
+<idx: 34949> <NP: el#Tounsi> <POS: DET#NOUN>
+
+<idx: 34951> <NP: lel#Tounsi> <POS: PREP+DET#NOUN>
+
+<idx: 34964> <NP: el#tounsi> <POS: DET#NOUN>
+
+<idx: 34992> <NP: el#Talfza> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 35023> <NP: el#Rou7> <POS: DET#NOUN>
+
+<idx: 35025> <NP: el#Ryadhiya> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 35045> <NP: al#Salem> <POS: DET#NOUN>
+
+<idx: 35123> <NP: bel#dbebech> <POS: PREP+DET#NOUN>
+
+<idx: 35141> <NP: el#Tbib> <POS: DET#NOUN>
+
+<idx: 35164> <NP: el#Rafi9> <POS: DET#NOUN>
+
+<idx: 35182> <NP: el#chrabb> <POS: DET#NOUN>
+
+<idx: 35206> <NP: el#slé> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 35213> <NP: el#leil> <POS: DET#NOUN>
+
+<idx: 35221> <NP: el#donnya> <POS: DET#NOUN>
+
+<idx: 36699> <NP: fel#Loud> <POS: PREP+DET#NOUN>
+
+<idx: 37620> <NP: el#so7ba> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 37693> <NP: el#Jezira> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 37733> <NP: fel#jezira> <POS: PREP+DET#NOUN-NSUFF_FEM_PL>
+
+<idx: 38498> <NP: lel#loud> <POS: PREP+DET#NOUN>
+
+<idx: 38707> <NP: lel#charfeyya> <POS: PREP+DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 38800> <NP: fel#rmaa> <POS: PREP+DET#NOUN>
+
+<idx: 38844> <NP: l#soubya> <POS: DET#NOUN-NSUFF_FEM_SG>
+
+
+	***********************************************
+The following are the NPs of tipe [prep+det n] found in social:
+
+<idx: 13305> <NP: Bel#dhereya>  <POS: PREP+DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 13832> <NP: el#sabb>  <POS: DET#NOUN>
+
+<idx: 19011> <NP: el#dinya>  <POS: DET#NOUN>
+
+<idx: 19015> <NP: 3al#dèyir>  <POS: PREP+DET#NOUN>
+
+<idx: 19133> <NP: el#selefya>  <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 19311> <NP: el#sou7abou>  <POS: DET#NOUN+POSS_PRON_3MS>
+
+<idx: 19588> <NP: mil#t7in>  <POS: PREP+DET#NOUN>
+
+<idx: 19698> <NP: mil#jerdhan>  <POS: PREP+DET#NOUN>
+
+
+	***********************************************
+The following are the NPs of tipe [prep+det n] found in forums:
+
+<idx: 493> <NP: 3al#tawla>  <POS: PREP+DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 497> <NP: bil#nchei>  <POS: PREP+DET#NOUN>
+
+<idx: 1303> <NP: l'I#darjet>  <POS: PREP+DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 1485> <NP: fel#din>  <POS: PREP+DET#NOUN>
+
+<idx: 1518> <NP: lel#rajel>  <POS: PREP+DET#NOUN>
+
+<idx: 1526> <NP: fel#sgar>  <POS: PREP+DET#NOUN>
+
+<idx: 1557> <NP: fel#denia>  <POS: PREP+DET#NOUN>
+
+<idx: 1570> <NP: fel#denia>  <POS: PREP+DET#NOUN>
+
+<idx: 1957> <NP: el#roukba>  <POS: DET#NOUN-NSUFF_FEM_SG>
+
+<idx: 1965> <NP: fel#chté>  <POS: PREP+DET#NOUN>
+
+<idx: 1995> <NP: el#ro7i>  <POS: DET#NOUN+POSS_PRON_1S>
+
+<idx: 6542> <NP: mel#chaab>  <POS: PREP+DET#NOUN>
+
+<idx: 6987> <NP: fil#sou9>  <POS: PREP+DET#NOUN>
+

@@ -1,0 +1,626 @@
+The following are the words containing the diphtong /ay/:
+
+<idx: 16213> <word: kayes> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 16226> <word: kayes> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 18062> <word: 3aych> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 22549> <word: haya> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32165> <word: jaych> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32226> <word: chaytan> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32308> <word: bayet> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32672> <word: 3ayyett> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33255> <word: sayed> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33371> <word: neya> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33651> <word: said> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33751> <word: sayed> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34399> <word: léylet> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34876> <word: neya> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 35220> <word: leil> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 36234> <word: tayba> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37108> <word: seyssa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37248> <word: tayara> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37325> <word: hayya> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37952> <word: hayya> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 38514> <word: hayya> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 38539> <word: 3ayna> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 38753> <word: sayd> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 43051> <word: meyett> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44400> <word: 7ayawan> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44432> <word: jaych> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44881> <word: chaytan> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45131> <word: tayer> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45270> <word: chaytan> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45325> <word: hayba> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45349> <word: waye3> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 46097> <word: meyt> <gov: Tunis> <age: 25-35> <gender:M>
+
+
+	***********************************************
+The following are the words containing the diphtong /aw/:
+
+<idx: 162> <word: Thawrit> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 16140> <word: jaw> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 16444> <word: Mawjoudine> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 16935> <word: maw3ed> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 18106> <word: jaw> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 18117> <word: jaw> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 18119> <word: jaw> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 22265> <word: mawjoud> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 23907> <word: mawjoudd> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 26777> <word: Jawe> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 31288> <word: tawra> <gov: Tunis> <age: 50+> <gender:M>
+
+<idx: 31695> <word: tawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32012> <word: tawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32053> <word: tawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32108> <word: zawej> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32722> <word: mawou3ed> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32728> <word: tawou9it> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32756> <word: thawoura> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33233> <word: tawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33375> <word: mawoujouda> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33600> <word: tawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33892> <word: thawoura> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33897> <word: fawoudha> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34055> <word: tawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34307> <word: attawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34398> <word: mawouloud> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34404> <word: tawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34632> <word: tawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34661> <word: jawed> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34666> <word: jawel> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 35515> <word: mawjoud> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36120> <word: tawa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36323> <word: tawa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36341> <word: mawloud> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36823> <word: tawa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 38471> <word: tawa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 43286> <word: zaweli> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44161> <word: dawla> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44196> <word: dawla> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44580> <word: tawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44762> <word: mawlod> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45024> <word: dawla> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45049> <word: tawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45167> <word: tawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45218> <word: tawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45267> <word: dawla> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45858> <word: thawra> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 46158> <word: tawa> <gov: Tunis> <age: 25-35> <gender:M>
+
+
+	***********************************************
+The following are the words containing the monophtongization in /i:/:
+
+<idx: 14724> <word: rih> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 16333> <word: kima> <gov: Tunis> <age: -25> <gender:F>
+
+<idx: 16351> <word: 3inikom> <gov: Tunis> <age: -25> <gender:F>
+
+<idx: 16729> <word: 3idkom> <gov: Tunis> <age: 35-50> <gender:F>
+
+<idx: 16744> <word: 3idkom> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 16909> <word: kifech> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 17229> <word: zine> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 17391> <word: zine> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 17593> <word: kima> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 17780> <word: zinou> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 18318> <word: Wink> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 18537> <word: dima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 18865> <word: 5iir> <gov: Tunis> <age: /> <gender:M>
+
+<idx: 18973> <word: win> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 19201> <word: Lilét> <gov: Tunis> <age: 50+> <gender:M>
+
+<idx: 19203> <word: 3id> <gov: Tunis> <age: 50+> <gender:M>
+
+<idx: 19790> <word: 3id> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 19980> <word: khir> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 20104> <word: bkhiiir> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 20514> <word: khir> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 20945> <word: khiiiir> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 21143> <word: 5ir> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 21588> <word: 3idek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 21979> <word: 5ir> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 22098> <word: winou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 22551> <word: 5iiir> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 22565> <word: winou> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 22861> <word: sidi> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 23352> <word: Wink> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 23970> <word: miyta> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 30047> <word: kif> <gov: Tunis> <age: /> <gender:F>
+
+<idx: 30660> <word: Kifech> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 30717> <word: Win> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 30720> <word: Win> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 31282> <word: 5irrrrr> <gov: Tunis> <age: 50+> <gender:M>
+
+<idx: 31373> <word: siko> <gov: Tunis> <age: 50+> <gender:M>
+
+<idx: 31374> <word: siko> <gov: Tunis> <age: 50+> <gender:M>
+
+<idx: 31723> <word: 5irelik> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 31808> <word: ouilhom> <gov: Tunis> <age: 50+> <gender:F>
+
+<idx: 31824> <word: kif> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 31839> <word: sidek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 31840> <word: chi5> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 31854> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 31901> <word: 3ini> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 31970> <word: 3inih> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32259> <word: A3yed> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32261> <word: kifech> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32379> <word: sidi> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32389> <word: kifeh> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32416> <word: kifech> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32423> <word: kifech> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32486> <word: kifech> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32507> <word: kida> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32508> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32531> <word: ghir> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32536> <word: 3icha> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32548> <word: 3icha> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32562> <word: goyedd> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32863> <word: chi5> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33109> <word: sidou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33232> <word: zid> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33240> <word: kifech> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33267> <word: zid> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33381> <word: 3ini> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33426> <word: 3id> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33428> <word: Bi2a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33506> <word: winek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33625> <word: ji3an> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33653> <word: zid> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33707> <word: sidi> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33714> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33829> <word: Kifech> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33914> <word: ri7> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34074> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34077> <word: zine> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34178> <word: zid> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34293> <word: zid> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34319> <word: Kif> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34387> <word: win> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34389> <word: win> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34408> <word: kif> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34412> <word: Kif> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34550> <word: 3ich> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34694> <word: zin> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34696> <word: 3in> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34699> <word: Rin> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34743> <word: 3ila> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34851> <word: 5ir> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34853> <word: 3icha> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34871> <word: 5ir> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34873> <word: 3icha> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34900> <word: dima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34986> <word: win> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 35022> <word: lidha> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 35032> <word: Ryadhiya> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 35218> <word: 9iyam> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 35275> <word: dima> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 35381> <word: win> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 35528> <word: dima> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 35529> <word: 5ir> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 35588> <word: kima> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 35638> <word: sidek> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 35696> <word: kif> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 35700> <word: dima> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 35703> <word: dima> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 35757> <word: win> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 35791> <word: win> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 35837> <word: kifeh> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 35975> <word: 3inih> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36083> <word: win> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36090> <word: kifeh> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36108> <word: win> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36245> <word: 5ir> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36249> <word: 5ir> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36428> <word: dhyefa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36431> <word: kif> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36505> <word: dima> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36518> <word: kif> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36519> <word: kif> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36846> <word: kifeh> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36865> <word: win> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36939> <word: rit> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36948> <word: sidek> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37148> <word: kima> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37399> <word: kifeh> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37417> <word: sidek> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37618> <word: liletHa> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37651> <word: kima> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37913> <word: kifeh> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 38072> <word: bit> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 38090> <word: kifeh> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 38145> <word: kifeh> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 38499> <word: win> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 38581> <word: sidek> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 38587> <word: win> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 38600> <word: kif> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 38610> <word: kima> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 38720> <word: sidek> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 43019> <word: kifech> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43025> <word: 3inek> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43026> <word: dima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43055> <word: dima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43063> <word: dim> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43098> <word: Wini> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43101> <word: wini> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43139> <word: 7yetou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43159> <word: 3ina> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43195> <word: Zid> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43210> <word: dima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43319> <word: 3ini> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43341> <word: 3ichaa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43896> <word: 3in> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44142> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44205> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44242> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44256> <word: lilat> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44269> <word: lil> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44390> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44392> <word: sif> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44418> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44477> <word: 3inik> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44565> <word: Kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44591> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44633> <word: kif> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44740> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44747> <word: sid> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44757> <word: win> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44807> <word: kif> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44862> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44879> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44927> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45003> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45050> <word: kifach> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45285> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45317> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45435> <word: kifesh> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45487> <word: Kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45574> <word: Kif> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45771> <word: hyetou> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45830> <word: kifech> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45850> <word: kifeh> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 46040> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 46092> <word: Hyati> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 46095> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 46101> <word: hyati> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 46129> <word: dima> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 46207> <word: kima> <gov: Tunis> <age: 25-35> <gender:M>
+
+
+	***********************************************
+The following are the words containing the monophtongization in /u:/:
+
+<idx: 16175> <word: youm> <gov: Tunis> <age: 35-50> <gender:M>
+
+<idx: 16927> <word: soum> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 19103> <word: soum> <gov: Tunis> <age: -25> <gender:M>
+
+<idx: 31948> <word: ghoufa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32030> <word: mout> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32129> <word: 9owa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32413> <word: 5ouf> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 32799> <word: fok> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33301> <word: sout> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 33744> <word: louz> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34157> <word: fou9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34423> <word: dou5a> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34486> <word: 7oula> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34650> <word: 7oumet> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34676> <word: 7ouma> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 34684> <word: 7ouma> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 35002> <word: nouwa> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 35121> <word: mout> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 35744> <word: douba> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36010> <word: fou9> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36335> <word: doura> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36508> <word: 9ouma> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 36768> <word: doura> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37217> <word: doura> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37219> <word: 7oumet> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37394> <word: lou7> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 37419> <word: doura> <gov: Tunis> <age: 25-35> <gender:F>
+
+<idx: 43069> <word: 7ouma> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43104> <word: Doubb> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 43900> <word: loun> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44231> <word: fo9> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44237> <word: mouja> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 44683> <word: som> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45387> <word: mouwatine> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45579> <word: doun> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45988> <word: youm> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 45998> <word: youm> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 46152> <word: mout> <gov: Tunis> <age: 25-35> <gender:M>
+
+<idx: 46177> <word: youm> <gov: Tunis> <age: 25-35> <gender:M>
+

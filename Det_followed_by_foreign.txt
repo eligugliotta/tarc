@@ -1,0 +1,1946 @@
+1. PP(1). <Mixed PP: [mel famille]> <POS: PREP+DET_foreign>
+<TArC idx: 881-882>
+<Within sentence: rabi yehdih , ysirou raho machakel haka bin les couples , elmohem essai toujours bach t7ello el mochkel wa7adkom , w mada5lou 7ad mel famille >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+2. PP(2). <Mixed PP: [mel situation]> <POS: PREP+DET_foreign>
+<TArC idx: 1595-1596>
+<Within sentence: Howa il a pas demandé clairement mon avis , ama chkeli mel situation w kifeh 5ayef , juste 9otlou ce qu'on dit en général ki yabda 7ad mridh , ça ira nchallah w elle prendra son traitement w terte7 .. sachant que la maladie est incurable >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+3. <Mixed NP: [el relève]> <POS: DET_foreign>
+<TArC idx: 1818-1819>
+<Within sentence: tbarkallah 3lik m5abbi1356 te5ou 3liya el relève 3an jadara >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+4. <Mixed NP: [l cadeau]> <POS: DET_foreign>
+<TArC idx: 2226-2227>
+<Within sentence: t'es sure elli heya li chret l cadeau de 250 dt l weld selfek ? >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+5. PP(3). <Mixed PP: [fil budget]> <POS: PREP+DET_foreign>
+<TArC idx: 3089-3090>
+<Within sentence: m5abbi582 407 fil budget mte3ek tanja7 , karhba 3adhima w flouss'ha fou9'ha , lawej k3iba 2 litres essence moujoudin fil budget . >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+6. PP(4). <Mixed PP: [fil budget]> <POS: PREP+DET_foreign>
+<TArC idx: 3106-3107>
+<Within sentence: m5abbi582 407 fil budget mte3ek tanja7 , karhba 3adhima w flouss'ha fou9'ha , lawej k3iba 2 litres essence moujoudin fil budget . >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+7. PP(5). <Mixed PP: [3al valise]> <POS: PREP+DET_foreign>
+<TArC idx: 3143-3144>
+<Within sentence: ken kilometrage s7i7 tenja7 c'est une 1.6 hdi , choufha ema diesel ma techri ken ma t3adi 3al valise , ena je suis pour cette 207 >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+8. PP(6). <Mixed PP: [mel megane]> <POS: PREP+DET_foreign>
+<TArC idx: 3161-3162>
+<Within sentence: nchoufouha sur place ken t7ebm , ema yezzina mel megane , la C4 coupé la plus part 1.6 essence en tunisie chouf wa7da ndifa w ozdom achab w plus original >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+9. PP(7). <Mixed PP: [ml qualite]> <POS: PREP+DET_foreign>
+<TArC idx: 3436-3437>
+<Within sentence: Merciii ena 9ali na9es 15 kg kn lzem 20 hhhhhh ye5i i7asen ml qualite ovule howa >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+10. <Mixed NP: [el implantation]> <POS: DET_foreign>
+<TArC idx: 3512-3513>
+<Within sentence: Le fait Eli tebda en surpoids t5ayeb men qualité ovocytaire en plus tsa3ab el implantation ma3naah mm ta3mel ovulation w tsir fécondation , tnajem tousse lel étape implantation w maysir chay , enti ma7aweltech todh3ref chway 9bal el fiv >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+11. PP(8). <Mixed PP: [lel étape]> <POS: PREP+DET_foreign>
+<TArC idx: 3524-3525>
+<Within sentence: Le fait Eli tebda en surpoids t5ayeb men qualité ovocytaire en plus tsa3ab el implantation ma3naah mm ta3mel ovulation w tsir fécondation , tnajem tousse lel étape implantation w maysir chay , enti ma7aweltech todh3ref chway 9bal el fiv >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+12. <Mixed NP: [el fiv]> <POS: DET_foreign>
+<TArC idx: 3536-3537>
+<Within sentence: Le fait Eli tebda en surpoids t5ayeb men qualité ovocytaire en plus tsa3ab el implantation ma3naah mm ta3mel ovulation w tsir fécondation , tnajem tousse lel étape implantation w maysir chay , enti ma7aweltech todh3ref chway 9bal el fiv >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+13. PP(9). <Mixed PP: [fil poid]> <POS: PREP+DET_foreign>
+<TArC idx: 3555-3556>
+<Within sentence: 3mltt regime w nakaset 14 kg 3.00 newl w maraj3pucch 1pres ki 3mlt deux insemination zedet fil poid w tawa apres fiv w ka3det edar raja3et noshom hhhh donc hani nchllh lundi bech na3rja3 ll sport w regime avec objectif 7atitiou lazem nouselo mahma isir ki mafama 7ata 7al ken haka we7ed ya3ml eli 3lih chmaundemch >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+14. PP(10). <Mixed PP: [ll sport]> <POS: PREP+DET_foreign>
+<TArC idx: 3573-3574>
+<Within sentence: 3mltt regime w nakaset 14 kg 3.00 newl w maraj3pucch 1pres ki 3mlt deux insemination zedet fil poid w tawa apres fiv w ka3det edar raja3et noshom hhhh donc hani nchllh lundi bech na3rja3 ll sport w regime avec objectif 7atitiou lazem nouselo mahma isir ki mafama 7ata 7al ken haka we7ed ya3ml eli 3lih chmaundemch >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+15. PP(11). <Mixed PP: [fel les]> <POS: PREP+DET_foreign>
+<TArC idx: 3929-3930>
+<Within sentence: Tu te fais des films pour rien walla thalwis tjib l rou7ek fel les mauvaises ondes haka .. >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+16. PP(12). <Mixed PP: [3al vis]> <POS: PREP+DET_foreign>
+<TArC idx: 4365-4366>
+<Within sentence: femma choya nes t7eb 3al vis ...... ( ok si on compare avec les autres ville de tunisie , on voit in Mahdia ebrek choya .. ) >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+17. PP(13). <Mixed PP: [3al soiree]> <POS: PREP+DET_foreign>
+<TArC idx: 5278-5279>
+<Within sentence: rasmi , mouch normal , 9bal ma nrawa7 leddar nal9a mes parent 3andhom plan detaille 3al soiree >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+18. PP(14). <Mixed PP: [3al mentalité]> <POS: PREP+DET_foreign>
+<TArC idx: 5594-5595>
+<Within sentence: W ken na7kiw 3al mentalité , ben j'approuve pas du tt la mentalité mahdoise , le pire c que pour changer une mentalité il fait bc de temps , mais alors bc bc bc de temps >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+19. <Mixed NP: [el casque]> <POS: DET_foreign>
+<TArC idx: 6511-6512>
+<Within sentence: w alech el casque mat7ebnech nchoufouk >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+20. PP(15). <Mixed PP: [3al skouteur]> <POS: PREP+DET_foreign>
+<TArC idx: 6520-6521>
+<Within sentence: léé mechi bech nerkeb 3al skouteur ye55i sa7bi sawarni avec son portable ye55i l9itha taswira mounesba >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+21. PP(16). <Mixed PP: [fil CNSS]> <POS: PREP+DET_foreign>
+<TArC idx: 6541-6542>
+<Within sentence: ne5dem fil CNSS >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+22. <Mixed NP: [el sagon]> <POS: DET_foreign>
+<TArC idx: 6700-6701>
+<Within sentence: el 7obb kollou 5allouh el sagon :: mafjou3 :: >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+23. PP(17). <Mixed PP: [fil GEO]> <POS: PREP+DET_foreign>
+<TArC idx: 7195-7196>
+<Within sentence: Bourjoulia makontch netsawwer elli femma ness 9wiwin barcha fil GEO >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+24. <Mixed NP: [el GEOGRAPHIE]> <POS: DET_foreign>
+<TArC idx: 7201-7202>
+<Within sentence: chouf ya mte3 el GEOGRAPHIE el msetria wel mhedwia aktharhom mkach5in et je crois elli ennes el kol ta3ref hetha wé n7eb nkollek 7aja rahou wled el 3asma 9afzin 3lina barcha felli t7eb inti ma3ada ettourisme >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+25. PP(18).  <Mixed PP: [mte3 el GEOGRAPHIE]> <POS: PREP_DET_foreign>
+<TArC idx: 7201-7202>
+<Within sentence: chouf ya mte3 el GEOGRAPHIE el msetria wel mhedwia aktharhom mkach5in et je crois elli ennes el kol ta3ref hetha wé n7eb nkollek 7aja rahou wled el 3asma 9afzin 3lina barcha felli t7eb inti ma3ada ettourisme >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+26. PP(19). <Mixed PP: [Fel geographie]> <POS: PREP+DET_foreign>
+<TArC idx: 7297-7298>
+<Within sentence: Hiyya el 7keya sahla yesser : * Fel geographie : ESSA7EL #ERROR! Mahdia + Mestir + Soussa >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+27. <Mixed NP: [el cap]> <POS: DET_foreign>
+<TArC idx: 7597-7598>
+<Within sentence: S7i7 , ama essa7el fi tounes hiya tasmya mta3 une zone , kima el cap bon ... >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+28. <Mixed NP: [el jeune]> <POS: DET_foreign>
+<TArC idx: 7986-7987>
+<Within sentence: Behi enjyou nes2lou sou2el el jeune men tunis en9ouloulou chnouwa newi ta3mel fi mosta9blek ?? >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+29. PP(20). <Mixed PP: [fel forum]> <POS: PREP+DET_foreign>
+<TArC idx: 8376-8377>
+<Within sentence: ouhhhhhhh 3azzlebiya , 9a3da tantacher fel forum bsifa ghriba mdrrrrrrr >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+30. <Mixed NP: [el forum]> <POS: DET_foreign>
+<TArC idx: 8549-8550>
+<Within sentence: samedi soir mgayen , rassi ras el forum !! >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+31. PP(21). <Mixed PP: [fil mobilité]> <POS: PREP+DET_foreign>
+<TArC idx: 8614-8615>
+<Within sentence: j \' ai 30 ans mariée depuis 3ans mon gygy m5abbi1397 m5abbi1397 m5abbi1688 3andi tawa 8 mois ndewi 3andi mon mari 3ando probléme fil mobilité 7 12 % max de chez max bil traitement et tt , >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+32. PP(22). <Mixed PP: [bil traitement]> <POS: PREP+DET_foreign>
+<TArC idx: 8623-8624>
+<Within sentence: j \' ai 30 ans mariée depuis 3ans mon gygy m5abbi1397 m5abbi1397 m5abbi1688 3andi tawa 8 mois ndewi 3andi mon mari 3ando probléme fil mobilité 7 12 % max de chez max bil traitement et tt , >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+33. PP(23). <Mixed PP: [lil insemination]> <POS: PREP+DET_foreign>
+<TArC idx: 8653-8654>
+<Within sentence: bref traitement ma3mal chay 3malna les analyses il kol wena zeda hystero et tt kol chay labes chwaya prolactine w ta7 b traitement t3adina lil insemination 2 fois w chay tawa bech net3adew lil FIV INSHALAH FI SEPTEMBRE >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+34. PP(24). <Mixed PP: [lil FIV]> <POS: PREP+DET_foreign>
+<TArC idx: 8662-8663>
+<Within sentence: bref traitement ma3mal chay 3malna les analyses il kol wena zeda hystero et tt kol chay labes chwaya prolactine w ta7 b traitement t3adina lil insemination 2 fois w chay tawa bech net3adew lil FIV INSHALAH FI SEPTEMBRE >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+35. <Mixed NP: [l fiv]> <POS: DET_foreign>
+<TArC idx: 8677-8678>
+<Within sentence: l fiv fiha anesthésie ou non repos 9adeh après transfert ki yabda bdan lmra mriguel fama chance akther ou non les piqures y9al9ou barcha wallé PMA m5abbi1845 behi wallé >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+36. <Mixed NP: [l fiv]> <POS: DET_foreign>
+<TArC idx: 8767-8768>
+<Within sentence: l fiv fiha anesthésie ou non la ponction est avec anesthésie generale du coup mat7ess b chay >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+37. <Mixed NP: [l fiv]> <POS: DET_foreign>
+<TArC idx: 9057-9058>
+<Within sentence: l fiv fiha anesthésie ou non : anesthesie generale le jour du ponction >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+38. <Mixed NP: [l fiv]> <POS: DET_foreign>
+<TArC idx: 9188-9189>
+<Within sentence: inshalah rabi ysahalli cette fois ma7abéch ya3mali l fiv fi sif 9alli c pas bien mana3rach 3léh mais bon hani nestana fi cycle ejjey w nemchilou >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+39. PP(25). <Mixed PP: [fel avenue]> <POS: PREP+DET_foreign>
+<TArC idx: 10128-10129>
+<Within sentence: tsakkrou kayyess walla 9antra ta7r9ou chwayya 3jeli ta3mel wa9fa i7tijajiya 9oddem el majless etta2ssisi walla fel 9asba walla fel avenue ... >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+40. PP(26). <Mixed PP: [fel les]> <POS: PREP+DET_foreign>
+<TArC idx: 10283-10284>
+<Within sentence: alors je suis une nouvelle membre ici , hal layamet twa7acht jaw les forums wel dho7k mta3 9bal hihihihi et surtout forum kafteji netfakar 3adit fih lyeli wena na9ra fel les discussions 3al prépa mte3i 5ater wa9tha sif el bac w 5ayfa menha hahaha >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+41. PP(27). <Mixed PP: [3al prépa]> <POS: PREP+DET_foreign>
+<TArC idx: 10286-10287>
+<Within sentence: alors je suis une nouvelle membre ici , hal layamet twa7acht jaw les forums wel dho7k mta3 9bal hihihihi et surtout forum kafteji netfakar 3adit fih lyeli wena na9ra fel les discussions 3al prépa mte3i 5ater wa9tha sif el bac w 5ayfa menha hahaha >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+42. <Mixed NP: [il cadeau]> <POS: DET_foreign>
+<TArC idx: 10353-10354>
+<Within sentence: slt les gars chnoua il cadeau ili yfara7kom de la part de votre chérie a part parfum w vêtement nheb nehdi il rajli cadeau 7lou fi son anniversaire !! >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+43. PP(28). <Mixed PP: [3al corna]> <POS: PREP+DET_foreign>
+<TArC idx: 10659-10660>
+<Within sentence: Let's talk about it , 3lech 93adna na7kiou ken fi treken chta3rfou 3al corna virus ? fil médiatisation ? exagérée ou non est ce 5ayfin menou >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+44. PP(29). <Mixed PP: [fil médiatisation]> <POS: PREP+DET_foreign>
+<TArC idx: 10663-10664>
+<Within sentence: Let's talk about it , 3lech 93adna na7kiou ken fi treken chta3rfou 3al corna virus ? fil médiatisation ? exagérée ou non est ce 5ayfin menou >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+45. <Mixed NP: [il virus]> <POS: DET_foreign>
+<TArC idx: 11046-11047>
+<Within sentence: Za3ma des chinois saybouh il virus ? Wila les américains ? >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+46. PP(30). <Mixed PP: [mel corona]> <POS: PREP+DET_foreign>
+<TArC idx: 11281-11282>
+<Within sentence: la théorie lkol na3rafha , grippe saisonnière et les accidents de la route yo9tlou akthar mel corona mais be9i mhalwssa surtout 3la sghari >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+47. PP(31). <Mixed PP: [fel aeroport]> <POS: PREP+DET_foreign>
+<TArC idx: 11387-11388>
+<Within sentence: Je voyage ce weekend , je vais faire attention , je vais me laver les mains souvent , sais pas si je porterai un masque fel aeroport .. >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+48. PP(32). <Mixed PP: [bel gel]> <POS: PREP+DET_foreign>
+<TArC idx: 11431-11432>
+<Within sentence: surtout dima ghaseln lidin bel gel des que tmes ey 7aja : mta3 beb wela rambarde wela ey 7kaya >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+49. <Mixed NP: [el college]> <POS: DET_foreign>
+<TArC idx: 11486-11487>
+<Within sentence: wa hali met prof fi college mahomch 3arfin ysakrou el college ou non pourtant 3andou akthar men 15j en arret wa ma9arach . >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+50. <Mixed NP: [l corona]> <POS: DET_foreign>
+<TArC idx: 11652-11653>
+<Within sentence: l 5ouf nra fih zeyed akther mellazem , ya3ni lwa7ed maya5ouch le7keya à la légér w lazem ye7tat ama mouch l daraja enou kol youm iche3a fil facebook haw famma chkoun mrith fi tounes w ma9alouch 3liha , ennou tounes tetjarre2 ennha t5abi louken youssel l corona lay9ader >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+51. <Mixed NP: [l douche]> <POS: DET_foreign>
+<TArC idx: 11690-11691>
+<Within sentence: aham 7aja lwa7ed yetlha bel nthafa ya8sel ydih diima w wallit l douche doub manod5lou lel dar ness l kol sans faute >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+52. <Mixed NP: [l destination]> <POS: DET_foreign>
+<TArC idx: 11728-11729>
+<Within sentence: 3andi snin ma3meltech voyage et finalement j'ai décidé avec mon mari bech nemchi l italia fi avril et ben c'est annulé w 7atta 5amemna itha nbadlou l destination walla w ba3d 9olna zayed . >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+53. PP(33). <Mixed PP: [fil corona]> <POS: PREP+DET_foreign>
+<TArC idx: 12094-12095>
+<Within sentence: 7assilou kima 9alou sfax 7atta fil corona tal3et loula >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+54. PP(34). <Mixed PP: [lel chine]> <POS: PREP+DET_foreign>
+<TArC idx: 12220-12221>
+<Within sentence: 9allek zeda ra2is la mongolie mché lel chine rawa7 mridh wa hawka fel 7ajr wa 9abil ra2is chine rahou taw 9albou bech yoskot lol >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+55. PP(35). <Mixed PP: [lil machine]> <POS: PREP+DET_foreign>
+<TArC idx: 12366-12367>
+<Within sentence: est ce que lazemna kol youm ndawchou w dbach chara3 directe lil machine à laver ? >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+56. <Mixed NP: [el gel]> <POS: DET_foreign>
+<TArC idx: 12465-12466>
+<Within sentence: el gel maktoub alih il tue 99% mel les bactéries w el corona virus ech 3malna w jeb rabi >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+57. PP(36). <Mixed PP: [mel les]> <POS: PREP+DET_foreign>
+<TArC idx: 12472-12473>
+<Within sentence: el gel maktoub alih il tue 99% mel les bactéries w el corona virus ech 3malna w jeb rabi >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+58. <Mixed NP: [el corona]> <POS: DET_foreign>
+<TArC idx: 12476-12477>
+<Within sentence: el gel maktoub alih il tue 99% mel les bactéries w el corona virus ech 3malna w jeb rabi >
+<Genre: forum>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+59. <Mixed NP: [El farine]> <POS: DET_foreign>
+<TArC idx: 13197-13198>
+<Within sentence: t7out El farine w mele7 w tsoub 3lihom 50 g zebda dhayba w t5alet >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:35-50> <gender:F>
+
+
+60. <Mixed NP: [El pate]> <POS: DET_foreign>
+<TArC idx: 13219-13220>
+<Within sentence: w tebda tsoub fil ma bechwaya hata tetlam El pate >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:35-50> <gender:F>
+
+
+61. <Mixed NP: [el morale]> <POS: DET_foreign>
+<TArC idx: 14020-14021>
+<Within sentence: nel9a rouhi dima hzina w wahdi mandich hatta nes thezli el morale w ta9ef ùaaya >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:25-35> <gender:F>
+
+
+62. <Mixed NP: [el famille]> <POS: DET_foreign>
+<TArC idx: 14037-14038>
+<Within sentence: et win nchuf ennes yenbzouni ala haja men ehthom ezouz hatta el famille walit j evite tout le monde >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:25-35> <gender:F>
+
+
+63. PP(37). <Mixed PP: [lel famille]> <POS: PREP+DET_foreign>
+<TArC idx: 14167-14168>
+<Within sentence: ena houni mochkelti win todkol mra jdida lel famille nwali nakraha nakraha griba w blech sbab !! >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:/> <gender:F>
+
+
+64. <Mixed NP: [el peau]> <POS: DET_foreign>
+<TArC idx: 14339-14340>
+<Within sentence: collant opaque kif loun el peau veste en rouge w ballerine fel rouge w sac noir w3malet chwaya maquillage mascara fard a joue w gloss >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:25-35> <gender:F>
+
+
+65. PP(38). <Mixed PP: [fel rouge]> <POS: PREP+DET_foreign>
+<TArC idx: 14346-14347>
+<Within sentence: collant opaque kif loun el peau veste en rouge w ballerine fel rouge w sac noir w3malet chwaya maquillage mascara fard a joue w gloss >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:25-35> <gender:F>
+
+
+66. PP(39). <Mixed PP: [mel peau]> <POS: PREP+DET_foreign>
+<TArC idx: 14371-14372>
+<Within sentence: en dirais ensena o5ra 7atta mel peau mta3i nawret soub7an allah >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:25-35> <gender:F>
+
+
+67. PP(40). <Mixed PP: [ll randonnée]> <POS: PREP+DET_foreign>
+<TArC idx: 16124-16125>
+<Within sentence: Bonjour Ya jem3a chkoun Mechi ll randonnée >
+<Genre: social>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+68. PP(41). <Mixed PP: [3al accelerateur]> <POS: PREP+DET_foreign>
+<TArC idx: 16215-16216>
+<Within sentence: habit netla3 3mal marche arriere 10 mitrou lteli w9eft fel kayes nzel 3al accelerateur w jey yejri , >
+<Genre: social>
+<Users' metadata:> <origin:Tunis> <age:35-50> <gender:M>
+
+
+69. PP(42). <Mixed PP: [fel free]> <POS: PREP+DET_foreign>
+<TArC idx: 16344-16345>
+<Within sentence: 5edma rentable wenti f dar fel free time mte3k 🏠 Haw 3la 3inikom . >
+<Genre: social>
+<Users' metadata:> <origin:Tunis> <age:-25> <gender:F>
+
+
+70. <Mixed NP: [al programe]> <POS: DET_foreign>
+<TArC idx: 16906-16907>
+<Within sentence: Na7kou nit3arfou b1 w nchi5ou w nitfehmou al programe rèelle kifech w fin w wa9tech w tafasil ilkol likbira w isghira 😘 { w wa9tha barka najam na3tik soum } 😘 >
+<Genre: social>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+71. PP(43). <Mixed PP: [mel porto]> <POS: PREP+DET_foreign>
+<TArC idx: 17441-17442>
+<Within sentence: Photo mel porto >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:/> <gender:F>
+
+
+72. <Mixed NP: [il pag]> <POS: DET_foreign>
+<TArC idx: 18562-18563>
+<Within sentence: O9a3dou nabrou w barra moula il pag kan ma yatla3ich miboun fi tirmtou bi5tar >
+<Genre: social>
+<Users' metadata:> <origin:Monastir> <age:25-35> <gender:M>
+
+
+73. PP(44). <Mixed PP: [fel poule]> <POS: PREP+DET_foreign>
+<TArC idx: 23959-23960>
+<Within sentence: Ken bech iti7 fel poule eli fiha elwa3ka mzamra alih 🤣🤣 >
+<Genre: social>
+<Users' metadata:> <origin:France> <age:-25> <gender:M>
+
+
+74. PP(45). <Mixed PP: [lil top]> <POS: PREP+DET_foreign>
+<TArC idx: 24740-24741>
+<Within sentence: m5abbi2541 toslo7lek lil top >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+75. <Mixed NP: [l échappement]> <POS: DET_foreign>
+<TArC idx: 25715-25716>
+<Within sentence: Firass m5abbi1516 Yessin m5abbi1226 4aharli 3ala 5ater l échappement was3in chwaya 🤔😂😂 >
+<Genre: social>
+<Users' metadata:> <origin:Monastir> <age:-25> <gender:M>
+
+
+76. PP(46). <Mixed PP: [mel conx]> <POS: PREP+DET_foreign>
+<TArC idx: 26534-26535>
+<Within sentence: Maw mel fb admin hadheka na9es mel conx w a9ra 3la rou7ek >
+<Genre: social>
+<Users' metadata:> <origin:Tataouine> <age:/> <gender:F>
+
+
+77. <Mixed NP: [el pùb]> <POS: DET_foreign>
+<TArC idx: 26680-26681>
+<Within sentence: nà7i el + ki tgéd el pùb >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+78. PP(47). <Mixed PP: [mil profét]> <POS: PREP+DET_foreign>
+<TArC idx: 26795-26796>
+<Within sentence: Slt l9raya lyoum t3ayif wta9s ina3is 7ata mil profét yis2lou wijawbou wa7ad hom >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:25-35> <gender:F>
+
+
+79. <Mixed NP: [el code]> <POS: DET_foreign>
+<TArC idx: 27251-27252>
+<Within sentence: Sans Amour pas de vie hét el code mté3ik et NousSa >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+80. PP(48). <Mixed PP: [fil page]> <POS: PREP+DET_foreign>
+<TArC idx: 27307-27308>
+<Within sentence: Si toi aussi t7éb ta3mêl jaaaw (-') Ija m3ana bech n7afloha Wled + Bnét fil page hethï < 0 0 0 > >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+81. PP(49). <Mixed PP: [fil page]> <POS: PREP+DET_foreign>
+<TArC idx: 27375-27376>
+<Within sentence: Si toi aussi t7éb ta3mêl jaaaw (-') Ija m3ana bech n7afloha Wled + Bnét fil page hethï < 0 0 0 > >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+82. PP(50). <Mixed PP: [3al page]> <POS: PREP+DET_foreign>
+<TArC idx: 27542-27543>
+<Within sentence: 7alaftOkOm b elleh eli ConneCté ytayéCh j'aime 3al page héthi >
+<Genre: social>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+83. PP(51). <Mixed PP: [fl public]> <POS: PREP+DET_foreign>
+<TArC idx: 28382-28383>
+<Within sentence: m5abbi2536 m5abbi1692 tetfakrou hedha rajel twiti eli fl public mta3 tounsia >
+<Genre: social>
+<Users' metadata:> <origin:Nabeul> <age:25-35> <gender:F>
+
+
+84. <Mixed NP: [el Marche]> <POS: DET_foreign>
+<TArC idx: 34338-34339>
+<Within sentence: ma n7eb8ach 3amiya , samiya ... 9ali lé fi8a les options el Kol , el Marche arrière , wou el marche avant , fi8a air bag avant wou arrière ... >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+85. <Mixed NP: [el baguette]> <POS: DET_foreign>
+<TArC idx: 34511-34512>
+<Within sentence: 5abbezz , anna8ou wa nadharan li Kathrat al talab al Mouta bzeyed 3ala el 5obezz lembasses ... wou el Tabouna , wou el baguette ! >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+86. PP(52). <Mixed PP: [bel Rai]> <POS: PREP+DET_foreign>
+<TArC idx: 35174-35175>
+<Within sentence: el Rafi9 , 3mal bel Rai uno , wou 9annet wattaneya , wou battel , el makla wou el chrabb , >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+87. PP(53). <Mixed PP: [fel blog]> <POS: PREP+DET_foreign>
+<TArC idx: 35607-35608>
+<Within sentence: Araft , le moment elli tabda tu luttes fih , harb fi mo5ek entre les « fech ta3mel houni ? chemlazzek ? » et les « kima selket 9bal , taw teslek taw ? w chnowa taw bch tsallém ? chbech y9oulou alik les lecteurs fel blog ? » hahahaah . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+88. PP(54). <Mixed PP: [bel français]> <POS: PREP+DET_foreign>
+<TArC idx: 36023-36024>
+<Within sentence: m3a m5abbi339 Chénini lkol , Gsour l fou9 hatta l Masjed « Ergoud essab3a » , les sept dormants » bel français , masjed fih 7 9boura kbaaar , wehed fehom toulou 5 mitrou , y9oulou li ethika leblassa elli t’thakret fi souret el ka7f w allahou a3lem . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+89. <Mixed NP: [el franc]> <POS: DET_foreign>
+<TArC idx: 36196-36197>
+<Within sentence: hethi matsirlekch fi ay blassa fel alem , hethi tsirlek fi Chénini , Jenoub ettounsi fa9at , meyetlawa7 7ad , ennes lkol tbet met3echya w t7ess beb3adhHa , ennes te5dem ala rwe77a bech tsawwer el franc ama zeda mete7ssebHech ! >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+90. PP(55). <Mixed PP: [mel passerelle]> <POS: PREP+DET_foreign>
+<TArC idx: 36610-36611>
+<Within sentence: f Loud , kel 3ada , bnet esghar , w nagzou , cho hethi , cho lo5ra . ba3d , aux choses sérieuses , habbet te5ou tsawer mel passerelle , el m3allem ysou9 . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+91. <Mixed NP: [l commandant]> <POS: DET_foreign>
+<TArC idx: 36670-36671>
+<Within sentence: men ethika , l commandant bech ne9ssmou m3ah ftourou . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+92. <Mixed NP: [l commandant]> <POS: DET_foreign>
+<TArC idx: 36683-36684>
+<Within sentence: fi salla mta3 l’équipage m3a l commandant bidou , expérience wehed may3ichHech martine >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+93. PP(56).  <Mixed PP: [m3a l commandant]> <POS: PREP_DET_foreign>
+<TArC idx: 36683-36684>
+<Within sentence: fi salla mta3 l’équipage m3a l commandant bidou , expérience wehed may3ichHech martine >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+94. PP(57). <Mixed PP: [lel passerelle]> <POS: PREP+DET_foreign>
+<TArC idx: 36695-36696>
+<Within sentence: Ftarna w Rja3na lel passerelle w wa9telli 9rib nousslou , rou7i , nsou9 fel Loud w nda5el fih lel bort ! >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+95. PP(58). <Mixed PP: [bel preuve]> <POS: PREP+DET_foreign>
+<TArC idx: 36735-36736>
+<Within sentence: bel preuve zeda , w séquence ! >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+96. PP(59). <Mixed PP: [lel round]> <POS: PREP+DET_foreign>
+<TArC idx: 36780-36781>
+<Within sentence: bina doura fi Sfe9ess melloul bech yafra7 bina , mba3ed wassalna , tfeHemna lel round point ala tri9 Gabes , bdina auto stopna kel 3ada , allah lata9t3inna 3ada . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+97. PP(60). <Mixed PP: [fel galerie]> <POS: PREP+DET_foreign>
+<TArC idx: 37347-37348>
+<Within sentence: 3jebni fel galerie hethi li heyya feha barcha des œuvres basées essentiellement ala l récup’ wel recyclage ; Mathalan , blalet ma3moulin b mgharfa mta3 glaces , plastique ethika elli na7na nlaw7ouha , tableau yfatte9 ma3moul ala tarf hdid m5azza , prtrait afro w fazet , ala beb lou7 mdagdeg ! >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+98. <Mixed NP: [l récup’]> <POS: DET_foreign>
+<TArC idx: 37359-37360>
+<Within sentence: 3jebni fel galerie hethi li heyya feha barcha des œuvres basées essentiellement ala l récup’ wel recyclage ; Mathalan , blalet ma3moulin b mgharfa mta3 glaces , plastique ethika elli na7na nlaw7ouha , tableau yfatte9 ma3moul ala tarf hdid m5azza , prtrait afro w fazet , ala beb lou7 mdagdeg ! >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+99. PP(61).  <Mixed PP: [ala l récup’]> <POS: PREP_DET_foreign>
+<TArC idx: 37359-37360>
+<Within sentence: 3jebni fel galerie hethi li heyya feha barcha des œuvres basées essentiellement ala l récup’ wel recyclage ; Mathalan , blalet ma3moulin b mgharfa mta3 glaces , plastique ethika elli na7na nlaw7ouha , tableau yfatte9 ma3moul ala tarf hdid m5azza , prtrait afro w fazet , ala beb lou7 mdagdeg ! >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+100. PP(62). <Mixed PP: [fel galerie]> <POS: PREP+DET_foreign>
+<TArC idx: 37420-37421>
+<Within sentence: Ayya sidek amlna doura fel galerie , fasrenna Jilani les tableaux w ramzeyya mte77om surtout l hajet li ta7ki ala Tounes w tha9afa ettounseyya . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+101. PP(63). <Mixed PP: [mel magie]> <POS: PREP+DET_foreign>
+<TArC idx: 37473-37474>
+<Within sentence: 5rajna mel magie de l’art w rja3na lé denya . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+102. <Mixed NP: [l cousin]> <POS: DET_foreign>
+<TArC idx: 37659-37660>
+<Within sentence: m3ahom lel Mouradi , l cousin mte3Hom chede la gérance ghadi ; w chba3na . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+103. PP(64). <Mixed PP: [mel marina]> <POS: PREP+DET_foreign>
+<TArC idx: 37729-37730>
+<Within sentence: déserte , w mezyena , petit coin paradisique yemchiyoulha les bâteaux mel marina avec un programme sympathique ; animation , aroubi fel jezira ( cosksi , fazet ) , 25 alf . : Rawa7na lé dar ki ka3bet etrilya ! >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+104. PP(65). <Mixed PP: [mel culture]> <POS: PREP+DET_foreign>
+<TArC idx: 37821-37822>
+<Within sentence: spécial leya ena , na3ref fih partie mel culture mta3 bledi , mekkontech na3rafHa w bech nchouf w n3ich haja différente 3omri me3echtHa . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+105. PP(66). <Mixed PP: [fel BAT]> <POS: PREP+DET_foreign>
+<TArC idx: 37945-37946>
+<Within sentence: bina ezzouz wled , 9a3din wrana bdew ya7kiw m3ana , ye5dmou fel BAT ( Brigade Terroriste ) 9alounna hayya nhezzoukom m3ana . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+106. <Mixed NP: [el BAT]> <POS: DET_foreign>
+<TArC idx: 37967-37968>
+<Within sentence: fé jdid 7assilou , mara lel Ghriba w m3a jme3et el BAT >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+107. PP(67). <Mixed PP: [mel parking]> <POS: PREP+DET_foreign>
+<TArC idx: 37986-37987>
+<Within sentence: Aya wselna 9bal el Ghriba bchwayya , baga , 5 étoiles de luxe , fel abed mel parking hatta el beb el Ghriba bedhabt , men bahtha l BAT , fel baga ! >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+108. PP(68). <Mixed PP: [fel gâteaux]> <POS: PREP+DET_foreign>
+<TArC idx: 38059-38060>
+<Within sentence: fi abed ta7ki , tghanni , f tounsi , l ’ anglais , tounsi , lebssin soirée… zet dort , ta3mel fel brik , tbi3 fel gâteaux , petit bar … nahhit sabati , cha3ri w d5alt el bit esslet w 93at netfarrej fel abed , >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+109. PP(69). <Mixed PP: [mel bulle]> <POS: PREP+DET_foreign>
+<TArC idx: 38177-38178>
+<Within sentence: jé el wafd el wizeri , bdé akké dazzen elli ena nfed mennou w kharrajni mel bulle spirituelle elli ghtost feha >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+110. PP(70). <Mixed PP: [bel backpack]> <POS: PREP+DET_foreign>
+<TArC idx: 38305-38306>
+<Within sentence: khrajt mé dar m3a 13h direction rond point Hay Erriadh , f taxi bel backpack li hadhartou fi a peine se3a men zmen . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+111. <Mixed NP: [l coursa]> <POS: DET_foreign>
+<TArC idx: 38335-38336>
+<Within sentence: l coursa tal3et 1,7 dt ama khthé aleya dinar barka khater kalli nheb nchaj3ek aali ta3mel fih . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+112. <Mixed NP: [l point]> <POS: DET_foreign>
+<TArC idx: 38381-38382>
+<Within sentence: Ok , ena w Soumayya w bdina nemchiw ala sa9ina pour repérer un point behi mta3 autostop ( station entrée d’auto-route … ) l point mte3na w bdina . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+113. <Mixed NP: [l moteur]> <POS: DET_foreign>
+<TArC idx: 38791-38792>
+<Within sentence: youssel ywa99ef l moteur w ywalli juste yesta3mel l Garya , heya 3ssa kbira yeghressHa l bahhar fel rmaa w y9arrebb behya l flouka , kol meyoussel l dar y7elha , eddrina w yfarraghHa w ykammel keka li ydour ala dyar l kol w drinet lkol . >
+<Genre: blog>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:F>
+
+
+114. <Mixed NP: [el beef]> <POS: DET_foreign>
+<TArC idx: 39231-39232>
+<Within sentence: bled 97ab w masala7 Mamaditich wijhi fi tlaviz la niktt buzz la niktt blabiz Niktt 97ab tchill m3a elmounafiss nik el beef ti elkolha 5nafiss trap w mary film sex barra nayek mani ou5ayek mata7kilich trouf a7ki blayék yeah yeah yeah yeah >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+115. PP(71). <Mixed PP: [mil archive]> <POS: PREP+DET_foreign>
+<TArC idx: 39494-39495>
+<Within sentence: bat nigga amd on the beat ndhakrk beyn fik nsit , zayt mab7ebch nsi7 , henya 7atta ki tchi7 Punchline mil archive , 9olli chrayek wala asma3ni khalli mat9ollich ey ennikelha omha w manhannich ey , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+116. PP(72). <Mixed PP: [bil alarme]> <POS: PREP+DET_foreign>
+<TArC idx: 39677-39678>
+<Within sentence: niflowi nrattel resistenza mkarrza tounes dhey9a kima el khatem these Niggz mistensa mouthom sar ma3ad ihem fi wijh ma2seti nadh7k w nitbassem 3eddek bina khlatna fil wa9t el 7asem 2eweni 7an dkhalna fil khtar idhtirabeti tdhorek ghara bil alarme ena rapi narou 7arra , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+117. PP(73). <Mixed PP: [fil map]> <POS: PREP+DET_foreign>
+<TArC idx: 39899-39900>
+<Within sentence: baby ou , l3adwa wa7da wa7da bdéééet tetwaghel fil map , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+118. PP(74). <Mixed PP: [fel green]> <POS: PREP+DET_foreign>
+<TArC idx: 40477-40478>
+<Within sentence: afkari inti7aria ntih w fraj ya outil manmotesh madhloum kima john fel green mile n3afes 3ali krahni tebe3 stagi for real ma9adroush ykonou players yekhi 3ashou 3ara9il >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+119. <Mixed NP: [al game]> <POS: DET_foreign>
+<TArC idx: 40697-40698>
+<Within sentence: t3alem se3a rabi ba3d ahkilli al game enti le tejri al fame ani meli bdit damn meli bdit ntir moush ki tahana li m2aysaa wa9t el 7aRF 7ADHER MARESKIT Fi thniya mkaysa >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+120. <Mixed NP: [al fame]> <POS: DET_foreign>
+<TArC idx: 40702-40703>
+<Within sentence: t3alem se3a rabi ba3d ahkilli al game enti le tejri al fame ani meli bdit damn meli bdit ntir moush ki tahana li m2aysaa wa9t el 7aRF 7ADHER MARESKIT Fi thniya mkaysa >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+121. PP(75). <Mixed PP: [bel fake]> <POS: PREP+DET_foreign>
+<TArC idx: 41427-41428>
+<Within sentence: meshi fe s7i7 hard lyric men blow lips dima nasna3 real stories 7ata ken bel fake pips bel 3wej dima mkikes moushni mel mrabtin 3alem nikomomou meshni besh nmout martin >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+122. PP(76). <Mixed PP: [3al game]> <POS: PREP+DET_foreign>
+<TArC idx: 42015-42016>
+<Within sentence: matsadefni bmoushte9 fe lou3bet el shakhsiet tla3 9ema fe nifek la rab w la flous w je ye7ki lzeby 3al game >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+123. <Mixed NP: [el maninouva]> <POS: DET_foreign>
+<TArC idx: 42139-42140>
+<Within sentence: you do your best besh tsawrou fi clip i do my fast besh n3ayshek fi trip louta six fi tip le bta7i le bwatet 7ouma tsayer fi stadet fi bwacet fi 7bouset la79i9a lyouma walet sha3ra bidha fwest ghoufa mantoujetkom feshlou kima yaghort el maninouva >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+124. PP(77). <Mixed PP: [fel concour]> <POS: PREP+DET_foreign>
+<TArC idx: 42353-42354>
+<Within sentence: karta lyouma 3andi w taw takhrouli fih ki dour talaab b9adrek te7shelek m3a zebi fel concour wa9ta 3ta lil ma7gour w lil 5ayeb ysib walah rabi rakom kima zboub ras zeby ben mordha >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+125. PP(78). <Mixed PP: [bel energie]> <POS: PREP+DET_foreign>
+<TArC idx: 42607-42608>
+<Within sentence: fama shkoun tghatha fama 3ar9 nse3lou nabaath bar bel energie 7ata li mafehmoush tfe3lou 9bal mata3ti rayek khales zebi fel ghne >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+126. PP(79).  <Mixed PP: [fi le3bet thug]> <POS: PREP_DET+NOUN-NSUFF_FEM_SG_foreign>
+<TArC idx: 42766-42767>
+<Within sentence: narja bik lel7ouma fi le3bet thug life men 2004 ma3raftesh shnamel in my life lghadi men street life tmarmid w flous bounya w bous warda w mous tfin 3abous met manzous mouta sghar mouta kbar mouta 7ayin >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
+127. <Mixed NP: [el page]> <POS: DET_foreign>
+<TArC idx: 43387-43388>
+<Within sentence: w t9élbét el page 7alit nhar el boite , nal9aha ba3thétli msg >
+<Genre: rap>
+<Users' metadata:> <origin:Ben_Arous> <age:-25> <gender:M>
+
+
+128. <Mixed NP: [el boite]> <POS: DET_foreign>
+<TArC idx: 43391-43392>
+<Within sentence: w t9élbét el page 7alit nhar el boite , nal9aha ba3thétli msg >
+<Genre: rap>
+<Users' metadata:> <origin:Ben_Arous> <age:-25> <gender:M>
+
+
+129. PP(80). <Mixed PP: [fel vide]> <POS: PREP+DET_foreign>
+<TArC idx: 43444-43445>
+<Within sentence: el 7ob mté3na kén yzid 3rafna béli yajma3na lézém mayémchich fel vide ghzarna b3id , >
+<Genre: rap>
+<Users' metadata:> <origin:Ben_Arous> <age:-25> <gender:M>
+
+
+130. PP(81). <Mixed PP: [lel fac]> <POS: PREP+DET_foreign>
+<TArC idx: 43461-43462>
+<Within sentence: 9oltélha nkamél a7iyéti m3ak sadda9ni wslét n5af a3léha 7ata ki témchi lel fac >
+<Genre: rap>
+<Users' metadata:> <origin:Ben_Arous> <age:-25> <gender:M>
+
+
+131. <Mixed NP: [el contact]> <POS: DET_foreign>
+<TArC idx: 43556-43557>
+<Within sentence: te9ta3 el contact , >
+<Genre: rap>
+<Users' metadata:> <origin:Ben_Arous> <age:-25> <gender:M>
+
+
+132. PP(82). <Mixed PP: [lel profil]> <POS: PREP+DET_foreign>
+<TArC idx: 43580-43581>
+<Within sentence: dhékréyét 5alétni nod5él lel profil 7abit nchouf chnowa ybadél el wa9t ki ykoun twil >
+<Genre: rap>
+<Users' metadata:> <origin:Ben_Arous> <age:-25> <gender:M>
+
+
+133. <Mixed NP: [el profil]> <POS: DET_foreign>
+<TArC idx: 43644-43645>
+<Within sentence: manékdhébéch a3lik Tarétli 9rib néblouki el profil eli kont 7asbou sa7bi , bch néktéfi lyoum b zamiL >
+<Genre: rap>
+<Users' metadata:> <origin:Ben_Arous> <age:-25> <gender:M>
+
+
+134. <Mixed NP: [el msg]> <POS: DET_foreign>
+<TArC idx: 43686-43687>
+<Within sentence: c bon el msg wsél .. >
+<Genre: rap>
+<Users' metadata:> <origin:Ben_Arous> <age:-25> <gender:M>
+
+
+135. <Mixed NP: [el msg]> <POS: DET_foreign>
+<TArC idx: 43693-43694>
+<Within sentence: 3ala dhékr el msg , 3awedt 7alit el msg 9otlék fassa5t a3lik mén aka el 3.00 domage >
+<Genre: rap>
+<Users' metadata:> <origin:Ben_Arous> <age:-25> <gender:M>
+
+
+136. <Mixed NP: [el msg]> <POS: DET_foreign>
+<TArC idx: 43698-43699>
+<Within sentence: 3ala dhékr el msg , 3awedt 7alit el msg 9otlék fassa5t a3lik mén aka el 3.00 domage >
+<Genre: rap>
+<Users' metadata:> <origin:Ben_Arous> <age:-25> <gender:M>
+
+
+137. <Mixed NP: [Al stylo]> <POS: DET_foreign>
+<TArC idx: 43854-43855>
+<Within sentence: N3ich fi dimention nkemel fiha nendar Al stylo t3ab w fi rasi mazal melyon star >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+138. <Mixed NP: [al politique]> <POS: DET_foreign>
+<TArC idx: 43917-43918>
+<Within sentence: Nrapi manich conscient f les chansons Njib zéro vues ama naj7 b mention Te7kilhom 3la al politique w 3a les francs maçons Chkon li yefham w al public na9es éducation >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+139. PP(83).  <Mixed PP: [3la al politique]> <POS: PREP_DET_foreign>
+<TArC idx: 43917-43918>
+<Within sentence: Nrapi manich conscient f les chansons Njib zéro vues ama naj7 b mention Te7kilhom 3la al politique w 3a les francs maçons Chkon li yefham w al public na9es éducation >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+140. <Mixed NP: [al public]> <POS: DET_foreign>
+<TArC idx: 43928-43929>
+<Within sentence: Nrapi manich conscient f les chansons Njib zéro vues ama naj7 b mention Te7kilhom 3la al politique w 3a les francs maçons Chkon li yefham w al public na9es éducation >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+141. <Mixed NP: [Al rappeur]> <POS: DET_foreign>
+<TArC idx: 43933-43934>
+<Within sentence: Al rappeur al wa7id li nrapi w ana condamné Nerba7 f al respect w nekhser f les abonnés Rapi toxique mlaweth w contaminé Bel virus li ismo : jeux vidéos - dessins animés >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+142. <Mixed NP: [al respect]> <POS: DET_foreign>
+<TArC idx: 43944-43945>
+<Within sentence: Al rappeur al wa7id li nrapi w ana condamné Nerba7 f al respect w nekhser f les abonnés Rapi toxique mlaweth w contaminé Bel virus li ismo : jeux vidéos - dessins animés >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+143. PP(84).  <Mixed PP: [f al respect]> <POS: PREP_DET_foreign>
+<TArC idx: 43944-43945>
+<Within sentence: Al rappeur al wa7id li nrapi w ana condamné Nerba7 f al respect w nekhser f les abonnés Rapi toxique mlaweth w contaminé Bel virus li ismo : jeux vidéos - dessins animés >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+144. PP(85). <Mixed PP: [Bel virus]> <POS: PREP+DET_foreign>
+<TArC idx: 43956-43957>
+<Within sentence: Al rappeur al wa7id li nrapi w ana condamné Nerba7 f al respect w nekhser f les abonnés Rapi toxique mlaweth w contaminé Bel virus li ismo : jeux vidéos - dessins animés >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+145. <Mixed NP: [Al system]> <POS: DET_foreign>
+<TArC idx: 43981-43982>
+<Within sentence: N3ich fi 3alam m3a al nas 3meli décalage Hadak 3lach rapi lazem na3melo réglage Al system li ye7kom chad al publique w 3malo lavage Lazemni n3awed m lawel na3melo formatage >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+146. <Mixed NP: [al publique]> <POS: DET_foreign>
+<TArC idx: 43986-43987>
+<Within sentence: N3ich fi 3alam m3a al nas 3meli décalage Hadak 3lach rapi lazem na3melo réglage Al system li ye7kom chad al publique w 3malo lavage Lazemni n3awed m lawel na3melo formatage >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+147. <Mixed NP: [al tendance]> <POS: DET_foreign>
+<TArC idx: 44004-44005>
+<Within sentence: 3bad teba3 l’image , teba3 f al tendance W anti 9a3ed tetfelsef w trapi b la science Al 3bad welat t7eb al la7en moch l’intelligence Ma yhemhach al ma3na 9ed ma themha l’apparence >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+148. PP(86).  <Mixed PP: [f al tendance]> <POS: PREP_DET_foreign>
+<TArC idx: 44004-44005>
+<Within sentence: 3bad teba3 l’image , teba3 f al tendance W anti 9a3ed tetfelsef w trapi b la science Al 3bad welat t7eb al la7en moch l’intelligence Ma yhemhach al ma3na 9ed ma themha l’apparence >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+149. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 44047-44048>
+<Within sentence: Donc lazem tbedel la stratégie Klam bsit w tne9es m la psychologue 19 sna f al rap w mazalet l’énergie Mazal al darb w al rap al kasa7 li bach yji >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+150. PP(87).  <Mixed PP: [f al rap]> <POS: PREP_DET_foreign>
+<TArC idx: 44047-44048>
+<Within sentence: Donc lazem tbedel la stratégie Klam bsit w tne9es m la psychologue 19 sna f al rap w mazalet l’énergie Mazal al darb w al rap al kasa7 li bach yji >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+151. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 44056-44057>
+<Within sentence: Donc lazem tbedel la stratégie Klam bsit w tne9es m la psychologue 19 sna f al rap w mazalet l’énergie Mazal al darb w al rap al kasa7 li bach yji >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+152. <Mixed NP: [al machine]> <POS: DET_foreign>
+<TArC idx: 44073-44074>
+<Within sentence: Al 3ro9 f al ras fibre optique tekhdem ki al machine Ma 3adch barcha w tesma3 titre ard al safiline Al public mrid fi blaset al fan lazmo la médecine Kol mera ne3tih jor3a rap tetzere9 ki al morphine >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+153. <Mixed NP: [Al public]> <POS: DET_foreign>
+<TArC idx: 44084-44085>
+<Within sentence: Al 3ro9 f al ras fibre optique tekhdem ki al machine Ma 3adch barcha w tesma3 titre ard al safiline Al public mrid fi blaset al fan lazmo la médecine Kol mera ne3tih jor3a rap tetzere9 ki al morphine >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+154. <Mixed NP: [al morphine]> <POS: DET_foreign>
+<TArC idx: 44101-44102>
+<Within sentence: Al 3ro9 f al ras fibre optique tekhdem ki al machine Ma 3adch barcha w tesma3 titre ard al safiline Al public mrid fi blaset al fan lazmo la médecine Kol mera ne3tih jor3a rap tetzere9 ki al morphine >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+155. <Mixed NP: [l les]> <POS: DET_foreign>
+<TArC idx: 44107-44108>
+<Within sentence: Rap ya3mel régénération l les cellules M3adch Youtube tweli tconsomih f les pilules Fiha al ghaz w nwamer li tkawen la formule Fih six-six-six f la matricule >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+156. <Mixed NP: [al CoCa]> <POS: DET_foreign>
+<TArC idx: 44143-44144>
+<Within sentence: Nkherej rap pur kasa7 par la haut gamme Kol ster kima al CoCa ye3ti f al ras b al gramme Klam s3ib moch mafhom w khlaq amalgamme >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+157. <Mixed NP: [al gramme]> <POS: DET_foreign>
+<TArC idx: 44150-44151>
+<Within sentence: Nkherej rap pur kasa7 par la haut gamme Kol ster kima al CoCa ye3ti f al ras b al gramme Klam s3ib moch mafhom w khlaq amalgamme >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+158. PP(88).  <Mixed PP: [b al gramme]> <POS: PREP_DET_foreign>
+<TArC idx: 44150-44151>
+<Within sentence: Nkherej rap pur kasa7 par la haut gamme Kol ster kima al CoCa ye3ti f al ras b al gramme Klam s3ib moch mafhom w khlaq amalgamme >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+159. <Mixed NP: [al public]> <POS: DET_foreign>
+<TArC idx: 44173-44174>
+<Within sentence: Al dawla ma tchofoch paroles , tchofo algham Khali nrakez 3la al angham al public al jdid yesma3na Al public al 9dim kan ja kasa7 b al 7a9 raho nfa3na >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+160. <Mixed NP: [Al public]> <POS: DET_foreign>
+<TArC idx: 44178-44179>
+<Within sentence: Al dawla ma tchofoch paroles , tchofo algham Khali nrakez 3la al angham al public al jdid yesma3na Al public al 9dim kan ja kasa7 b al 7a9 raho nfa3na >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+161. <Mixed NP: [Al rap]> <POS: DET_foreign>
+<TArC idx: 44198-44199>
+<Within sentence: Terroriste moch artiste w al dawla teba3na Al rap chi ma rba7na meno wela kima al la3na Al public al kasa7 wa9t li yteba3 raho ma yeghderch Y7awel yestaw3eb w yefhem yesma3 ma ynaberch >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+162. <Mixed NP: [Al public]> <POS: DET_foreign>
+<TArC idx: 44208-44209>
+<Within sentence: Terroriste moch artiste w al dawla teba3na Al rap chi ma rba7na meno wela kima al la3na Al public al kasa7 wa9t li yteba3 raho ma yeghderch Y7awel yestaw3eb w yefhem yesma3 ma ynaberch >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+163. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 44239-44240>
+<Within sentence: Bik wella bla bik netreba3 fo9 al 3arch Kol ma al mouja thij al rap naklo kima al 9irch 9ader nkharej rap 3la fréquence tetarech Net9oblek wednik ki al 3adra lilat al dakhla f al farch >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+164. <Mixed NP: [Al rap]> <POS: DET_foreign>
+<TArC idx: 44341-44342>
+<Within sentence: Asma3 rap klab a7na rapna 39od Al rap al 9wi yzanzan wa9t li do9 mano trod Fer7an b rappeurek khater f al rap klamo mwasekh Klami ndif ama ki nchedo b kalemtin yetfesekh Kolha t9aled w tarjem w raphom kolo naskh Hadaya rap original f al 39al yetrasekh >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+165. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 44356-44357>
+<Within sentence: Asma3 rap klab a7na rapna 39od Al rap al 9wi yzanzan wa9t li do9 mano trod Fer7an b rappeurek khater f al rap klamo mwasekh Klami ndif ama ki nchedo b kalemtin yetfesekh Kolha t9aled w tarjem w raphom kolo naskh Hadaya rap original f al 39al yetrasekh >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+166. PP(89).  <Mixed PP: [f al rap]> <POS: PREP_DET_foreign>
+<TArC idx: 44356-44357>
+<Within sentence: Asma3 rap klab a7na rapna 39od Al rap al 9wi yzanzan wa9t li do9 mano trod Fer7an b rappeurek khater f al rap klamo mwasekh Klami ndif ama ki nchedo b kalemtin yetfesekh Kolha t9aled w tarjem w raphom kolo naskh Hadaya rap original f al 39al yetrasekh >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+167. <Mixed NP: [al vitesse]> <POS: DET_foreign>
+<TArC idx: 44461-44462>
+<Within sentence: Mokhi hareb bya al vitesse ma 3endhach limite 3ro9i kan jat tetkalem taw tente9 t9ol 3yit >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+168. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 44485-44486>
+<Within sentence: Ki tghamed 3inik w anti trapi sous hypnose Nhar m al rap al 3ro9 bach ti7 overdose W na3mel métamorphose w nwali ki al Super Saiyan >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+169. PP(90).  <Mixed PP: [m al rap]> <POS: PREP_DET_foreign>
+<TArC idx: 44485-44486>
+<Within sentence: Ki tghamed 3inik w anti trapi sous hypnose Nhar m al rap al 3ro9 bach ti7 overdose W na3mel métamorphose w nwali ki al Super Saiyan >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+170. <Mixed NP: [al Super]> <POS: DET_foreign>
+<TArC idx: 44498-44499>
+<Within sentence: Ki tghamed 3inik w anti trapi sous hypnose Nhar m al rap al 3ro9 bach ti7 overdose W na3mel métamorphose w nwali ki al Super Saiyan >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+171. <Mixed NP: [al Venom]> <POS: DET_foreign>
+<TArC idx: 44520-44521>
+<Within sentence: Rapi ndif yetbedel yweli sixty nine B klam ki les atomes nrapi ki Einstein Ki al sam ta3 al Venom kol ster punchline >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+172. <Mixed NP: [al stad]> <POS: DET_foreign>
+<TArC idx: 44532-44533>
+<Within sentence: Rap level god , public y3abi al stad Ytir ki al Concord w t7ab tchado fi mintad Jit tjes tel9a rohak taya7 f embuscade Bedel stage ki ti7 m3aya en mode r9ad >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+173. <Mixed NP: [al Concord]> <POS: DET_foreign>
+<TArC idx: 44536-44537>
+<Within sentence: Rap level god , public y3abi al stad Ytir ki al Concord w t7ab tchado fi mintad Jit tjes tel9a rohak taya7 f embuscade Bedel stage ki ti7 m3aya en mode r9ad >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+174. <Mixed NP: [al silicone]> <POS: DET_foreign>
+<TArC idx: 44571-44572>
+<Within sentence: Raphom ka2ino android nasbo fi Iphone Kima chfayef Hayfa Wahbi manfokha b al silicone >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+175. PP(91).  <Mixed PP: [b al silicone]> <POS: PREP_DET_foreign>
+<TArC idx: 44571-44572>
+<Within sentence: Raphom ka2ino android nasbo fi Iphone Kima chfayef Hayfa Wahbi manfokha b al silicone >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+176. <Mixed NP: [al microphone]> <POS: DET_foreign>
+<TArC idx: 44588-44589>
+<Within sentence: Hada kolo w li 9a3ed yrapilk tawa clan Psyco M al ha9ani mahouch 9odam al microphone Matchofoch kima al Nagato nfakrek kanek nasay Ki yekhroj yzelzel al rap b chira tensay >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+177. <Mixed NP: [al Nagato]> <POS: DET_foreign>
+<TArC idx: 44592-44593>
+<Within sentence: Hada kolo w li 9a3ed yrapilk tawa clan Psyco M al ha9ani mahouch 9odam al microphone Matchofoch kima al Nagato nfakrek kanek nasay Ki yekhroj yzelzel al rap b chira tensay >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+178. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 44600-44601>
+<Within sentence: Hada kolo w li 9a3ed yrapilk tawa clan Psyco M al ha9ani mahouch 9odam al microphone Matchofoch kima al Nagato nfakrek kanek nasay Ki yekhroj yzelzel al rap b chira tensay >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+179. <Mixed NP: [al public]> <POS: DET_foreign>
+<TArC idx: 44629-44630>
+<Within sentence: Ma n7abekch hayem , fi9 rak nayem Ma n7abekch ki al public li yteba3 kif al bhayem Kolha tesre9 w t9eled w dezha Rap Game Kan t7eb rap sa7 a7fed my name >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+180. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 44656-44657>
+<Within sentence: Men awal nhar f al rap bdina fih 3ros Al ma3na m3abi w rzin klamna bih tghos Psyco M l snin yrapi w ltwa la khlos >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+181. PP(92).  <Mixed PP: [f al rap]> <POS: PREP_DET_foreign>
+<TArC idx: 44656-44657>
+<Within sentence: Men awal nhar f al rap bdina fih 3ros Al ma3na m3abi w rzin klamna bih tghos Psyco M l snin yrapi w ltwa la khlos >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+182. <Mixed NP: [al public]> <POS: DET_foreign>
+<TArC idx: 44684-44685>
+<Within sentence: 3la khatro ghali w som al public rkhos Khater wa9t li t3aber , kolha twali tnaber Ta3ref rohak najah wa9t li tsebek lekbabel >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+183. <Mixed NP: [al fake]> <POS: DET_foreign>
+<TArC idx: 44725-44726>
+<Within sentence: Barcha ennemies tserbi f al fake love Nlemhom fi 7ofra ncha3elhom bl Molotov Yakerhok honi korhon chadid Yso7a 3lik kima al laba wa9t li yewja3ha al sid >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+184. PP(93).  <Mixed PP: [f al fake]> <POS: PREP_DET_foreign>
+<TArC idx: 44725-44726>
+<Within sentence: Barcha ennemies tserbi f al fake love Nlemhom fi 7ofra ncha3elhom bl Molotov Yakerhok honi korhon chadid Yso7a 3lik kima al laba wa9t li yewja3ha al sid >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+185. PP(94). <Mixed PP: [bl Molotov]> <POS: PREP+DET_foreign>
+<TArC idx: 44732-44733>
+<Within sentence: Barcha ennemies tserbi f al fake love Nlemhom fi 7ofra ncha3elhom bl Molotov Yakerhok honi korhon chadid Yso7a 3lik kima al laba wa9t li yewja3ha al sid >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+186. <Mixed NP: [al public]> <POS: DET_foreign>
+<TArC idx: 44784-44785>
+<Within sentence: Hada howa al public ta3 2018 Wella yheb kan al beuz w al rap ta3 al klach Rapek ki al dlam w y7abo rap mlawen kif ?? >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+187. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 44794-44795>
+<Within sentence: Hada howa al public ta3 2018 Wella yheb kan al beuz w al rap ta3 al klach Rapek ki al dlam w y7abo rap mlawen kif ?? >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+188. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 44860-44861>
+<Within sentence: Blasti f al rap kima Zlatan Kolha tetkelem w tseb w anti ki al soltan Lahna fi blad al cher rapi kima al chaytan T7inkom kan ja sla7 raho damer awtan >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+189. PP(95).  <Mixed PP: [f al rap]> <POS: PREP_DET_foreign>
+<TArC idx: 44860-44861>
+<Within sentence: Blasti f al rap kima Zlatan Kolha tetkelem w tseb w anti ki al soltan Lahna fi blad al cher rapi kima al chaytan T7inkom kan ja sla7 raho damer awtan >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+190. <Mixed NP: [al style]> <POS: DET_foreign>
+<TArC idx: 44907-44908>
+<Within sentence: Thabet titre twil yhabo titre 9sir Thabet titre 9sir yhabo titre twil Tekhdem new school ma ye3jebhomch al style Tekhdem old school y9olo mala 9dim >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+191. <Mixed NP: [al public]> <POS: DET_foreign>
+<TArC idx: 44925-44926>
+<Within sentence: Hadak 3lach nrapi lro7i mahich l al 3bad Khatak al public kima al zombi ta3 the walking dead Ynaber 3lik w yemchi yla7es kol al rappeurat Ma3ach te7kili mosika khatar al rap mat >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+192. <Mixed NP: [al zombi]> <POS: DET_foreign>
+<TArC idx: 44928-44929>
+<Within sentence: Hadak 3lach nrapi lro7i mahich l al 3bad Khatak al public kima al zombi ta3 the walking dead Ynaber 3lik w yemchi yla7es kol al rappeurat Ma3ach te7kili mosika khatar al rap mat >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+193. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 44946-44947>
+<Within sentence: Hadak 3lach nrapi lro7i mahich l al 3bad Khatak al public kima al zombi ta3 the walking dead Ynaber 3lik w yemchi yla7es kol al rappeurat Ma3ach te7kili mosika khatar al rap mat >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+194. <Mixed NP: [al mafia]> <POS: DET_foreign>
+<TArC idx: 44994-44995>
+<Within sentence: Netfeker wa9t li nekteb thérapie de choc Kont nhabet les paroles ki al mafia ta3 Bangkok A l’époque al rap kan kima al missile Tomahawk La munissions ma tewfach mazal 3endi stock >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+195. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 45000-45001>
+<Within sentence: Netfeker wa9t li nekteb thérapie de choc Kont nhabet les paroles ki al mafia ta3 Bangkok A l’époque al rap kan kima al missile Tomahawk La munissions ma tewfach mazal 3endi stock >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+196. <Mixed NP: [al missile]> <POS: DET_foreign>
+<TArC idx: 45004-45005>
+<Within sentence: Netfeker wa9t li nekteb thérapie de choc Kont nhabet les paroles ki al mafia ta3 Bangkok A l’époque al rap kan kima al missile Tomahawk La munissions ma tewfach mazal 3endi stock >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+197. <Mixed NP: [al media]> <POS: DET_foreign>
+<TArC idx: 45031-45032>
+<Within sentence: 7abit nweli artist w n3ich b la musique Al dawla redetni terroriste w 9atli yezik Honi al media w al politique al kolha t7areb fik >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+198. <Mixed NP: [al politique]> <POS: DET_foreign>
+<TArC idx: 45034-45035>
+<Within sentence: 7abit nweli artist w n3ich b la musique Al dawla redetni terroriste w 9atli yezik Honi al media w al politique al kolha t7areb fik >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+199. <Mixed NP: [Al public]> <POS: DET_foreign>
+<TArC idx: 45041-45042>
+<Within sentence: Al public yensa fisa3 khatro amnésique Rabi ya3lem tawa kifach rani chad al Mic Anti saket w ana n7areb f al dawla li khdatlek bayek >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+200. <Mixed NP: [al Mic]> <POS: DET_foreign>
+<TArC idx: 45053-45054>
+<Within sentence: Al public yensa fisa3 khatro amnésique Rabi ya3lem tawa kifach rani chad al Mic Anti saket w ana n7areb f al dawla li khdatlek bayek >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+201. <Mixed NP: [al publique]> <POS: DET_foreign>
+<TArC idx: 45099-45100>
+<Within sentence: Hadak 3lach ki tesma3 rapi ka2inha suicide Ki tesma3 titre ka2inek tetjera3 f l’acide Ched al publique al mdera7 na3malo génocide Li khella al dhab w mcha yesma3 rap kolo sdid >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+202. <Mixed NP: [al style]> <POS: DET_foreign>
+<TArC idx: 45122-45123>
+<Within sentence: Fi album Solide tchek habit nbedel al style Texte 9wi m3a al technique m3ah flow tayer Al public ma fhemch al 9alba 9a3ed yetferej 7ayer 7ata al public lazmo 3i9ab ntiri 3lih b chtayer >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+203. <Mixed NP: [al technique]> <POS: DET_foreign>
+<TArC idx: 45127-45128>
+<Within sentence: Fi album Solide tchek habit nbedel al style Texte 9wi m3a al technique m3ah flow tayer Al public ma fhemch al 9alba 9a3ed yetferej 7ayer 7ata al public lazmo 3i9ab ntiri 3lih b chtayer >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+204. PP(96).  <Mixed PP: [m3a al technique]> <POS: PREP_DET_foreign>
+<TArC idx: 45127-45128>
+<Within sentence: Fi album Solide tchek habit nbedel al style Texte 9wi m3a al technique m3ah flow tayer Al public ma fhemch al 9alba 9a3ed yetferej 7ayer 7ata al public lazmo 3i9ab ntiri 3lih b chtayer >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+205. <Mixed NP: [Al public]> <POS: DET_foreign>
+<TArC idx: 45132-45133>
+<Within sentence: Fi album Solide tchek habit nbedel al style Texte 9wi m3a al technique m3ah flow tayer Al public ma fhemch al 9alba 9a3ed yetferej 7ayer 7ata al public lazmo 3i9ab ntiri 3lih b chtayer >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+206. <Mixed NP: [al public]> <POS: DET_foreign>
+<TArC idx: 45142-45143>
+<Within sentence: Fi album Solide tchek habit nbedel al style Texte 9wi m3a al technique m3ah flow tayer Al public ma fhemch al 9alba 9a3ed yetferej 7ayer 7ata al public lazmo 3i9ab ntiri 3lih b chtayer >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+207. <Mixed NP: [al respect]> <POS: DET_foreign>
+<TArC idx: 45184-45185>
+<Within sentence: Cha 3melt b al respect wa ana 3la al canapé Netferej fi B.D wella rapport validé >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+208. PP(97).  <Mixed PP: [b al respect]> <POS: PREP_DET_foreign>
+<TArC idx: 45184-45185>
+<Within sentence: Cha 3melt b al respect wa ana 3la al canapé Netferej fi B.D wella rapport validé >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+209. <Mixed NP: [al canapé]> <POS: DET_foreign>
+<TArC idx: 45189-45190>
+<Within sentence: Cha 3melt b al respect wa ana 3la al canapé Netferej fi B.D wella rapport validé >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+210. PP(98).  <Mixed PP: [3la al canapé]> <POS: PREP_DET_foreign>
+<TArC idx: 45189-45190>
+<Within sentence: Cha 3melt b al respect wa ana 3la al canapé Netferej fi B.D wella rapport validé >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+211. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 45199-45200>
+<Within sentence: 2018 al rap wella qualité Zéro mellime w te7kili 3la l’identité Madfon ta7t al ard homa f les posters L’artiste tawa al 9ima ta3o f al carte bancaire >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+212. <Mixed NP: [al carte]> <POS: DET_foreign>
+<TArC idx: 45223-45224>
+<Within sentence: 2018 al rap wella qualité Zéro mellime w te7kili 3la l’identité Madfon ta7t al ard homa f les posters L’artiste tawa al 9ima ta3o f al carte bancaire >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+213. PP(99).  <Mixed PP: [f al carte]> <POS: PREP_DET_foreign>
+<TArC idx: 45223-45224>
+<Within sentence: 2018 al rap wella qualité Zéro mellime w te7kili 3la l’identité Madfon ta7t al ard homa f les posters L’artiste tawa al 9ima ta3o f al carte bancaire >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+214. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 45228-45229>
+<Within sentence: B al rap lazem ntela3 f al chiffre d’affaire Ma y9ale9nich tekrahni ki nweli millionnaire Bach ne7ki b sara7a bidoni nifa9 Al denya khelat al wahch li fi westi fa9 >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+215. PP(100).  <Mixed PP: [B al rap]> <POS: PREP_DET_foreign>
+<TArC idx: 45228-45229>
+<Within sentence: B al rap lazem ntela3 f al chiffre d’affaire Ma y9ale9nich tekrahni ki nweli millionnaire Bach ne7ki b sara7a bidoni nifa9 Al denya khelat al wahch li fi westi fa9 >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+216. <Mixed NP: [al chiffre]> <POS: DET_foreign>
+<TArC idx: 45233-45234>
+<Within sentence: B al rap lazem ntela3 f al chiffre d’affaire Ma y9ale9nich tekrahni ki nweli millionnaire Bach ne7ki b sara7a bidoni nifa9 Al denya khelat al wahch li fi westi fa9 >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+217. PP(101).  <Mixed PP: [f al chiffre]> <POS: PREP_DET_foreign>
+<TArC idx: 45233-45234>
+<Within sentence: B al rap lazem ntela3 f al chiffre d’affaire Ma y9ale9nich tekrahni ki nweli millionnaire Bach ne7ki b sara7a bidoni nifa9 Al denya khelat al wahch li fi westi fa9 >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+218. <Mixed NP: [al missile]> <POS: DET_foreign>
+<TArC idx: 45286-45287>
+<Within sentence: Psyco M le9dim lahna ma 3endochi afa9 Madam al dawla m3a al chaytan 3amla itifa9 9ader nrapi kol yom nhabet titre twil Sujet dangereux w klam ye9sef kima al missile >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+219. <Mixed NP: [al rap]> <POS: DET_foreign>
+<TArC idx: 45293-45294>
+<Within sentence: Rap nucléaire fi blad al rap li yemchi b al piles Cha n9edem cd fi snin lazem nbedel al style 9ader nched al Mic b al Rap naklo kima al wahch 3a al chok na9ef b hayba moch kifhom ma nfarga7ch >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+220. <Mixed NP: [al piles]> <POS: DET_foreign>
+<TArC idx: 45298-45299>
+<Within sentence: Rap nucléaire fi blad al rap li yemchi b al piles Cha n9edem cd fi snin lazem nbedel al style 9ader nched al Mic b al Rap naklo kima al wahch 3a al chok na9ef b hayba moch kifhom ma nfarga7ch >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+221. PP(102).  <Mixed PP: [b al piles]> <POS: PREP_DET_foreign>
+<TArC idx: 45298-45299>
+<Within sentence: Rap nucléaire fi blad al rap li yemchi b al piles Cha n9edem cd fi snin lazem nbedel al style 9ader nched al Mic b al Rap naklo kima al wahch 3a al chok na9ef b hayba moch kifhom ma nfarga7ch >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+222. <Mixed NP: [al style]> <POS: DET_foreign>
+<TArC idx: 45307-45308>
+<Within sentence: Rap nucléaire fi blad al rap li yemchi b al piles Cha n9edem cd fi snin lazem nbedel al style 9ader nched al Mic b al Rap naklo kima al wahch 3a al chok na9ef b hayba moch kifhom ma nfarga7ch >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+223. <Mixed NP: [al Mic]> <POS: DET_foreign>
+<TArC idx: 45311-45312>
+<Within sentence: Rap nucléaire fi blad al rap li yemchi b al piles Cha n9edem cd fi snin lazem nbedel al style 9ader nched al Mic b al Rap naklo kima al wahch 3a al chok na9ef b hayba moch kifhom ma nfarga7ch >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+224. <Mixed NP: [al Rap]> <POS: DET_foreign>
+<TArC idx: 45314-45315>
+<Within sentence: Rap nucléaire fi blad al rap li yemchi b al piles Cha n9edem cd fi snin lazem nbedel al style 9ader nched al Mic b al Rap naklo kima al wahch 3a al chok na9ef b hayba moch kifhom ma nfarga7ch >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+225. PP(103).  <Mixed PP: [b al Rap]> <POS: PREP_DET_foreign>
+<TArC idx: 45314-45315>
+<Within sentence: Rap nucléaire fi blad al rap li yemchi b al piles Cha n9edem cd fi snin lazem nbedel al style 9ader nched al Mic b al Rap naklo kima al wahch 3a al chok na9ef b hayba moch kifhom ma nfarga7ch >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+226. PP(104). <Mixed PP: [fel campi]> <POS: PREP+DET_foreign>
+<TArC idx: 45389-45390>
+<Within sentence: Tsma3ni tchikh moch lazem 3lik tpompi Kwaqeflek mokhek ki el mouwatine yatwaqef fel campi Rap ki el coupe du monde Cheditou w kheditou ki Mbappe Wel 3bed mazalt tgolek raw maya3refch yrappi >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+227. <Mixed NP: [el coupe]> <POS: DET_foreign>
+<TArC idx: 45393-45394>
+<Within sentence: Tsma3ni tchikh moch lazem 3lik tpompi Kwaqeflek mokhek ki el mouwatine yatwaqef fel campi Rap ki el coupe du monde Cheditou w kheditou ki Mbappe Wel 3bed mazalt tgolek raw maya3refch yrappi >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+228. <Mixed NP: [El paye]> <POS: DET_foreign>
+<TArC idx: 45416-45417>
+<Within sentence: Qader felil nkhalik tchouf el achba7 El paye sakta wenta tesma3 sout sya7 Na7kilek 3la sir el ahram li ma bnahech Fer3oun Qader nahkilek hata kifesh tkawen el koun >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+229. <Mixed NP: [El Big]> <POS: DET_foreign>
+<TArC idx: 45513-45514>
+<Within sentence: Les savants l kol 7arou Kol wehed 3ta vison 7ata lin Tal3et théorie de l’explosion El Big Bang w t7atet number one f la liste W qabloucha la majorité ta3 des cosmologistes >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+230. <Mixed NP: [al germes]> <POS: DET_foreign>
+<TArC idx: 45633-45634>
+<Within sentence: 9ader nahkilek al germes pathogènes Nahkilek aal ADN w 9ablou nahki aal les gènes Nahkilek b rap aandou nwemer ki tableau périodique Wala aal les bactéries w les microbes microscopiques >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+231. PP(105). <Mixed PP: [aal ADN]> <POS: PREP+DET_foreign>
+<TArC idx: 45637-45638>
+<Within sentence: 9ader nahkilek al germes pathogènes Nahkilek aal ADN w 9ablou nahki aal les gènes Nahkilek b rap aandou nwemer ki tableau périodique Wala aal les bactéries w les microbes microscopiques >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+232. PP(106). <Mixed PP: [aal les]> <POS: PREP+DET_foreign>
+<TArC idx: 45642-45643>
+<Within sentence: 9ader nahkilek al germes pathogènes Nahkilek aal ADN w 9ablou nahki aal les gènes Nahkilek b rap aandou nwemer ki tableau périodique Wala aal les bactéries w les microbes microscopiques >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+233. PP(107). <Mixed PP: [aal les]> <POS: PREP+DET_foreign>
+<TArC idx: 45654-45655>
+<Within sentence: 9ader nahkilek al germes pathogènes Nahkilek aal ADN w 9ablou nahki aal les gènes Nahkilek b rap aandou nwemer ki tableau périodique Wala aal les bactéries w les microbes microscopiques >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+234. PP(108). <Mixed PP: [aal l'équivalence]> <POS: PREP+DET_foreign>
+<TArC idx: 45668-45669>
+<Within sentence: Nahkilek anatomie , wela psychologie Wela aal l'équivalence matière énergie Wela parole yahkilek aala l relativité Fi titre kolou mlaweth radioactivité >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+235. <Mixed NP: [l relativité]> <POS: DET_foreign>
+<TArC idx: 45676-45677>
+<Within sentence: Nahkilek anatomie , wela psychologie Wela aal l'équivalence matière énergie Wela parole yahkilek aala l relativité Fi titre kolou mlaweth radioactivité >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+236. PP(109).  <Mixed PP: [aala l relativité]> <POS: PREP_DET_foreign>
+<TArC idx: 45676-45677>
+<Within sentence: Nahkilek anatomie , wela psychologie Wela aal l'équivalence matière énergie Wela parole yahkilek aala l relativité Fi titre kolou mlaweth radioactivité >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+237. PP(110). <Mixed PP: [Bl rap]> <POS: PREP+DET_foreign>
+<TArC idx: 45684-45685>
+<Within sentence: Bl rap 9ader nekteblek dars taa nucléaire aal les petites particules f la sturucture de la matière Protons , neutrons , électrons W nahkilek aal les quarks >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+238. PP(111). <Mixed PP: [aal les]> <POS: PREP+DET_foreign>
+<TArC idx: 45691-45692>
+<Within sentence: Bl rap 9ader nekteblek dars taa nucléaire aal les petites particules f la sturucture de la matière Protons , neutrons , électrons W nahkilek aal les quarks >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+239. PP(112). <Mixed PP: [aal les]> <POS: PREP+DET_foreign>
+<TArC idx: 45708-45709>
+<Within sentence: Bl rap 9ader nekteblek dars taa nucléaire aal les petites particules f la sturucture de la matière Protons , neutrons , électrons W nahkilek aal les quarks >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+240. PP(113). <Mixed PP: [bl rap]> <POS: PREP+DET_foreign>
+<TArC idx: 45721-45722>
+<Within sentence: Titre yaamel fusion nucléaire w yetfargaa fi darek 9ader bl rap nahkilek aal politique CIA , pétrole w assassin économique Prostitution , sexe >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+241. PP(114). <Mixed PP: [aal politique]> <POS: PREP+DET_foreign>
+<TArC idx: 45724-45725>
+<Within sentence: Titre yaamel fusion nucléaire w yetfargaa fi darek 9ader bl rap nahkilek aal politique CIA , pétrole w assassin économique Prostitution , sexe >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+242. PP(115). <Mixed PP: [aal la]> <POS: PREP+DET_foreign>
+<TArC idx: 45737-45738>
+<Within sentence: nahkilek aal la traffic Aala drog w slee7 w les produits pharmaceutiques 9ader nahkilek aala traffique taa les organes Nahkilek aala Rockefeller w la famille Morgan Nahkilek aal Bilderberg eli tohkem fl awtaan El public hyetou anime w ena nrapilou aala scan >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+243. <Mixed NP: [El public]> <POS: DET_foreign>
+<TArC idx: 45769-45770>
+<Within sentence: nahkilek aal la traffic Aala drog w slee7 w les produits pharmaceutiques 9ader nahkilek aala traffique taa les organes Nahkilek aala Rockefeller w la famille Morgan Nahkilek aal Bilderberg eli tohkem fl awtaan El public hyetou anime w ena nrapilou aala scan >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+244. PP(116). <Mixed PP: [bl rap]> <POS: PREP+DET_foreign>
+<TArC idx: 45780-45781>
+<Within sentence: 9ader bl rap nkharej titre analytique Mahoushi le président naatik chkoun li yohkem fik Nahkilek aal loubiatsl l aseemi w charikeet Nahkilek aal détails li saret fl ightiyaleet >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+245. PP(117). <Mixed PP: [aal détails]> <POS: PREP+DET_foreign>
+<TArC idx: 45801-45802>
+<Within sentence: 9ader bl rap nkharej titre analytique Mahoushi le président naatik chkoun li yohkem fik Nahkilek aal loubiatsl l aseemi w charikeet Nahkilek aal détails li saret fl ightiyaleet >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+246. PP(118). <Mixed PP: [fl media]> <POS: PREP+DET_foreign>
+<TArC idx: 45813-45814>
+<Within sentence: 9ader nahkilek aala chkoun yet7akem fl media aala l ahzeeb li tmawel w chkoun li hab yaamel coup d'état Aal les débutès kifech tetechree w tetbee3 B titre nahi aalehom l 9ine3 >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+247. PP(119). <Mixed PP: [Aal les]> <POS: PREP+DET_foreign>
+<TArC idx: 45827-45828>
+<Within sentence: 9ader nahkilek aala chkoun yet7akem fl media aala l ahzeeb li tmawel w chkoun li hab yaamel coup d'état Aal les débutès kifech tetechree w tetbee3 B titre nahi aalehom l 9ine3 >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+248. PP(120). <Mixed PP: [aal l'espionnage]> <POS: PREP+DET_foreign>
+<TArC idx: 45842-45843>
+<Within sentence: Na3kilek aal l'espionnage , mokhabaret w Mossad Aal ble kifeh tsayer fiha les ambassades Qader na7kilek aal thawra w chkoun houma el qanassa Na7kilek w ba3d titre f ras tjini rsassa >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+249. <Mixed NP: [el plastique]> <POS: DET_foreign>
+<TArC idx: 45883-45884>
+<Within sentence: Rap , flow , technique Ndawbek ki nar li tdaweb el plastique Mayhamnich fel public Khater ki tih tjes yweli ytestik >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+250. PP(121). <Mixed PP: [fel public]> <POS: PREP+DET_foreign>
+<TArC idx: 45886-45887>
+<Within sentence: Rap , flow , technique Ndawbek ki nar li tdaweb el plastique Mayhamnich fel public Khater ki tih tjes yweli ytestik >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+251. <Mixed NP: [el rap]> <POS: DET_foreign>
+<TArC idx: 45896-45897>
+<Within sentence: Bdit el rap f 99 El waqt fi sa3 ma yejri wsalna 2018 Men awal star el qalam yekteb fi klam rzine El hourouf tanqeb el warqa ki el cratches li fel Kalash >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+252. <Mixed NP: [el cratches]> <POS: DET_foreign>
+<TArC idx: 45923-45924>
+<Within sentence: Bdit el rap f 99 El waqt fi sa3 ma yejri wsalna 2018 Men awal star el qalam yekteb fi klam rzine El hourouf tanqeb el warqa ki el cratches li fel Kalash >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+253. PP(122). <Mixed PP: [fel Kalash]> <POS: PREP+DET_foreign>
+<TArC idx: 45926-45927>
+<Within sentence: Bdit el rap f 99 El waqt fi sa3 ma yejri wsalna 2018 Men awal star el qalam yekteb fi klam rzine El hourouf tanqeb el warqa ki el cratches li fel Kalash >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+254. <Mixed NP: [el rap]> <POS: DET_foreign>
+<TArC idx: 45954-45955>
+<Within sentence: Public yahreq les artistes Wella kil benzine , el rap wella chantage Lazem thabét ma tebtach Entouma li dfentou el fen w qteltou el kalimet Zra3tou elahfa lin rap wella industrie >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+255. <Mixed NP: [el rap]> <POS: DET_foreign>
+<TArC idx: 45984-45985>
+<Within sentence: Maghir ma tsaffeq w tafre7 khater el rap mat Kol youm yahbet clip jdid , t7el tessma3 connerie >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+256. PP(123). <Mixed PP: [mel rap]> <POS: PREP+DET_foreign>
+<TArC idx: 46043-46044>
+<Within sentence: B’tbi3ti akaher 3.00 f la Tunisie Bled kelba qetletni kima l’euthanaisie Fedit mel rap ta7t trab N7eb nossel l top Nkhalikom t3oumou fi hofra w hajej l Europe >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+257. <Mixed NP: [l top]> <POS: DET_foreign>
+<TArC idx: 46049-46050>
+<Within sentence: B’tbi3ti akaher 3.00 f la Tunisie Bled kelba qetletni kima l’euthanaisie Fedit mel rap ta7t trab N7eb nossel l top Nkhalikom t3oumou fi hofra w hajej l Europe >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+258. <Mixed NP: [l Europe]> <POS: DET_foreign>
+<TArC idx: 46057-46058>
+<Within sentence: B’tbi3ti akaher 3.00 f la Tunisie Bled kelba qetletni kima l’euthanaisie Fedit mel rap ta7t trab N7eb nossel l top Nkhalikom t3oumou fi hofra w hajej l Europe >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+259. <Mixed NP: [el public]> <POS: DET_foreign>
+<TArC idx: 46103-46104>
+<Within sentence: Hyati kamla nrappi kima el meyt fel bhar Daye3t hyati 3la el public li bia ghder Had ma y7és bik waqt li temchi 3al jmar T7éb to93ed faqir ghanilhom 3al 3ibar >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+260. PP(124).  <Mixed PP: [3la el public]> <POS: PREP_DET_foreign>
+<TArC idx: 46103-46104>
+<Within sentence: Hyati kamla nrappi kima el meyt fel bhar Daye3t hyati 3la el public li bia ghder Had ma y7és bik waqt li temchi 3al jmar T7éb to93ed faqir ghanilhom 3al 3ibar >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+261. <Mixed NP: [el rap]> <POS: DET_foreign>
+<TArC idx: 46178-46179>
+<Within sentence: Qalbi mat w tawa nrappi bila nadem Kol star yetekteb stylo yaqter dem Inside titre 7zine , plume kolo alam Ama el youm el rap mta3i yaghli bel 7imam >
+<Genre: rap>
+<Users' metadata:> <origin:Tunis> <age:25-35> <gender:M>
+
+
+262. <Mixed NP: [el président]> <POS: DET_foreign>
+<TArC idx: 46229-46230>
+<Within sentence: nahdiha lil mes2oulin ou zid monsieur el président , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+263. PP(125). <Mixed PP: [bil mensonge]> <POS: PREP+DET_foreign>
+<TArC idx: 46386-46387>
+<Within sentence: tchoufha hypnotiser bil mensonge mta3 les médias , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+264. PP(126). <Mixed PP: [bil collefort]> <POS: PREP+DET_foreign>
+<TArC idx: 46510-46511>
+<Within sentence: weld 14 snè ta7t el 7it bil collefort , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+265. PP(127). <Mixed PP: [fil papiermouchoir]> <POS: PREP+DET_foreign>
+<TArC idx: 46653-46654>
+<Within sentence: ou 5wetne fil mitrouwet ybi3ou fil papiermouchoir , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+266. <Mixed NP: [el message]> <POS: DET_foreign>
+<TArC idx: 46732-46733>
+<Within sentence: l lezmik tefhem el message , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+267. PP(128). <Mixed PP: [bil kartouch]> <POS: PREP+DET_foreign>
+<TArC idx: 46802-46803>
+<Within sentence: kifeh tousil tadhrab wled bledik bil kartouch , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+268. PP(129). <Mixed PP: [bil publicité]> <POS: PREP+DET_foreign>
+<TArC idx: 46814-46815>
+<Within sentence: wil bref houwa illi nchoufou fi télé m3ébye bil publicité me ta7kich la vérité , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+269. PP(130). <Mixed PP: [mil camouflage]> <POS: PREP+DET_foreign>
+<TArC idx: 46823-46824>
+<Within sentence: feddina mil camouflage mta3 nachra el mese2iya , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+270. PP(131). <Mixed PP: [mil les]> <POS: PREP+DET_foreign>
+<TArC idx: 46832-46833>
+<Within sentence: feddine mil les monsonges ou lou8a el 5achebiya , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+271. PP(132). <Mixed PP: [bil proxy]> <POS: PREP+DET_foreign>
+<TArC idx: 46948-46949>
+<Within sentence: dimo9ratiya lyoum 3aycha bil proxy , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+272. <Mixed NP: [l montalité]> <POS: DET_foreign>
+<TArC idx: 47005-47006>
+<Within sentence: lezem 3andik l montalité psyco-m , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+273. PP(133). <Mixed PP: [fil faculté]> <POS: PREP+DET_foreign>
+<TArC idx: 47306-47307>
+<Within sentence: t2ejjij moudhahart fil faculté ou lycééyet , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+274. PP(134). <Mixed PP: [3al les]> <POS: PREP+DET_foreign>
+<TArC idx: 47372-47373>
+<Within sentence: yfajjar fi chi3arat ou ychajja3 3al les degats , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+275. PP(135). <Mixed PP: [fil europe]> <POS: PREP+DET_foreign>
+<TArC idx: 47491-47492>
+<Within sentence: 8adi 3aychin fil europe , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+276. <Mixed NP: [el molotov]> <POS: DET_foreign>
+<TArC idx: 47647-47648>
+<Within sentence: o9robli tal9a demi ya7ra9 kime el molotov , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+277. PP(136). <Mixed PP: [mil vcttn]> <POS: PREP+DET_foreign>
+<TArC idx: 47778-47779>
+<Within sentence: ou techri mil vcttn , >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:25-35> <gender:M>
+
+
+278. <Mixed NP: [el route]> <POS: DET_foreign>
+<TArC idx: 47985-47986>
+<Within sentence: Yeah N7eb nched el route w negleb el manadher >
+<Genre: rap>
+<Users' metadata:> <origin:/> <age:/> <gender:/>
+
+
