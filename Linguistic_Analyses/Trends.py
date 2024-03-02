@@ -36,7 +36,7 @@ def upload(filename="", path = path):
     
     return df, date, words, ara, pos, toks, loc, age, gend 
         
-df, date, words, ara, pos, toks, loc, age, gend = upload(filename = "\\tarc.tsv", path = path)
+df, date, words, ara, pos, toks, loc, age, gend = upload(filename = "tarc.tsv", path = path)
 
 # =============================================================================         
 # --------------------------------------------------------------------------
@@ -594,7 +594,7 @@ def Coronal():
     fCor.close() 
     fNCor.close() 
 
-#Coronal() un comment this command to print a txt file with all the NP which include Ns starting with a coronal                                     
+#Coronal() uncomment this command to print a txt file with all the NP which include Ns starting with a coronal                                     
 #Txt file has been manually checked and:
 #if assimilation has been represented in Arabizi, the phrase has been markes with _yes
 #if assimilation has not been represented in Arabizi, the phrase has been marked with _no
@@ -632,7 +632,7 @@ def Count(ss):
            
 
 def Analyze(): #internal analysis of NPs with coronals 
-    d_analyzed, idx, tok, arabish, pos, analysis = Analysisupload(filename="\\annotated_Coronals.tsv", path = path)
+    d_analyzed, idx, tok, arabish, pos, analysis = Analysisupload(filename="annotated_coronals.tsv", path = path)
     #yes = analysis.count('_yes') #269 |  #no = analysis.count('_no') #190 | #ab = analysis.count('_abs') #19
 
     ss = []
@@ -1043,25 +1043,19 @@ def PearsonChi2Meta():
     print(f'\nThe Pearson’s chi-square test of age data presents a p_value is {p}, being: {round(p_value, 2)}')
 
 
-#Percentages() #To visualize the arithmographemes precentages, uncomment this command and run the file
-
-#lk = CompDiachrony(verbose = True) #To visualize the PP patterns uncomment this command and run
-#PearsonChi2(verbose = True)   #To visualize the Pearson coeff. between years and PP patterns uncomment this command and run
-
-#PearsonChi2PP(verbose = True)  #To visualize the Pearson coef between assimilation rendering and participation of a PP run this command 
-#PearsonChi2SP(verbose = True) # -0.80285419 To plot (and table 1.17)
-
-
-#ssd, nnd =  diachronicAssim(verbose = True) #To visualize GR diachronic percentages (table 1.18), run this command
-#PearsonChi2Y(verbose = True) #To visualiza the correlation between graphical assimilation and years     
-
-#PearsonChi2Meta() #To visualize the diastratic percentages uncomment this command and run
+def main():
+	Percentages() #To visualize the arithmographemes precentages
+	lk = CompDiachrony(verbose = True) #To visualize the PP patterns 
+	PearsonChi2(verbose = True)   #To visualize the Pearson coeff. between years and PP patterns
+	PearsonChi2PP(verbose = True)  #To visualize the Pearson coef between assimilation rendering and participation of a PP  
+	PearsonChi2SP(verbose = True) # -0.80285419 To plot (and table 1.17)
+	ssd, nnd =  diachronicAssim(verbose = True) #To visualize GR diachronic percentages (table 1.18)
+	PearsonChi2Y(verbose = True) #To visualiza the correlation between graphical assimilation and years     
+	PearsonChi2Meta() #To visualize the diastratic percentages
 
 
+if __name__ == "__main__":
+    main()
 
 
 
-
-        
-
- 

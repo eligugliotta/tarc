@@ -22,7 +22,7 @@ Created on Fri Sep 10 16:13:32 2021
 import pandas as pd 
 path = r""
 from scipy.stats import chi2_contingency
-from QuasiOralityAnalyses import starter
+from Quasi_orality import starter
 
 def upload(filename="", path = path):
     tsv = path+filename
@@ -40,12 +40,9 @@ def upload(filename="", path = path):
     
     return df, date, words, ara, pos, toks, tipo, loc, age, gend 
         
-df, date, words, ara, pos, toks, tipo, loc, age, gend  = upload(filename = "\\tarc.tsv", path = path )
-
-
 # ============================================================================= 
 
-def Bounds(tokenIDX):
+def Bounds(tokenIDX, pos):
     i = 1
     stop = 0
     b = []
@@ -67,7 +64,7 @@ def Bounds(tokenIDX):
       
     return b[0], b[1]
 
-def DetFor(): 
+def DetFor(pos): 
     idxLis = []
     count = 1
     for x, y in enumerate(pos):
@@ -75,14 +72,14 @@ def DetFor():
         if 'DET' in y and 'foreign' in pos[x+1]: 
             if 'NOUN' not in y: 
                 if len(y) == 1:
-                    start, end = Bounds(x)
+                    start, end = Bounds(x, pos)
                     idxLis.append((x, start,end))                
                 if len(y) <= 2 and y[0] == 'PREP': 
-                    start, end = Bounds(x)
+                    start, end = Bounds(x, pos)
                     idxLis.append((x, start,end, count))
                     count += 1
                 if pos[x-1] == 'PREP': 
-                    start, end = Bounds(x)
+                    start, end = Bounds(x, pos)
                     idxLis.append((x, start,end, 'p',count))
                     count += 1
         
@@ -91,7 +88,7 @@ def DetFor():
  
             
 def Write():
-    idxLis = DetFor()
+    idxLis = DetFor(pos)
     output_file = path+'\\Det_followed_by_foreign.txt'
     f = open(output_file, 'w', encoding='utf-8')
     count = 1
@@ -180,9 +177,9 @@ def Print():
 #__________________PEARSON CHI2.________________________________________________
 
 
-def PearsonData(): 
-    _, _, _, _, _, _, idxsNCS = starter(PP=True, codeSw = True) #lista di indici di tutti i PPs (dal QuasiOralityAnalisi file)
-    idxLis = DetFor()
+def PearsonData(ara, toks, pos, words): 
+    _, _, _, _, _, _, idxsNCS = starter(ara, toks, pos, words, PP=True, codeSw = True) #lista di indici di tutti i PPs (dal QuasiOralityAnalisi file)
+    idxLis = DetFor(pos)
     NPs = [] #Not-Code-Sw = 0, Code-Sw = 1
     Gen = [] #M =0, F =1, / = 2
     Txt = [] #Social =0, Forum =1, Blog =2 
@@ -240,9 +237,9 @@ def PearsonData():
     
     return Pdf
 
-def PearsonChi2(verbose = True, Gend = True):
+def PearsonChi2(ara, toks, pos, words, verbose = True, Gend = True):
     
-    pdf = PearsonData()
+    pdf = PearsonData(ara, toks, pos, words)
     if Gend:             
         x_ = pdf['Switching']
         y_ = pdf['Sex']
@@ -287,6 +284,14 @@ def PearsonChi2(verbose = True, Gend = True):
         #plt.xlabel("Switching")
         #plt.show() 
 
-#PearsonChi2(verbose = True, Gend = True) #data dependence between code-switched NPs and Gender
-#PearsonChi2(verbose = True, Gend = False) # data dependence between code-switched NPs and textual gender
 
+def main():
+
+	df, date, words, ara, pos, toks, tipo, loc, age, gend  = upload(filename = "tarc.tsv", path=path)
+	
+	PearsonChi2(ara, toks, pos, words, verbose = True, Gend = True) #data dependence between code-switched NPs and Gender
+	PearsonChi2(ara, toks, pos, words, verbose = True, Gend = False) # data dependence between code-switched NPs and textual gender
+
+df, date, words, ara, pos, toks, tipo, loc, age, gend  = upload(filename = "tarc.tsv", path=path)
+if __name__ == "__main__":
+    main()

@@ -13,13 +13,13 @@ Created on Wed Dec  1 16:54:19 2021
 # -------------------------------------------------------------------------
 # | This script is set to work on the tarc data totality (file tarc.tsv)  |
 # -------------------------------------------------------------------------
-import pandas as pd 
+#import argparse
+import pandas as pd
 import matplotlib.pyplot as plt
-path1 = r""
 from Trends import Analyze
 
-def upload(filename="", path = path1):
-    tsv = path+filename
+def upload(filename, path):
+    tsv = path + filename
     df = pd.read_csv(tsv, sep="\t", encoding='utf-8').astype(str)
 
     date = list(df['data'])
@@ -33,10 +33,8 @@ def upload(filename="", path = path1):
     gend = list(df['gender'])
           
     return df, date, words, ara, pos, toks, tipo, loc, age, gend 
-        
-df, date, words, ara, pos, toks, tipo, loc, age, gend  = upload(filename = "\\TArC.tsv", path = path1)
 
-def GenraSplit(): 
+def GenraSplit(tipo, ara, pos):
     SN, forum, blog = {'ara':[], 'pos':[]}, {'ara':[], 'pos':[]}, {'ara':[], 'pos':[]}
     
     for x, y in enumerate(tipo):
@@ -53,7 +51,6 @@ def GenraSplit():
     return SN, forum, blog
 
 def Count(lis): 
-    
     interj, emot, final_p = 0, 0, 0
     for x, y in enumerate(lis): 
         if y == 'emotag':
@@ -64,10 +61,8 @@ def Count(lis):
             final_p += 1
             
     return interj, emot, final_p
-        
-def Write(): 
-    SN, forum, blog = GenraSplit()
-    
+
+def Write(SN, forum, blog):
     Sinterj, Semot, Sfinal_p = Count(SN['pos'])
     Finterj, Femot, Ffinal_p = Count(forum['pos'])
     Binterj, Bemot, Bfinal_p = Count(blog['pos'])
@@ -112,12 +107,10 @@ def Write():
     ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
     
     plt.show()
-Write()       
 
 #____________NP distibution___________________________
-print('\nNominal Phrase distribution through text genders\n')
 
-def reductio(): 
+def reductio(tipo):
     forum = []
     blog = []
     social = []
@@ -135,37 +128,31 @@ def reductio():
     
     return forum, blog, social
 
-
 #the function returns 3 lists of indices of the same length as the blogs for the three types
-def File(social, forum, blog): 
-    #social, forum, blog, _ = find()
-    
-    file = path1+'\\textgenre_NPdistribution.txt'
+def File(social, forum, blog, path):
+    file = path + '\\textgenre_NPdistribution.txt'
     
     f = open(file, 'w', encoding='utf-8')
-    f.write('The following are the NPs of tipe [prep+det n] found in blogs:\n\n')
+    f.write('The following are the NPs of type [prep+det n] found in blogs:\n\n')
     for x, y in enumerate(blog): 
         f.write(f'<idx: {y[0]}> <NP: {y[2]}> <POS: {y[3]}>\n\n')
     
     f.write('\n\t***********************************************\n')
-    f.write('The following are the NPs of tipe [prep+det n] found in social:\n\n')
+    f.write('The following are the NPs of type [prep+det n] found in social:\n\n')
     for x, y in enumerate(social): 
         f.write(f'<idx: {y[0]}> <NP: {y[2]}>  <POS: {y[3]}>\n\n')
         
     f.write('\n\t***********************************************\n')
-    f.write('The following are the NPs of tipe [prep+det n] found in forums:\n\n')
+    f.write('The following are the NPs of type [prep+det n] found in forums:\n\n')
     for x, y in enumerate(forum): 
         f.write(f'<idx: {y[0]}> <NP: {y[2]}>  <POS: {y[3]}>\n\n')
    
-    
     f.close() 
 
-def find():
-    #prepSS, spaceSS, prepNN, spaceNN = Analyze()
-    forum, blog, social = reductio()
+def find(tipo, path):
+    forum, blog, social = reductio(tipo)
     _, spaceSS, _, spaceNN, _, _ = Analyze()
     s, f, b, n = [], [], [], []
-    #s1, f1, b1, n1 = [], [], [], []
     
     for x, y in enumerate(spaceNN): 
         if int(spaceNN[x][0]) in social:
@@ -178,7 +165,7 @@ def find():
             n.append(y)
             
     print(f' NP in social: {round(len(s)*100/len(spaceNN),2)}%,\n NP in forums: {round(len(f)*100/len(spaceNN),2)}%,\n NP in blogs: {round(len(b)*100/len(spaceNN),2)}%')
-    File(s, f, b)
+    File(s, f, b, path)
     
     # Pie chart for table 4.37 DP with space:
     labels = 'Social', 'Forum', 'Blog', 'Others'
@@ -193,6 +180,18 @@ def find():
     plt.show()
     return s, f, b, n
 
-s, f, b, n = find() 
+def main():
+    path1 = r""
+    filename = "tarc.tsv"
+    df, date, words, ara, pos, toks, tipo, loc, age, gend = upload(filename, path1)
+    
+    SN, forum, blog = GenraSplit(tipo, ara, pos)
+    Write(SN, forum, blog)
+    
+    print('\nNominal Phrase distribution through text genders\n')
+    s, f, b, n = find(tipo, path1)
+
+if __name__ == "__main__":
+    main()
 
 

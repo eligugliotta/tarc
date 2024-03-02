@@ -35,7 +35,7 @@ def upload(filename="", path = path1):
           
     return df, date, words, ara, pos, toks, tipo, loc, age, gend 
         
-df, date, words, ara, pos, toks, tipo, loc, age, gend  = upload(filename = "\\TArC.tsv", path = path1)
+df, date, words, ara, pos, toks, tipo, loc, age, gend  = upload(filename = "tarc.tsv", path = path1)
 
 # =============================================================================         
 # --------------------------------------------------------------------------
@@ -228,7 +228,12 @@ def Write():
     plt.show()
 
 
-print("\n_________________GENDER OPPOSITION ANALYSIS_______________________________\n")
-Print()
-print("\n_________________Assimilation of -w plural morpheme in weak verbs_________\n")
-Write()
+def main():
+
+    print("\n_________________GENDER OPPOSITION ANALYSIS_______________________________\n")
+    Print()
+    print("\n_________________Assimilation of -w plural morpheme in weak verbs_________\n")
+    Write()
+    
+if __name__ == "__main__":
+    main()

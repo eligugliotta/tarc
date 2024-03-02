@@ -45,8 +45,8 @@ def upload(filename="", path = path1, end= 38918, rap = False):
           
     return df, date, words, ara, pos, toks, tipo, loc, age, gend 
         
-df, date, words, ara, pos, toks, tipo, loc, age, gend  = upload(filename = "\\TArC.tsv", path = path1, end= 38918, rap = False)
-dfR, dateR, wordsR, araR, posR, toksR, tipoR, locR, ageR, gendR  = upload(filename = "\\TArC.tsv", path = path1, end= 38919, rap = True) #only rap data
+df, date, words, ara, pos, toks, tipo, loc, age, gend  = upload(filename = "tarc.tsv", path = path1, end= 38918, rap = False)
+dfR, dateR, wordsR, araR, posR, toksR, tipoR, locR, ageR, gendR  = upload(filename = "tarc.tsv", path = path1, end= 38919, rap = True) #only rap data
 
 # =============================================================================         
 # --------------------------------------------------------------------------
@@ -428,10 +428,13 @@ def RapWrite():
     print('The percentage of token (from rap data) encoded with g is '+ str(round(len(gala)*100/tot,2))+'%')
     print('The percentage of token (from rap data) encoded with q/9 is '+ str(round(len(qala)*100/tot,2))+'%')
     
-    
-#DiatopicWrite(verbose=True)
-#GenderWrite()
-#RapWrite()
 
+def main():
+    DiatopicWrite(verbose=True)
+    GenderWrite()
+    RapWrite()
+
+if __name__ == "__main__":
+    main()
 
 

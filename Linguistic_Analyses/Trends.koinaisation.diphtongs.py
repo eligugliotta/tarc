@@ -36,7 +36,7 @@ def upload(filename="", path = path1):
           
     return df, date, words, ara, pos, toks, tipo, loc, age, gend 
         
-df, date, words, ara, pos, toks, tipo, loc, age, gend  = upload(filename = "\\TArC.tsv", path = path1)
+df, date, words, ara, pos, toks, tipo, loc, age, gend  = upload(filename = "tarc.tsv", path = path1)
 
 
 # =============================================================================         
@@ -340,7 +340,11 @@ def GenderWrite():
     
     plt.show()
    
-    
-DiatopicWrite(verbose=True)
-GenderWrite()
 
+def main():
+  
+    DiatopicWrite(verbose=True)
+    GenderWrite()
+
+if __name__ == "__main__":
+    main()
